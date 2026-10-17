@@ -1,9 +1,9 @@
 {
   "decade": "1970–1979",
-  "status": "pending_user_review",
+  "status": "reviewed",
   "selection_limit": 50,
   "proposed_count": 50,
-  "approved_count": 0,
+  "approved_count": 13,
   "prepared_on": "2026-10-17",
   "ranking": "Editorial recommendation order. Original batch numbers remain stable for every reviewer.",
   "selection_criteria": [
@@ -25,7 +25,7 @@
       "link": "https://www.imdb.com/title/tt0068098/",
       "imdb_id": "tt0068098",
       "edition": "Live-action television series; the 1970 feature film is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/M%2AA%2AS%2AH_%28TV_series%29",
@@ -48,7 +48,7 @@
       "link": "https://www.imdb.com/title/tt0070992/",
       "imdb_id": "tt0070992",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Happy_Days",
@@ -71,7 +71,7 @@
       "link": "https://www.imdb.com/title/tt0077053/",
       "imdb_id": "tt0077053",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Mork_%26_Mindy",
@@ -94,7 +94,7 @@
       "link": "https://www.imdb.com/title/tt0066626/",
       "imdb_id": "tt0066626",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/All_in_the_Family",
@@ -123,7 +123,7 @@
       "link": "https://www.imdb.com/title/tt0065314/",
       "imdb_id": "tt0065314",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Mary_Tyler_Moore_Show",
@@ -146,7 +146,7 @@
       "link": "https://www.imdb.com/title/tt0077089/",
       "imdb_id": "tt0077089",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Taxi_%28TV_series%29",
@@ -169,7 +169,7 @@
       "link": "https://www.imdb.com/title/tt0075596/",
       "imdb_id": "tt0075596",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Three%27s_Company",
@@ -192,7 +192,7 @@
       "link": "https://www.imdb.com/title/tt0074016/",
       "imdb_id": "tt0074016",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Laverne_%26_Shirley",
@@ -215,7 +215,7 @@
       "link": "https://www.imdb.com/title/tt0068128/",
       "imdb_id": "tt0068128",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Sanford_and_Son",
@@ -238,7 +238,7 @@
       "link": "https://www.imdb.com/title/tt0072519/",
       "imdb_id": "tt0072519",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Jeffersons",
@@ -261,7 +261,7 @@
       "link": "https://www.imdb.com/title/tt0070991/",
       "imdb_id": "tt0070991",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Good_Times",
@@ -284,7 +284,7 @@
       "link": "https://www.imdb.com/title/tt0068049/",
       "imdb_id": "tt0068049",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Bob_Newhart_Show",
@@ -307,7 +307,7 @@
       "link": "https://www.imdb.com/title/tt0065329/",
       "imdb_id": "tt0065329",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Odd_Couple_%281970_TV_series%29",
@@ -330,7 +330,7 @@
       "link": "https://www.imdb.com/title/tt0075584/",
       "imdb_id": "tt0075584",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Soap_%28TV_series%29",
@@ -353,7 +353,7 @@
       "link": "https://www.imdb.com/title/tt0077097/",
       "imdb_id": "tt0077097",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/WKRP_in_Cincinnati",
@@ -376,7 +376,7 @@
       "link": "https://www.imdb.com/title/tt0072472/",
       "imdb_id": "tt0072472",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Barney_Miller",
@@ -399,7 +399,7 @@
       "link": "https://www.imdb.com/title/tt0072582/",
       "imdb_id": "tt0072582",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Welcome_Back%2C_Kotter",
@@ -422,7 +422,7 @@
       "link": "https://www.imdb.com/title/tt0072562/",
       "imdb_id": "tt0072562",
       "edition": "Live-action scripted sketch comedy series. It is included for its sketch format, like Monty Python; it is not an animation or talk-show entry.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
@@ -445,7 +445,7 @@
       "link": "https://www.imdb.com/title/tt0072500/",
       "imdb_id": "tt0072500",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Fawlty_Towers",
@@ -468,7 +468,7 @@
       "link": "https://www.imdb.com/title/tt0068040/",
       "imdb_id": "tt0068040",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Are_You_Being_Served%3F",
@@ -491,7 +491,7 @@
       "link": "https://www.imdb.com/title/tt0071054/",
       "imdb_id": "tt0071054",
       "edition": "Original series. Premiere includes its feature-length 1973 pilot under the rule permitting feature-length series episodes. Regular episodes began January 18, 1974. Pilots are not additional catalogue entries.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Six_Million_Dollar_Man",
@@ -517,7 +517,7 @@
       "link": "https://www.imdb.com/title/tt0073965/",
       "imdb_id": "tt0073965",
       "edition": "Original 1976 series record, not a separate pilot, reunion film, or the later remake.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Bionic_Woman",
@@ -543,7 +543,7 @@
       "link": "https://www.imdb.com/title/tt0074074/",
       "imdb_id": "tt0074074",
       "edition": "Lynda Carter series, including its 1975 feature-length pilot; the separate 1974 Cathy Lee Crosby film is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Wonder_Woman_%28TV_series%29",
@@ -566,7 +566,7 @@
       "link": "https://www.imdb.com/title/tt0077031/",
       "imdb_id": "tt0077031",
       "edition": "Original series including the feature-length 1977 pilot; later reunion films are excluded.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_%281978_TV_series%29",
@@ -589,7 +589,7 @@
       "link": "https://www.imdb.com/title/tt0076984/",
       "imdb_id": "tt0076984",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_%281978_TV_series%29",
@@ -612,7 +612,7 @@
       "link": "https://www.imdb.com/title/tt0078579/",
       "imdb_id": "tt0078579",
       "edition": "Television series record. Premiere is its television debut, not the earlier theatrical release of the pilot.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Buck_Rogers_in_the_25th_Century_%28TV_series%29",
@@ -635,7 +635,7 @@
       "link": "https://www.imdb.com/title/tt0063962/",
       "imdb_id": "tt0063962",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/UFO_%28British_TV_series%29",
@@ -658,7 +658,7 @@
       "link": "https://www.imdb.com/title/tt0072564/",
       "imdb_id": "tt0072564",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Space%3A_1999",
@@ -681,7 +681,7 @@
       "link": "https://www.imdb.com/title/tt0071003/",
       "imdb_id": "tt0071003",
       "edition": "Original 1974 episodic series. The earlier standalone Night Stalker and Night Strangler television movies are excluded.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Kolchak%3A_The_Night_Stalker",
@@ -704,7 +704,7 @@
       "link": "https://www.imdb.com/title/tt0071042/",
       "imdb_id": "tt0071042",
       "edition": "Original television series including its March 1974 pilot; later reunion films are not separate entries here.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Rockford_Files",
@@ -730,7 +730,7 @@
       "link": "https://www.imdb.com/title/tt0072567/",
       "imdb_id": "tt0072567",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Starsky_%26_Hutch",
@@ -756,7 +756,7 @@
       "link": "https://www.imdb.com/title/tt0073972/",
       "imdb_id": "tt0073972",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels",
@@ -779,7 +779,7 @@
       "link": "https://www.imdb.com/title/tt0077000/",
       "imdb_id": "tt0077000",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Dallas_%28TV_series%29",
@@ -802,7 +802,7 @@
       "link": "https://www.imdb.com/title/tt0068149/",
       "imdb_id": "tt0068149",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Waltons",
@@ -825,7 +825,7 @@
       "link": "https://www.imdb.com/title/tt0071007/",
       "imdb_id": "tt0071007",
       "edition": "Original television series including its March 1974 pilot; post-series television movies are excluded.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_%281974_TV_series%29",
@@ -851,7 +851,7 @@
       "link": "https://www.imdb.com/title/tt0078607/",
       "imdb_id": "tt0078607",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Dukes_of_Hazzard",
@@ -874,7 +874,7 @@
       "link": "https://www.imdb.com/title/tt0075529/",
       "imdb_id": "tt0075529",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Love_Boat",
@@ -897,7 +897,7 @@
       "link": "https://www.imdb.com/title/tt0077008/",
       "imdb_id": "tt0077008",
       "edition": "Original series including the January 1977 feature-length pilot. Regular episodes began January 28, 1978; later revivals are separate editions.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Fantasy_Island",
@@ -923,7 +923,7 @@
       "link": "https://www.imdb.com/title/tt0075572/",
       "imdb_id": "tt0075572",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Roots_%281977_miniseries%29",
@@ -946,7 +946,7 @@
       "link": "https://www.imdb.com/title/tt0074006/",
       "imdb_id": "tt0074006",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/I%2C_Claudius_%28TV_series%29",
@@ -972,7 +972,7 @@
       "link": "https://www.imdb.com/title/tt0080297/",
       "imdb_id": "tt0080297",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy_%28TV_series%29",
@@ -995,7 +995,7 @@
       "link": "https://www.imdb.com/title/tt0079844/",
       "imdb_id": "tt0079844",
       "edition": "Original two-part 1979 television miniseries, not a shortened feature-film edit or a later film adaptation.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Salem%27s_Lot_%281979_miniseries%29",
@@ -1021,7 +1021,7 @@
       "link": "https://www.imdb.com/title/tt0071075/",
       "imdb_id": "tt0071075",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_World_at_War",
@@ -1047,7 +1047,7 @@
       "link": "https://www.imdb.com/title/tt0135095/",
       "imdb_id": "tt0135095",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Life_on_Earth_%28TV_series%29",
@@ -1073,7 +1073,7 @@
       "link": "https://www.imdb.com/title/tt0078588/",
       "imdb_id": "tt0078588",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Connections_%28British_TV_series%29",
@@ -1096,7 +1096,7 @@
       "link": "https://www.imdb.com/title/tt0068120/",
       "imdb_id": "tt0068120",
       "edition": "1972 revival beginning with Bob Barker. This is a distinct format and series from the approved 1956 Bill Cullen edition.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right",
@@ -1125,7 +1125,7 @@
       "link": "https://www.imdb.com/title/tt1577766/",
       "imdb_id": "tt1577766",
       "edition": "Original 1975 network daytime series, beginning with Chuck Woolery. The separately indexed 1983 syndicated edition is not this entry.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29",
@@ -1154,7 +1154,7 @@
       "link": "https://www.imdb.com/title/tt0073991/",
       "imdb_id": "tt0073991",
       "edition": "Original Richard Dawson ABC daytime edition, 1976–1985. Later revivals are separate editions.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Family_Feud",
@@ -1183,7 +1183,7 @@
       "link": "https://www.imdb.com/title/tt0069608/",
       "imdb_id": "tt0069608",
       "edition": "Gene Rayburn CBS revival beginning in 1973, not the original 1962 programme. Annual numbers in its title do not create separate series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Match_Game",
@@ -1212,7 +1212,7 @@
       "link": "https://www.imdb.com/title/tt0185049/",
       "imdb_id": "tt0185049",
       "edition": "Dick Clark network daytime edition beginning in 1973 and continuing through 1980. The move from CBS to ABC and prize increase to $20,000 are part of this continuous version.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Pyramid_%28game_show%29",
@@ -1229,5 +1229,8 @@
         "source": "https://en.wikipedia.org/wiki/Pyramid_%28game_show%29"
       }
     }
-  ]
+  ],
+  "declined_count": 37,
+  "reviewed_on": "2026-10-17",
+  "review_history": "../reviews/1970s.json"
 }
