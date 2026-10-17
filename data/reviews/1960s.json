@@ -1,0 +1,381 @@
+{
+  "decade": "1960–1969",
+  "reviewed_on": "2026-10-17",
+  "reviewer": "repository_owner",
+  "original_batch_size": 50,
+  "original_batch_data_sha": "981b7eca7a4a91555992cad866bb9f1bf8f7549f",
+  "original_batch_archive": "../../RAW/1960s.md",
+  "original_data_archive": "../../RAW/data/1960s.json",
+  "approved_original_ranks": [
+    1,
+    2,
+    4,
+    6,
+    7,
+    8,
+    10,
+    13,
+    14,
+    22,
+    23,
+    24,
+    26,
+    31,
+    42,
+    44
+  ],
+  "approved_count": 16,
+  "declined_count": 34,
+  "decisions": [
+    {
+      "recommendation_rank": 1,
+      "title": "Star Trek: The Original Series",
+      "imdb_id": "tt0060028",
+      "link": "https://www.imdb.com/title/tt0060028/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Doctor Who",
+      "imdb_id": "tt0056751",
+      "link": "https://www.imdb.com/title/tt0056751/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "The Outer Limits",
+      "imdb_id": "tt0056777",
+      "link": "https://www.imdb.com/title/tt0056777/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "The Alfred Hitchcock Hour",
+      "imdb_id": "tt0055657",
+      "link": "https://www.imdb.com/title/tt0055657/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "The Prisoner",
+      "imdb_id": "tt0061287",
+      "link": "https://www.imdb.com/title/tt0061287/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "The Dick Van Dyke Show",
+      "imdb_id": "tt0054533",
+      "link": "https://www.imdb.com/title/tt0054533/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "The Andy Griffith Show",
+      "imdb_id": "tt0053479",
+      "link": "https://www.imdb.com/title/tt0053479/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "Columbo",
+      "imdb_id": "tt1466074",
+      "link": "https://www.imdb.com/title/tt1466074/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "The Addams Family",
+      "imdb_id": "tt0057729",
+      "link": "https://www.imdb.com/title/tt0057729/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "The Munsters",
+      "imdb_id": "tt0057773",
+      "link": "https://www.imdb.com/title/tt0057773/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "Bewitched",
+      "imdb_id": "tt0057733",
+      "link": "https://www.imdb.com/title/tt0057733/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "I Dream of Jeannie",
+      "imdb_id": "tt0058815",
+      "link": "https://www.imdb.com/title/tt0058815/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "Batman",
+      "imdb_id": "tt0059968",
+      "link": "https://www.imdb.com/title/tt0059968/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Mission: Impossible",
+      "imdb_id": "tt0060009",
+      "link": "https://www.imdb.com/title/tt0060009/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "Gilligan's Island",
+      "imdb_id": "tt0057751",
+      "link": "https://www.imdb.com/title/tt0057751/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Get Smart",
+      "imdb_id": "tt0058805",
+      "link": "https://www.imdb.com/title/tt0058805/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "The Avengers",
+      "imdb_id": "tt0054518",
+      "link": "https://www.imdb.com/title/tt0054518/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "The Fugitive",
+      "imdb_id": "tt0056757",
+      "link": "https://www.imdb.com/title/tt0056757/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "The Saint",
+      "imdb_id": "tt0055701",
+      "link": "https://www.imdb.com/title/tt0055701/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "The Beverly Hillbillies",
+      "imdb_id": "tt0055662",
+      "link": "https://www.imdb.com/title/tt0055662/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "Green Acres",
+      "imdb_id": "tt0058808",
+      "link": "https://www.imdb.com/title/tt0058808/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "The Brady Bunch",
+      "imdb_id": "tt0063878",
+      "link": "https://www.imdb.com/title/tt0063878/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "The Lucy Show",
+      "imdb_id": "tt0055686",
+      "link": "https://www.imdb.com/title/tt0055686/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "Here's Lucy",
+      "imdb_id": "tt0062570",
+      "link": "https://www.imdb.com/title/tt0062570/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "My Favorite Martian",
+      "imdb_id": "tt0056775",
+      "link": "https://www.imdb.com/title/tt0056775/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Lost in Space",
+      "imdb_id": "tt0058824",
+      "link": "https://www.imdb.com/title/tt0058824/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "The Man from U.N.C.L.E.",
+      "imdb_id": "tt0057765",
+      "link": "https://www.imdb.com/title/tt0057765/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "The Wild Wild West",
+      "imdb_id": "tt0058855",
+      "link": "https://www.imdb.com/title/tt0058855/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "The Invaders",
+      "imdb_id": "tt0061265",
+      "link": "https://www.imdb.com/title/tt0061265/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "The Time Tunnel",
+      "imdb_id": "tt0060036",
+      "link": "https://www.imdb.com/title/tt0060036/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Monty Python's Flying Circus",
+      "imdb_id": "tt0063929",
+      "link": "https://www.imdb.com/title/tt0063929/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "Hogan's Heroes",
+      "imdb_id": "tt0058812",
+      "link": "https://www.imdb.com/title/tt0058812/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "Gomer Pyle, U.S.M.C.",
+      "imdb_id": "tt0057752",
+      "link": "https://www.imdb.com/title/tt0057752/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "Hawaii Five-O",
+      "imdb_id": "tt0062568",
+      "link": "https://www.imdb.com/title/tt0062568/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Danger Man (Secret Agent)",
+      "imdb_id": "tt0053496",
+      "link": "https://www.imdb.com/title/tt0053496/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "Thriller",
+      "imdb_id": "tt0053546",
+      "link": "https://www.imdb.com/title/tt0053546/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "That Girl",
+      "imdb_id": "tt0060034",
+      "link": "https://www.imdb.com/title/tt0060034/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "The Patty Duke Show",
+      "imdb_id": "tt0056778",
+      "link": "https://www.imdb.com/title/tt0056778/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Dad's Army",
+      "imdb_id": "tt0062552",
+      "link": "https://www.imdb.com/title/tt0062552/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "Steptoe and Son",
+      "imdb_id": "tt0057785",
+      "link": "https://www.imdb.com/title/tt0057785/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "Candid Camera",
+      "imdb_id": "tt0053489",
+      "link": "https://www.imdb.com/title/tt0053489/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Jeopardy!",
+      "imdb_id": "tt0057758",
+      "link": "https://www.imdb.com/title/tt0057758/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "Password",
+      "imdb_id": "tt0054560",
+      "link": "https://www.imdb.com/title/tt0054560/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "Let's Make a Deal",
+      "imdb_id": "tt0056770",
+      "link": "https://www.imdb.com/title/tt0056770/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Hollywood Squares",
+      "imdb_id": "tt0059995",
+      "link": "https://www.imdb.com/title/tt0059995/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "The Newlywed Game",
+      "imdb_id": "tt0129702",
+      "link": "https://www.imdb.com/title/tt0129702/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "The Dating Game",
+      "imdb_id": "tt0058795",
+      "link": "https://www.imdb.com/title/tt0058795/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Mutual of Omaha’s Wild Kingdom",
+      "imdb_id": "tt0121949",
+      "link": "https://www.imdb.com/title/tt0121949/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Civilisation",
+      "imdb_id": "tt0264234",
+      "link": "https://www.imdb.com/title/tt0264234/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "The Great War",
+      "imdb_id": "tt0057753",
+      "link": "https://www.imdb.com/title/tt0057753/",
+      "decision": "declined"
+    }
+  ]
+}
