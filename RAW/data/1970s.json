@@ -1,0 +1,1233 @@
+{
+  "decade": "1970–1979",
+  "status": "pending_user_review",
+  "selection_limit": 50,
+  "proposed_count": 50,
+  "approved_count": 0,
+  "prepared_on": "2026-10-17",
+  "ranking": "Editorial recommendation order. Original batch numbers remain stable for every reviewer.",
+  "selection_criteria": [
+    "Worth watching today",
+    "Strong reputation and lasting appeal",
+    "A reason to recommend beyond historical importance"
+  ],
+  "raw_archive": "../../RAW/1970s.md",
+  "shows": [
+    {
+      "recommendation_rank": 1,
+      "title": "M*A*S*H",
+      "original_air_date": "1972-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068098/",
+      "imdb_id": "tt0068098",
+      "edition": "Live-action television series; the 1970 feature film is excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/M%2AA%2AS%2AH_%28TV_series%29",
+          "revision": 1379120711
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068098/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Happy Days",
+      "original_air_date": "1974-01-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0070992/",
+      "imdb_id": "tt0070992",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Happy_Days",
+          "revision": 1380710192
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0070992/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "Mork & Mindy",
+      "original_air_date": "1978-09-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077053/",
+      "imdb_id": "tt0077053",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mork_%26_Mindy",
+          "revision": 1379372365
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077053/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "All in the Family",
+      "original_air_date": "1971-01-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0066626/",
+      "imdb_id": "tt0066626",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/All_in_the_Family",
+          "revision": 1379073876
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0066626/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1784/all-in-the-family"
+        },
+        {
+          "url": "https://interviews.televisionacademy.com/shows/all-in-the-family"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "The Mary Tyler Moore Show",
+      "original_air_date": "1970-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0065314/",
+      "imdb_id": "tt0065314",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Mary_Tyler_Moore_Show",
+          "revision": 1379346557
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0065314/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "Taxi",
+      "original_air_date": "1978-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077089/",
+      "imdb_id": "tt0077089",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taxi_%28TV_series%29",
+          "revision": 1378194383
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077089/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "Three's Company",
+      "original_air_date": "1977-03-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0075596/",
+      "imdb_id": "tt0075596",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Three%27s_Company",
+          "revision": 1380512545
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0075596/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "Laverne & Shirley",
+      "original_air_date": "1976-01-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0074016/",
+      "imdb_id": "tt0074016",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Laverne_%26_Shirley",
+          "revision": 1379455811
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0074016/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "Sanford and Son",
+      "original_air_date": "1972-01-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068128/",
+      "imdb_id": "tt0068128",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sanford_and_Son",
+          "revision": 1380584323
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068128/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "The Jeffersons",
+      "original_air_date": "1975-01-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072519/",
+      "imdb_id": "tt0072519",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Jeffersons",
+          "revision": 1379366963
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072519/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "Good Times",
+      "original_air_date": "1974-02-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0070991/",
+      "imdb_id": "tt0070991",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Good_Times",
+          "revision": 1379365455
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0070991/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "The Bob Newhart Show",
+      "original_air_date": "1972-09-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068049/",
+      "imdb_id": "tt0068049",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Bob_Newhart_Show",
+          "revision": 1375580776
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068049/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "The Odd Couple",
+      "original_air_date": "1970-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0065329/",
+      "imdb_id": "tt0065329",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Odd_Couple_%281970_TV_series%29",
+          "revision": 1380151873
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0065329/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Soap",
+      "original_air_date": "1977-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0075584/",
+      "imdb_id": "tt0075584",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Soap_%28TV_series%29",
+          "revision": 1373712288
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0075584/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "WKRP in Cincinnati",
+      "original_air_date": "1978-09-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077097/",
+      "imdb_id": "tt0077097",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/WKRP_in_Cincinnati",
+          "revision": 1380099200
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077097/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Barney Miller",
+      "original_air_date": "1975-01-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072472/",
+      "imdb_id": "tt0072472",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Barney_Miller",
+          "revision": 1379802969
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072472/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "Welcome Back, Kotter",
+      "original_air_date": "1975-09-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072582/",
+      "imdb_id": "tt0072582",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Welcome_Back%2C_Kotter",
+          "revision": 1373514612
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072582/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "Saturday Night Live",
+      "original_air_date": "1975-10-11",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072562/",
+      "imdb_id": "tt0072562",
+      "edition": "Live-action scripted sketch comedy series. It is included for its sketch format, like Monty Python; it is not an animation or talk-show entry.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
+          "revision": 1380504028
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072562/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "Fawlty Towers",
+      "original_air_date": "1975-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0072500/",
+      "imdb_id": "tt0072500",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fawlty_Towers",
+          "revision": 1379329414
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072500/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Are You Being Served?",
+      "original_air_date": "1972-09-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0068040/",
+      "imdb_id": "tt0068040",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Are_You_Being_Served%3F",
+          "revision": 1380112666
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068040/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "The Six Million Dollar Man",
+      "original_air_date": "1973-03-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0071054/",
+      "imdb_id": "tt0071054",
+      "edition": "Original series. Premiere includes its feature-length 1973 pilot under the rule permitting feature-length series episodes. Regular episodes began January 18, 1974. Pilots are not additional catalogue entries.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Six_Million_Dollar_Man",
+          "revision": 1376676052
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0071054/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1500/the-six-million-dollar-man"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "The Bionic Woman",
+      "original_air_date": "1976-01-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0073965/",
+      "imdb_id": "tt0073965",
+      "edition": "Original 1976 series record, not a separate pilot, reunion film, or the later remake.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Bionic_Woman",
+          "revision": 1379357216
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0073965/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2140/the-bionic-woman"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "Wonder Woman",
+      "original_air_date": "1975-11-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0074074/",
+      "imdb_id": "tt0074074",
+      "edition": "Lynda Carter series, including its 1975 feature-length pilot; the separate 1974 Cathy Lee Crosby film is excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wonder_Woman_%28TV_series%29",
+          "revision": 1368624422
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0074074/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "The Incredible Hulk",
+      "original_air_date": "1977-11-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077031/",
+      "imdb_id": "tt0077031",
+      "edition": "Original series including the feature-length 1977 pilot; later reunion films are excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Incredible_Hulk_%281978_TV_series%29",
+          "revision": 1376974864
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077031/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Battlestar Galactica",
+      "original_air_date": "1978-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0076984/",
+      "imdb_id": "tt0076984",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_%281978_TV_series%29",
+          "revision": 1368622489
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0076984/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Buck Rogers in the 25th Century",
+      "original_air_date": "1979-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0078579/",
+      "imdb_id": "tt0078579",
+      "edition": "Television series record. Premiere is its television debut, not the earlier theatrical release of the pilot.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buck_Rogers_in_the_25th_Century_%28TV_series%29",
+          "revision": 1368622847
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0078579/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "UFO",
+      "original_air_date": "1970-09-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0063962/",
+      "imdb_id": "tt0063962",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/UFO_%28British_TV_series%29",
+          "revision": 1380126436
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0063962/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Space: 1999",
+      "original_air_date": "1975-09-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0072564/",
+      "imdb_id": "tt0072564",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Space%3A_1999",
+          "revision": 1379564266
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072564/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "Kolchak: The Night Stalker",
+      "original_air_date": "1974-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0071003/",
+      "imdb_id": "tt0071003",
+      "edition": "Original 1974 episodic series. The earlier standalone Night Stalker and Night Strangler television movies are excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kolchak%3A_The_Night_Stalker",
+          "revision": 1380084170
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0071003/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "The Rockford Files",
+      "original_air_date": "1974-03-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0071042/",
+      "imdb_id": "tt0071042",
+      "edition": "Original television series including its March 1974 pilot; later reunion films are not separate entries here.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Rockford_Files",
+          "revision": 1379940841
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0071042/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/832/the-rockford-files"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Starsky & Hutch",
+      "original_air_date": "1975-04-30",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072567/",
+      "imdb_id": "tt0072567",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Starsky_%26_Hutch",
+          "revision": 1378737227
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072567/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/5487/starsky-hutch"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "Charlie's Angels",
+      "original_air_date": "1976-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0073972/",
+      "imdb_id": "tt0073972",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels",
+          "revision": 1376981834
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0073972/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "Dallas",
+      "original_air_date": "1978-04-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077000/",
+      "imdb_id": "tt0077000",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dallas_%28TV_series%29",
+          "revision": 1378053412
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077000/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "The Waltons",
+      "original_air_date": "1972-09-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068149/",
+      "imdb_id": "tt0068149",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Waltons",
+          "revision": 1375737029
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068149/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Little House on the Prairie",
+      "original_air_date": "1974-03-30",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0071007/",
+      "imdb_id": "tt0071007",
+      "edition": "Original television series including its March 1974 pilot; post-series television movies are excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_%281974_TV_series%29",
+          "revision": 1380718770
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0071007/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2075/little-house-on-the-prairie"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "The Dukes of Hazzard",
+      "original_air_date": "1979-01-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0078607/",
+      "imdb_id": "tt0078607",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Dukes_of_Hazzard",
+          "revision": 1374472555
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0078607/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "The Love Boat",
+      "original_air_date": "1977-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0075529/",
+      "imdb_id": "tt0075529",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Love_Boat",
+          "revision": 1372838339
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0075529/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "Fantasy Island",
+      "original_air_date": "1977-01-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077008/",
+      "imdb_id": "tt0077008",
+      "edition": "Original series including the January 1977 feature-length pilot. Regular episodes began January 28, 1978; later revivals are separate editions.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fantasy_Island",
+          "revision": 1376997949
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077008/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/6315/fantasy-island"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Roots",
+      "original_air_date": "1977-01-23",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0075572/",
+      "imdb_id": "tt0075572",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roots_%281977_miniseries%29",
+          "revision": 1374578563
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0075572/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "I, Claudius",
+      "original_air_date": "1976-09-20",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0074006/",
+      "imdb_id": "tt0074006",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/I%2C_Claudius_%28TV_series%29",
+          "revision": 1380355736
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0074006/"
+        },
+        {
+          "url": "https://www.bfi.org.uk/lists/10-great-british-tv-shows-1976"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "Tinker Tailor Soldier Spy",
+      "original_air_date": "1979-09-10",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0080297/",
+      "imdb_id": "tt0080297",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy_%28TV_series%29",
+          "revision": 1379186736
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0080297/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Salem's Lot",
+      "original_air_date": "1979-11-17",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0079844/",
+      "imdb_id": "tt0079844",
+      "edition": "Original two-part 1979 television miniseries, not a shortened feature-film edit or a later film adaptation.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Salem%27s_Lot_%281979_miniseries%29",
+          "revision": 1379626316
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0079844/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/14111/salems-lot"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "The World at War",
+      "original_air_date": "1973-10-31",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0071075/",
+      "imdb_id": "tt0071075",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_World_at_War",
+          "revision": 1368630228
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0071075/"
+        },
+        {
+          "url": "https://www.bloomsbury.com/uk/world-at-war-9781844577170/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "Life on Earth",
+      "original_air_date": "1979-01-16",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0135095/",
+      "imdb_id": "tt0135095",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Life_on_Earth_%28TV_series%29",
+          "revision": 1378377028
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0135095/"
+        },
+        {
+          "url": "https://downloads.bbc.co.uk/historyofthebbc/1970s.pdf"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Connections",
+      "original_air_date": "1978-10-17",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0078588/",
+      "imdb_id": "tt0078588",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Connections_%28British_TV_series%29",
+          "revision": 1378377795
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0078588/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "The Price Is Right",
+      "original_air_date": "1972-09-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068120/",
+      "imdb_id": "tt0068120",
+      "edition": "1972 revival beginning with Bob Barker. This is a distinct format and series from the approved 1956 Bill Cullen edition.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right",
+          "revision": 1380649859
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068120/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1972-09-04/ongoing",
+        "assessment": "The 1972 revival itself exceeds five seasons.",
+        "source": "https://en.wikipedia.org/wiki/The_Price_Is_Right"
+      }
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "Wheel of Fortune",
+      "original_air_date": "1975-01-06",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1577766/",
+      "imdb_id": "tt1577766",
+      "edition": "Original 1975 network daytime series, beginning with Chuck Woolery. The separately indexed 1983 syndicated edition is not this entry.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29",
+          "revision": 1380636230
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1577766/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1975-01-06/1991-09-20",
+        "assessment": "Original network daytime run exceeds five seasons without the 1983 syndicated edition.",
+        "source": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29"
+      }
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Family Feud",
+      "original_air_date": "1976-07-12",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0073991/",
+      "imdb_id": "tt0073991",
+      "edition": "Original Richard Dawson ABC daytime edition, 1976–1985. Later revivals are separate editions.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "revision": 1380741726
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0073991/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1976-07-12/1985-06-14",
+        "assessment": "Nine seasons of the original ABC daytime run; no later revival seasons required.",
+        "source": "https://en.wikipedia.org/wiki/Family_Feud"
+      }
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Match Game",
+      "original_air_date": "1973-07-02",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0069608/",
+      "imdb_id": "tt0069608",
+      "edition": "Gene Rayburn CBS revival beginning in 1973, not the original 1962 programme. Annual numbers in its title do not create separate series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Match_Game",
+          "revision": 1377036997
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0069608/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1973-07-02/1979-04-20",
+        "assessment": "Six seasons of the CBS revival alone; no 1962 original or later syndication seasons required.",
+        "source": "https://en.wikipedia.org/wiki/Match_Game"
+      }
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "The $10,000 Pyramid",
+      "original_air_date": "1973-03-26",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0185049/",
+      "imdb_id": "tt0185049",
+      "edition": "Dick Clark network daytime edition beginning in 1973 and continuing through 1980. The move from CBS to ABC and prize increase to $20,000 are part of this continuous version.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pyramid_%28game_show%29",
+          "revision": 1377991438
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0185049/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1973-03-26/1980-06-27",
+        "assessment": "The continuous original CBS/ABC daytime version exceeds five seasons; later revivals are excluded from this check.",
+        "source": "https://en.wikipedia.org/wiki/Pyramid_%28game_show%29"
+      }
+    }
+  ]
+}
