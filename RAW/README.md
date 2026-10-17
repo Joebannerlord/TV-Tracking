@@ -6,6 +6,7 @@ Full recommendation batches are preserved here before applying an individual rev
 - [1970–1979 — all 50 recommendations](1970s.md) · [original data and sources](data/1970s.json)
 - [1980–1989 — all 50 recommendations](1980s.md) · [original data and sources](data/1980s.json)
 - [1990–1999 — all 50 recommendations](1990s.md) · [original data and sources](data/1990s.json)
+- [1990–1999 — yearly shortlist, 121 recommendations](1990s-by-year.md) · [debut years, decisions and sources](data/1990s-by-year.json)
 - [2000–2009 — first batch, picks 1–50](2000s.md) · [original data and sources](data/2000s.json)
 - [2000–2009 — second batch, picks 51–100](2000s-batch-2.md) · [original data and sources](data/2000s-batch-2.json)
 - [2000–2009 — third batch, picks 101–150](2000s-batch-3.md) · [original data and sources](data/2000s-batch-3.json)

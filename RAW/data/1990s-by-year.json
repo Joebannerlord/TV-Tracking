@@ -1,0 +1,3381 @@
+{
+  "decade": "1990–1999",
+  "format": "original_debut_year_shortlists",
+  "status": "yearly_review_snapshot",
+  "prepared_on": "2026-10-17",
+  "proposed_count": 121,
+  "previously_approved_count": 40,
+  "pending_count": 81,
+  "previous_declines_respected": 10,
+  "selection_rule": "Relevant recommendations per original debut year, with no fixed quota. One entry per distinct series or edition.",
+  "previous_batch_archive": "../1990s.md",
+  "previous_review_history": "../../data/reviews/1990s.json",
+  "counts_by_year": {
+    "1990": 12,
+    "1991": 7,
+    "1992": 9,
+    "1993": 14,
+    "1994": 8,
+    "1995": 15,
+    "1996": 15,
+    "1997": 14,
+    "1998": 17,
+    "1999": 10
+  },
+  "shows": [
+    {
+      "title": "Twin Peaks",
+      "original_air_date": "1990-04-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098936/",
+      "imdb_id": "tt0098936",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Twin_Peaks",
+          "revision": 1379798802
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098936/"
+        }
+      ],
+      "original_recommendation_rank": 31,
+      "debut_year": 1990
+    },
+    {
+      "title": "The Fresh Prince of Bel-Air",
+      "original_air_date": "1990-09-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098800/",
+      "imdb_id": "tt0098800",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air",
+          "revision": 1380641983
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098800/"
+        }
+      ],
+      "original_recommendation_rank": 3,
+      "debut_year": 1990
+    },
+    {
+      "title": "Law & Order",
+      "original_air_date": "1990-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098844/",
+      "imdb_id": "tt0098844",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Law_%26_Order",
+          "revision": 1380662819
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098844/"
+        }
+      ],
+      "original_recommendation_rank": 34,
+      "debut_year": 1990
+    },
+    {
+      "title": "Mr. Bean",
+      "original_air_date": "1990-01-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0096657/",
+      "imdb_id": "tt0096657",
+      "edition": "Original live-action comedy, not the animated spin-off or standalone films.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mr._Bean",
+          "revision": 1379963461
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0096657/"
+        }
+      ],
+      "original_recommendation_rank": 42,
+      "debut_year": 1990
+    },
+    {
+      "title": "House of Cards",
+      "debut_year": 1990,
+      "original_air_date": "1990-11-18",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0098825",
+      "link": "https://www.imdb.com/title/tt0098825/",
+      "edition": "Original British television miniseries; not the later American adaptation.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_of_Cards_(British_TV_series)",
+          "revision": 1371741524
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098825/"
+        }
+      ],
+      "display_title": "House of Cards (UK)"
+    },
+    {
+      "title": "One Foot in the Grave",
+      "debut_year": 1990,
+      "original_air_date": "1990-01-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0098882",
+      "link": "https://www.imdb.com/title/tt0098882/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/One_Foot_in_the_Grave",
+          "revision": 1376994004
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098882/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7753/one-foot-in-the-grave"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7753"
+        }
+      ]
+    },
+    {
+      "title": "Wings",
+      "debut_year": 1990,
+      "original_air_date": "1990-04-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0098948",
+      "link": "https://www.imdb.com/title/tt0098948/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wings_(1990_TV_series)",
+          "revision": 1380171020
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098948/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1510/wings"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1510"
+        }
+      ],
+      "display_title": "Wings (US sitcom)"
+    },
+    {
+      "title": "In Living Color",
+      "debut_year": 1990,
+      "original_air_date": "1990-04-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0098830",
+      "link": "https://www.imdb.com/title/tt0098830/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/In_Living_Color",
+          "revision": 1378713700
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098830/"
+        }
+      ]
+    },
+    {
+      "title": "Beverly Hills, 90210",
+      "original_air_date": "1990-10-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098749/",
+      "imdb_id": "tt0098749",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beverly_Hills%2C_90210",
+          "revision": 1379132041
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098749/"
+        }
+      ],
+      "original_recommendation_rank": 38,
+      "debut_year": 1990
+    },
+    {
+      "title": "Blossom",
+      "debut_year": 1990,
+      "original_air_date": "1990-07-05",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0101050",
+      "link": "https://www.imdb.com/title/tt0101050/",
+      "edition": "Original American sitcom including the aired 1990 pilot; later seasons remain part of the same edition.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Blossom_(American_TV_series)",
+          "revision": 1379688897
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101050/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1248/blossom"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1248"
+        }
+      ]
+    },
+    {
+      "title": "The Trials of Life",
+      "debut_year": 1990,
+      "original_air_date": "1990-10-03",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0133318",
+      "link": "https://www.imdb.com/title/tt0133318/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Trials_of_Life",
+          "revision": 1380253637
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0133318/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/13069/the-trials-of-life-a-natural-history-of-behaviour"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/13069"
+        }
+      ]
+    },
+    {
+      "title": "The Crystal Maze",
+      "debut_year": 1990,
+      "original_air_date": "1990-02-15",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0098774",
+      "link": "https://www.imdb.com/title/tt0098774/",
+      "edition": "Original British game-show edition, six series; later revival does not repeat the original entry.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Crystal_Maze",
+          "revision": 1380615333
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098774/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4713/the-crystal-maze"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4713"
+        }
+      ],
+      "display_title": "The Crystal Maze (original UK edition)",
+      "qualifying_original_season_count": 6
+    },
+    {
+      "title": "Home Improvement",
+      "original_air_date": "1991-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0101120/",
+      "imdb_id": "tt0101120",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Home_Improvement_%28TV_series%29",
+          "revision": 1377372062
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101120/"
+        }
+      ],
+      "original_recommendation_rank": 4,
+      "debut_year": 1991
+    },
+    {
+      "title": "Prime Suspect",
+      "debut_year": 1991,
+      "original_air_date": "1991-04-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0098898",
+      "link": "https://www.imdb.com/title/tt0098898/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Prime_Suspect",
+          "revision": 1373242918
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098898/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1282/prime-suspect"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1282"
+        }
+      ],
+      "display_title": "Prime Suspect (UK)"
+    },
+    {
+      "title": "Bottom",
+      "debut_year": 1991,
+      "original_air_date": "1991-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0103376",
+      "link": "https://www.imdb.com/title/tt0103376/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bottom_(TV_series)",
+          "revision": 1380569150
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103376/"
+        }
+      ]
+    },
+    {
+      "title": "Eerie, Indiana",
+      "debut_year": 1991,
+      "original_air_date": "1991-09-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0101088",
+      "link": "https://www.imdb.com/title/tt0101088/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eerie%2C_Indiana",
+          "revision": 1377940022
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101088/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/6499/eerie-indiana"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/6499"
+        }
+      ]
+    },
+    {
+      "title": "Are You Afraid of the Dark?",
+      "original_air_date": "1991-10-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0103352/",
+      "imdb_id": "tt0103352",
+      "edition": "Original live-action anthology record; the later separately indexed revival is not this entry.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Are_You_Afraid_of_the_Dark%3F",
+          "revision": 1380413373
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103352/"
+        }
+      ],
+      "premiere_source_note": "Cached broadcast source dates the pilot October 25, 1991; IMDb indexes the series from 1990. Both dates are within this decade. Resolve the exact first-airing conflict before treating the date as final.",
+      "original_air_date_status": "provisional_conflicting_records",
+      "original_recommendation_rank": 30,
+      "debut_year": 1991
+    },
+    {
+      "title": "Clarissa Explains It All",
+      "debut_year": 1991,
+      "original_air_date": "1991-03-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0101065",
+      "link": "https://www.imdb.com/title/tt0101065/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Clarissa_Explains_It_All",
+          "revision": 1377306418
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101065/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4274/clarissa-explains-it-all"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4274"
+        }
+      ]
+    },
+    {
+      "title": "Step by Step",
+      "debut_year": 1991,
+      "original_air_date": "1991-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0101205",
+      "link": "https://www.imdb.com/title/tt0101205/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Step_by_Step_(TV_series)",
+          "revision": 1376395779
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101205/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2085/step-by-step"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/2085"
+        }
+      ]
+    },
+    {
+      "title": "Highlander: The Series",
+      "original_air_date": "1992-10-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "Canada",
+        "France"
+      ],
+      "link": "https://www.imdb.com/title/tt0103442/",
+      "imdb_id": "tt0103442",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Highlander%3A_The_Series",
+          "revision": 1378297854
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103442/"
+        }
+      ],
+      "original_recommendation_rank": 26,
+      "debut_year": 1992
+    },
+    {
+      "title": "The Larry Sanders Show",
+      "debut_year": 1992,
+      "original_air_date": "1992-08-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0103466",
+      "link": "https://www.imdb.com/title/tt0103466/",
+      "edition": "Scripted workplace sitcom set around a fictional talk show.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Larry_Sanders_Show",
+          "revision": 1374280947
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103466/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4521/the-larry-sanders-show"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4521"
+        }
+      ]
+    },
+    {
+      "title": "Absolutely Fabulous",
+      "debut_year": 1992,
+      "original_air_date": "1992-11-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0105929",
+      "link": "https://www.imdb.com/title/tt0105929/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Absolutely_Fabulous",
+          "revision": 1380715539
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105929/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1054/absolutely-fabulous"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1054"
+        }
+      ]
+    },
+    {
+      "title": "Mad About You",
+      "debut_year": 1992,
+      "original_air_date": "1992-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0103484",
+      "link": "https://www.imdb.com/title/tt0103484/",
+      "edition": "Original live-action sitcom including continuing revival seasons as one edition.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mad_About_You",
+          "revision": 1375621036
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103484/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1115/mad-about-you"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1115"
+        }
+      ]
+    },
+    {
+      "title": "A Touch of Frost",
+      "debut_year": 1992,
+      "original_air_date": "1992-12-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0108967",
+      "link": "https://www.imdb.com/title/tt0108967/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/A_Touch_of_Frost",
+          "revision": 1374972565
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108967/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/6259/a-touch-of-frost"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/6259"
+        }
+      ]
+    },
+    {
+      "title": "Martin",
+      "debut_year": 1992,
+      "original_air_date": "1992-08-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0103488",
+      "link": "https://www.imdb.com/title/tt0103488/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Martin_(TV_series)",
+          "revision": 1378372730
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103488/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7903/martin"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7903"
+        }
+      ]
+    },
+    {
+      "title": "Picket Fences",
+      "debut_year": 1992,
+      "original_air_date": "1992-09-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0103512",
+      "link": "https://www.imdb.com/title/tt0103512/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Picket_Fences",
+          "revision": 1368625664
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103512/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1165/picket-fences"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1165"
+        }
+      ]
+    },
+    {
+      "title": "As Time Goes By",
+      "debut_year": 1992,
+      "original_air_date": "1992-01-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0105943",
+      "link": "https://www.imdb.com/title/tt0105943/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/As_Time_Goes_By_(TV_series)",
+          "revision": 1376346531
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105943/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/9728/as-time-goes-by"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/9728"
+        }
+      ]
+    },
+    {
+      "title": "Men Behaving Badly",
+      "debut_year": 1992,
+      "original_air_date": "1992-02-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0101143",
+      "link": "https://www.imdb.com/title/tt0101143/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Men_Behaving_Badly",
+          "revision": 1379507481
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101143/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4708/men-behaving-badly"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4708"
+        }
+      ],
+      "display_title": "Men Behaving Badly (UK)"
+    },
+    {
+      "title": "Frasier",
+      "original_air_date": "1993-09-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106004/",
+      "imdb_id": "tt0106004",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frasier",
+          "revision": 1379958806
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106004/"
+        }
+      ],
+      "original_recommendation_rank": 2,
+      "debut_year": 1993
+    },
+    {
+      "title": "The X-Files",
+      "original_air_date": "1993-09-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106179/",
+      "imdb_id": "tt0106179",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_X-Files",
+          "revision": 1380544951
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106179/"
+        }
+      ],
+      "original_recommendation_rank": 17,
+      "debut_year": 1993
+    },
+    {
+      "title": "Star Trek: Deep Space Nine",
+      "original_air_date": "1993-01-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106145/",
+      "imdb_id": "tt0106145",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Deep_Space_Nine",
+          "revision": 1375863720
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106145/"
+        }
+      ],
+      "original_recommendation_rank": 18,
+      "debut_year": 1993
+    },
+    {
+      "title": "Babylon 5",
+      "original_air_date": "1993-02-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0105946/",
+      "imdb_id": "tt0105946",
+      "edition": "Original series including its feature-length 1993 pilot under the rule allowing feature-length episodes; individual seasons and side movies are not additional entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Babylon_5",
+          "revision": 1380347207
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105946/"
+        }
+      ],
+      "original_recommendation_rank": 21,
+      "debut_year": 1993
+    },
+    {
+      "title": "Homicide: Life on the Street",
+      "debut_year": 1993,
+      "original_air_date": "1993-01-31",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0106028",
+      "link": "https://www.imdb.com/title/tt0106028/",
+      "edition": "Original television series; the standalone Homicide movie is excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Homicide:_Life_on_the_Street",
+          "revision": 1371457024
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106028/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/830/homicide-life-on-the-street"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/830"
+        }
+      ]
+    },
+    {
+      "title": "NYPD Blue",
+      "debut_year": 1993,
+      "original_air_date": "1993-09-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0106079",
+      "link": "https://www.imdb.com/title/tt0106079/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NYPD_Blue",
+          "revision": 1380345668
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106079/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/570/nypd-blue"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/570"
+        }
+      ]
+    },
+    {
+      "title": "Boy Meets World",
+      "original_air_date": "1993-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0105958/",
+      "imdb_id": "tt0105958",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Boy_Meets_World",
+          "revision": 1379244537
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105958/"
+        }
+      ],
+      "original_recommendation_rank": 9,
+      "debut_year": 1993
+    },
+    {
+      "title": "Lois & Clark: The New Adventures of Superman",
+      "original_air_date": "1993-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106057/",
+      "imdb_id": "tt0106057",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lois_%26_Clark%3A_The_New_Adventures_of_Superman",
+          "revision": 1380313549
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106057/"
+        }
+      ],
+      "original_recommendation_rank": 27,
+      "debut_year": 1993
+    },
+    {
+      "title": "Cracker",
+      "debut_year": 1993,
+      "original_air_date": "1993-09-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0105977",
+      "link": "https://www.imdb.com/title/tt0105977/",
+      "edition": "Original British series; later companion specials and the American remake do not create extra entries here.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cracker_(British_TV_series)",
+          "revision": 1368628579
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105977/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/6520/cracker"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/6520"
+        }
+      ],
+      "display_title": "Cracker (UK)"
+    },
+    {
+      "title": "Living Single",
+      "debut_year": 1993,
+      "original_air_date": "1993-08-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0106056",
+      "link": "https://www.imdb.com/title/tt0106056/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Living_Single",
+          "revision": 1379373812
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106056/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/12294/living-single"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/12294"
+        }
+      ]
+    },
+    {
+      "title": "Mighty Morphin Power Rangers",
+      "original_air_date": "1993-08-28",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Japan"
+      ],
+      "link": "https://www.imdb.com/title/tt0106064/",
+      "imdb_id": "tt0106064",
+      "edition": "Original English-language live-action series, not the side movies, later separately titled Ranger series, or animation.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers",
+          "revision": 1379784874
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106064/"
+        }
+      ],
+      "original_recommendation_rank": 28,
+      "debut_year": 1993
+    },
+    {
+      "title": "Walker, Texas Ranger",
+      "original_air_date": "1993-04-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106168/",
+      "imdb_id": "tt0106168",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walker%2C_Texas_Ranger",
+          "revision": 1372290255
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106168/"
+        }
+      ],
+      "original_recommendation_rank": 36,
+      "debut_year": 1993
+    },
+    {
+      "title": "seaQuest DSV",
+      "debut_year": 1993,
+      "original_air_date": "1993-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0106126",
+      "link": "https://www.imdb.com/title/tt0106126/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/SeaQuest_DSV",
+          "revision": 1368626436
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106126/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/3292/seaquest-dsv"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/3292"
+        }
+      ]
+    },
+    {
+      "title": "Chef!",
+      "debut_year": 1993,
+      "original_air_date": "1993-01-28",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0108723",
+      "link": "https://www.imdb.com/title/tt0108723/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Chef%21",
+          "revision": 1368630696
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108723/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7388/chef"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7388"
+        }
+      ]
+    },
+    {
+      "title": "Friends",
+      "original_air_date": "1994-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0108778/",
+      "imdb_id": "tt0108778",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Friends",
+          "revision": 1380243037
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108778/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/431/friends"
+        }
+      ],
+      "original_recommendation_rank": 1,
+      "debut_year": 1994
+    },
+    {
+      "title": "ER",
+      "original_air_date": "1994-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0108757/",
+      "imdb_id": "tt0108757",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ER_%28TV_series%29",
+          "revision": 1380349120
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108757/"
+        }
+      ],
+      "original_recommendation_rank": 33,
+      "debut_year": 1994
+    },
+    {
+      "title": "My So-Called Life",
+      "debut_year": 1994,
+      "original_air_date": "1994-08-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0108872",
+      "link": "https://www.imdb.com/title/tt0108872/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/My_So-Called_Life",
+          "revision": 1372923026
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108872/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1254/my-so-called-life"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1254"
+        }
+      ]
+    },
+    {
+      "title": "The Vicar of Dibley",
+      "debut_year": 1994,
+      "original_air_date": "1994-11-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0108981",
+      "link": "https://www.imdb.com/title/tt0108981/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Vicar_of_Dibley",
+          "revision": 1380409127
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108981/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1530/the-vicar-of-dibley"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1530"
+        }
+      ]
+    },
+    {
+      "title": "Party of Five",
+      "debut_year": 1994,
+      "original_air_date": "1994-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0108894",
+      "link": "https://www.imdb.com/title/tt0108894/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Party_of_Five",
+          "revision": 1370572658
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108894/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1164/party-of-five"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1164"
+        }
+      ]
+    },
+    {
+      "title": "Sister, Sister",
+      "debut_year": 1994,
+      "original_air_date": "1994-04-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0108927",
+      "link": "https://www.imdb.com/title/tt0108927/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sister%2C_Sister_(TV_series)",
+          "revision": 1374298089
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108927/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7635/sister-sister"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7635"
+        }
+      ]
+    },
+    {
+      "title": "The Fast Show",
+      "debut_year": 1994,
+      "original_air_date": "1994-09-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0108771",
+      "link": "https://www.imdb.com/title/tt0108771/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Fast_Show",
+          "revision": 1380048410
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108771/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2779/the-fast-show"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/2779"
+        }
+      ]
+    },
+    {
+      "title": "The Secret World of Alex Mack",
+      "debut_year": 1994,
+      "original_air_date": "1994-10-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0108921",
+      "link": "https://www.imdb.com/title/tt0108921/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Secret_World_of_Alex_Mack",
+          "revision": 1368563917
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108921/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/6326/the-secret-world-of-alex-mack"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/6326"
+        }
+      ]
+    },
+    {
+      "title": "Star Trek: Voyager",
+      "original_air_date": "1995-01-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112178/",
+      "imdb_id": "tt0112178",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Voyager",
+          "revision": 1371775226
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112178/"
+        }
+      ],
+      "original_recommendation_rank": 19,
+      "debut_year": 1995
+    },
+    {
+      "title": "Sliders",
+      "original_air_date": "1995-03-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112167/",
+      "imdb_id": "tt0112167",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sliders_%28TV_series%29",
+          "revision": 1378360810
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112167/"
+        }
+      ],
+      "original_recommendation_rank": 22,
+      "debut_year": 1995
+    },
+    {
+      "title": "Xena: Warrior Princess",
+      "original_air_date": "1995-09-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112230/",
+      "imdb_id": "tt0112230",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xena%3A_Warrior_Princess",
+          "revision": 1376433823
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112230/"
+        }
+      ],
+      "original_recommendation_rank": 24,
+      "debut_year": 1995
+    },
+    {
+      "title": "Pride and Prejudice",
+      "debut_year": 1995,
+      "original_air_date": "1995-09-24",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0112130",
+      "link": "https://www.imdb.com/title/tt0112130/",
+      "edition": "Episodic BBC television miniseries; standalone film adaptations are excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_(1995_TV_series)",
+          "revision": 1371696023
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112130/"
+        }
+      ],
+      "display_title": "Pride and Prejudice (BBC miniseries)"
+    },
+    {
+      "title": "NewsRadio",
+      "debut_year": 1995,
+      "original_air_date": "1995-03-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0112095",
+      "link": "https://www.imdb.com/title/tt0112095/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NewsRadio",
+          "revision": 1375620284
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112095/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4154/newsradio"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4154"
+        }
+      ]
+    },
+    {
+      "title": "The Drew Carey Show",
+      "debut_year": 1995,
+      "original_air_date": "1995-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0111945",
+      "link": "https://www.imdb.com/title/tt0111945/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Drew_Carey_Show",
+          "revision": 1380325071
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111945/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1468/the-drew-carey-show"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1468"
+        }
+      ]
+    },
+    {
+      "title": "Hercules: The Legendary Journeys",
+      "original_air_date": "1995-01-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0111999/",
+      "imdb_id": "tt0111999",
+      "edition": "Regular television series beginning in 1995; the preceding standalone television movies are not extra catalogue entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hercules%3A_The_Legendary_Journeys",
+          "revision": 1368627382
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111999/"
+        }
+      ],
+      "original_recommendation_rank": 25,
+      "debut_year": 1995
+    },
+    {
+      "title": "Goosebumps",
+      "original_air_date": "1995-10-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0111987/",
+      "imdb_id": "tt0111987",
+      "edition": "Original 1995 live-action anthology, not theatrical films or later television adaptations.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Goosebumps_%281995_TV_series%29",
+          "revision": 1379310848
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111987/"
+        }
+      ],
+      "original_recommendation_rank": 29,
+      "debut_year": 1995
+    },
+    {
+      "title": "JAG",
+      "original_air_date": "1995-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112022/",
+      "imdb_id": "tt0112022",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/JAG_%28TV_series%29",
+          "revision": 1380659525
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112022/"
+        }
+      ],
+      "original_recommendation_rank": 37,
+      "debut_year": 1995
+    },
+    {
+      "title": "Space: Above and Beyond",
+      "debut_year": 1995,
+      "original_air_date": "1995-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0112173",
+      "link": "https://www.imdb.com/title/tt0112173/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Space:_Above_and_Beyond",
+          "revision": 1380574357
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112173/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/5818/space-above-and-beyond"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/5818"
+        }
+      ]
+    },
+    {
+      "title": "Mr. Show with Bob and David",
+      "debut_year": 1995,
+      "original_air_date": "1995-11-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0112084",
+      "link": "https://www.imdb.com/title/tt0112084/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mr._Show_with_Bob_and_David",
+          "revision": 1375532689
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112084/"
+        }
+      ]
+    },
+    {
+      "title": "Hamish Macbeth",
+      "debut_year": 1995,
+      "original_air_date": "1995-03-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0111993",
+      "link": "https://www.imdb.com/title/tt0111993/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hamish_Macbeth_(TV_series)",
+          "revision": 1368805946
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111993/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/16545/hamish-macbeth"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/16545"
+        }
+      ]
+    },
+    {
+      "title": "The Thin Blue Line",
+      "debut_year": 1995,
+      "original_air_date": "1995-11-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0112194",
+      "link": "https://www.imdb.com/title/tt0112194/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Thin_Blue_Line_(British_TV_series)",
+          "revision": 1380691753
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112194/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7576/the-thin-blue-line"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7576"
+        }
+      ]
+    },
+    {
+      "title": "The Private Life of Plants",
+      "debut_year": 1995,
+      "original_air_date": "1995-01-11",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0123360",
+      "link": "https://www.imdb.com/title/tt0123360/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Private_Life_of_Plants",
+          "revision": 1378803358
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0123360/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/18919/the-private-life-of-plants"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/18919"
+        }
+      ]
+    },
+    {
+      "title": "Bruce's Price Is Right",
+      "original_air_date": "1995-09-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0274243/",
+      "imdb_id": "tt0274243",
+      "edition": "Bruce Forsyth's distinct 1995 British revival; the original US series and other British hosts' versions are separate editions.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right_%28British_game_show%29",
+          "revision": 1372381736
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0274243/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1995-09-04/2001-12-16",
+        "seasons": 7,
+        "assessment": "Bruce Forsyth version alone has seven series; Crowther, Warman, and Pasquale versions are not combined.",
+        "source": "https://en.wikipedia.org/wiki/The_Price_Is_Right_%28British_game_show%29"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "preferences.json",
+        "franchise_title": "The Price Is Right"
+      },
+      "original_recommendation_rank": 49,
+      "debut_year": 1995
+    },
+    {
+      "title": "Everybody Loves Raymond",
+      "original_air_date": "1996-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0115167/",
+      "imdb_id": "tt0115167",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Everybody_Loves_Raymond",
+          "revision": 1378218573
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115167/"
+        }
+      ],
+      "original_recommendation_rank": 5,
+      "debut_year": 1996
+    },
+    {
+      "title": "3rd Rock from the Sun",
+      "original_air_date": "1996-01-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0115082/",
+      "imdb_id": "tt0115082",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun",
+          "revision": 1368626818
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115082/"
+        }
+      ],
+      "original_recommendation_rank": 8,
+      "debut_year": 1996
+    },
+    {
+      "title": "Sabrina the Teenage Witch",
+      "original_air_date": "1996-09-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0115341/",
+      "imdb_id": "tt0115341",
+      "edition": "Live-action 1996 sitcom, not the cartoons or the standalone television movie.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_%281996_TV_series%29",
+          "revision": 1380341311
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115341/"
+        }
+      ],
+      "original_recommendation_rank": 10,
+      "debut_year": 1996
+    },
+    {
+      "title": "The Pretender",
+      "debut_year": 1996,
+      "original_air_date": "1996-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115320",
+      "link": "https://www.imdb.com/title/tt0115320/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Pretender_(TV_series)",
+          "revision": 1379638651
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115320/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/681/the-pretender"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/681"
+        }
+      ]
+    },
+    {
+      "title": "Millennium",
+      "debut_year": 1996,
+      "original_air_date": "1996-10-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "imdb_id": "tt0115270",
+      "link": "https://www.imdb.com/title/tt0115270/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Millennium_(TV_series)",
+          "revision": 1374516200
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115270/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1302/millennium"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1302"
+        }
+      ]
+    },
+    {
+      "title": "Early Edition",
+      "debut_year": 1996,
+      "original_air_date": "1996-09-28",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115163",
+      "link": "https://www.imdb.com/title/tt0115163/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Early_Edition",
+          "revision": 1374296457
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115163/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1098/early-edition"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1098"
+        }
+      ]
+    },
+    {
+      "title": "Spin City",
+      "debut_year": 1996,
+      "original_air_date": "1996-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115369",
+      "link": "https://www.imdb.com/title/tt0115369/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spin_City",
+          "revision": 1378986211
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115369/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/656/spin-city"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/656"
+        }
+      ]
+    },
+    {
+      "title": "Silent Witness",
+      "debut_year": 1996,
+      "original_air_date": "1996-02-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0115355",
+      "link": "https://www.imdb.com/title/tt0115355/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Silent_Witness",
+          "revision": 1378903783
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115355/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/938/silent-witness"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/938"
+        }
+      ]
+    },
+    {
+      "title": "Nash Bridges",
+      "debut_year": 1996,
+      "original_air_date": "1996-03-29",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115285",
+      "link": "https://www.imdb.com/title/tt0115285/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nash_Bridges",
+          "revision": 1379455416
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115285/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2050/nash-bridges"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/2050"
+        }
+      ]
+    },
+    {
+      "title": "The Sentinel",
+      "debut_year": 1996,
+      "original_air_date": "1996-03-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "imdb_id": "tt0115351",
+      "link": "https://www.imdb.com/title/tt0115351/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sentinel_(TV_series)",
+          "revision": 1377052396
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115351/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/12218/the-sentinel"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/12218"
+        }
+      ]
+    },
+    {
+      "title": "Profiler",
+      "debut_year": 1996,
+      "original_air_date": "1996-09-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115322",
+      "link": "https://www.imdb.com/title/tt0115322/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Profiler_(TV_series)",
+          "revision": 1376162034
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115322/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1080/profiler"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1080"
+        }
+      ]
+    },
+    {
+      "title": "Gulliver's Travels",
+      "debut_year": 1996,
+      "original_air_date": "1996-02-04",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0115195",
+      "link": "https://www.imdb.com/title/tt0115195/",
+      "edition": "Two-part live-action television miniseries.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gulliver%27s_Travels_(miniseries)",
+          "revision": 1377108657
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115195/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/18763/gullivers-travels"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/18763"
+        }
+      ],
+      "display_title": "Gulliver's Travels (miniseries)"
+    },
+    {
+      "title": "Kenan & Kel",
+      "debut_year": 1996,
+      "original_air_date": "1996-08-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115231",
+      "link": "https://www.imdb.com/title/tt0115231/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Kenan_%26_Kel",
+          "revision": 1374430577
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115231/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4131/kenan-kel"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4131"
+        }
+      ]
+    },
+    {
+      "title": "Moesha",
+      "debut_year": 1996,
+      "original_air_date": "1996-01-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0115275",
+      "link": "https://www.imdb.com/title/tt0115275/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Moesha",
+          "revision": 1378130738
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115275/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7703/moesha"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7703"
+        }
+      ]
+    },
+    {
+      "title": "Forensic Files",
+      "original_air_date": "1996-04-21",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0247882/",
+      "imdb_id": "tt0247882",
+      "edition": "Original documentary series, initially titled Medical Detectives. The later title is part of this same series; Forensic Files II is a separate production.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Forensic_Files",
+          "revision": 1378610450
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0247882/"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0247882/episodes/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/3262/forensic-files"
+        }
+      ],
+      "original_recommendation_rank": 45,
+      "debut_year": 1996
+    },
+    {
+      "title": "Buffy the Vampire Slayer",
+      "original_air_date": "1997-03-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0118276/",
+      "imdb_id": "tt0118276",
+      "edition": "1997 television series; the standalone 1992 movie is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer",
+          "revision": 1378467981
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118276/"
+        }
+      ],
+      "original_recommendation_rank": 14,
+      "debut_year": 1997
+    },
+    {
+      "title": "Stargate SG-1",
+      "original_air_date": "1997-07-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0118480/",
+      "imdb_id": "tt0118480",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stargate_SG-1",
+          "revision": 1378640231
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118480/"
+        }
+      ],
+      "original_recommendation_rank": 20,
+      "debut_year": 1997
+    },
+    {
+      "title": "Oz",
+      "debut_year": 1997,
+      "original_air_date": "1997-07-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118421",
+      "link": "https://www.imdb.com/title/tt0118421/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Oz_(TV_series)",
+          "revision": 1374306102
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118421/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/748/oz"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/748"
+        }
+      ]
+    },
+    {
+      "title": "The Practice",
+      "debut_year": 1997,
+      "original_air_date": "1997-03-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118437",
+      "link": "https://www.imdb.com/title/tt0118437/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Practice",
+          "revision": 1374382696
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118437/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/907/the-practice"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/907"
+        }
+      ]
+    },
+    {
+      "title": "La Femme Nikita",
+      "debut_year": 1997,
+      "original_air_date": "1997-01-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "imdb_id": "tt0118379",
+      "link": "https://www.imdb.com/title/tt0118379/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/La_Femme_Nikita_(TV_series)",
+          "revision": 1368622110
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118379/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/561/la-femme-nikita"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/561"
+        }
+      ]
+    },
+    {
+      "title": "Ally McBeal",
+      "debut_year": 1997,
+      "original_air_date": "1997-09-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118254",
+      "link": "https://www.imdb.com/title/tt0118254/",
+      "edition": "Original television series; the separately indexed half-hour recut Ally is not included as another recommendation.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ally_McBeal",
+          "revision": 1368627596
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118254/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/655/ally-mcbeal"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/655"
+        }
+      ]
+    },
+    {
+      "title": "Midsomer Murders",
+      "debut_year": 1997,
+      "original_air_date": "1997-03-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0118401",
+      "link": "https://www.imdb.com/title/tt0118401/",
+      "edition": "One series edition starting with the 1997 pilot; later seasons do not create another entry.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Midsomer_Murders",
+          "revision": 1378447474
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118401/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/328/midsomer-murders"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/328"
+        }
+      ],
+      "original_air_date_note": "Includes the feature-length 1997 pilot; TVmaze indexes the later 1998 series launch."
+    },
+    {
+      "title": "Jonathan Creek",
+      "debut_year": 1997,
+      "original_air_date": "1997-05-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0118363",
+      "link": "https://www.imdb.com/title/tt0118363/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jonathan_Creek",
+          "revision": 1369340264
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118363/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1753/jonathan-creek"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1753"
+        }
+      ]
+    },
+    {
+      "title": "Dharma & Greg",
+      "debut_year": 1997,
+      "original_air_date": "1997-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118303",
+      "link": "https://www.imdb.com/title/tt0118303/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dharma_%26_Greg",
+          "revision": 1373893470
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118303/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/569/dharma-greg"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/569"
+        }
+      ]
+    },
+    {
+      "title": "Just Shoot Me!",
+      "debut_year": 1997,
+      "original_air_date": "1997-03-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118364",
+      "link": "https://www.imdb.com/title/tt0118364/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Just_Shoot_Me%21",
+          "revision": 1371111123
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118364/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2039/just-shoot-me"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/2039"
+        }
+      ]
+    },
+    {
+      "title": "Earth: Final Conflict",
+      "debut_year": 1997,
+      "original_air_date": "1997-10-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "imdb_id": "tt0123816",
+      "link": "https://www.imdb.com/title/tt0123816/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Earth:_Final_Conflict",
+          "revision": 1376030422
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0123816/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1469/earth-final-conflict"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1469"
+        }
+      ]
+    },
+    {
+      "title": "Lexx",
+      "debut_year": 1997,
+      "original_air_date": "1997-04-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom",
+        "Canada",
+        "Germany"
+      ],
+      "imdb_id": "tt0115243",
+      "link": "https://www.imdb.com/title/tt0115243/",
+      "edition": "One continuing English-language series including its initial feature-length serial instalments. IMDb has used more than one identifier for this series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lexx",
+          "revision": 1378297949
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115243/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1656/lexx"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1656"
+        }
+      ],
+      "imdb_id_aliases": [
+        "tt0178149"
+      ],
+      "original_air_date_note": "The first broadcast is placed in 1997 by the programme records. Some IMDb headers index production as beginning in 1996; this series is listed once under its broadcast debut."
+    },
+    {
+      "title": "The Odyssey",
+      "debut_year": 1997,
+      "original_air_date": "1997-05-18",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Australia"
+      ],
+      "imdb_id": "tt0118414",
+      "link": "https://www.imdb.com/title/tt0118414/",
+      "edition": "Two-part live-action television miniseries; not an animated series or a standalone film.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Odyssey_(1997_miniseries)",
+          "revision": 1377006441
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118414/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/18409/the-odyssey"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/18409"
+        }
+      ],
+      "display_title": "The Odyssey (miniseries)"
+    },
+    {
+      "title": "Smart Guy",
+      "debut_year": 1997,
+      "original_air_date": "1997-04-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118466",
+      "link": "https://www.imdb.com/title/tt0118466/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Smart_Guy",
+          "revision": 1374053562
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118466/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7837/smart-guy"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7837"
+        }
+      ]
+    },
+    {
+      "title": "That '70s Show",
+      "original_air_date": "1998-08-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0165598/",
+      "imdb_id": "tt0165598",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/That_%2770s_Show",
+          "revision": 1372689853
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0165598/"
+        }
+      ],
+      "original_recommendation_rank": 7,
+      "debut_year": 1998
+    },
+    {
+      "title": "The King of Queens",
+      "original_air_date": "1998-09-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0165581/",
+      "imdb_id": "tt0165581",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_King_of_Queens",
+          "revision": 1369611836
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0165581/"
+        }
+      ],
+      "original_recommendation_rank": 6,
+      "debut_year": 1998
+    },
+    {
+      "title": "Charmed",
+      "original_air_date": "1998-10-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0158552/",
+      "imdb_id": "tt0158552",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charmed",
+          "revision": 1375545229
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0158552/"
+        }
+      ],
+      "original_recommendation_rank": 16,
+      "debut_year": 1998
+    },
+    {
+      "title": "Sex and the City",
+      "original_air_date": "1998-06-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0159206/",
+      "imdb_id": "tt0159206",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sex_and_the_City",
+          "revision": 1379403082
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0159206/"
+        }
+      ],
+      "original_recommendation_rank": 39,
+      "debut_year": 1998
+    },
+    {
+      "title": "Will & Grace",
+      "debut_year": 1998,
+      "original_air_date": "1998-09-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0157246",
+      "link": "https://www.imdb.com/title/tt0157246/",
+      "edition": "Original live-action sitcom including continuing revival seasons as one edition.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Will_%26_Grace",
+          "revision": 1370417867
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0157246/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/549/will-grace"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/549"
+        }
+      ]
+    },
+    {
+      "title": "From the Earth to the Moon",
+      "debut_year": 1998,
+      "original_air_date": "1998-04-05",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0120570",
+      "link": "https://www.imdb.com/title/tt0120570/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/From_the_Earth_to_the_Moon_(miniseries)",
+          "revision": 1377050387
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0120570/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7397/from-the-earth-to-the-moon"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7397"
+        }
+      ]
+    },
+    {
+      "title": "Merlin",
+      "debut_year": 1998,
+      "original_air_date": "1998-04-26",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0130414",
+      "link": "https://www.imdb.com/title/tt0130414/",
+      "edition": "Two-part live-action television miniseries, distinct from the later continuing British television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Merlin_(miniseries)",
+          "revision": 1375961871
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0130414/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/35499/merlin"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/35499"
+        }
+      ],
+      "display_title": "Merlin (miniseries)"
+    },
+    {
+      "title": "Sports Night",
+      "debut_year": 1998,
+      "original_air_date": "1998-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0165961",
+      "link": "https://www.imdb.com/title/tt0165961/",
+      "edition": "Scripted workplace sitcom set around a fictional sports programme.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sports_Night",
+          "revision": 1378776671
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0165961/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1284/sports-night"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1284"
+        }
+      ]
+    },
+    {
+      "title": "Dawson's Creek",
+      "debut_year": 1998,
+      "original_air_date": "1998-01-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0118300",
+      "link": "https://www.imdb.com/title/tt0118300/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dawson%27s_Creek",
+          "revision": 1379207657
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118300/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/845/dawsons-creek"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/845"
+        }
+      ]
+    },
+    {
+      "title": "Felicity",
+      "debut_year": 1998,
+      "original_air_date": "1998-09-29",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0134247",
+      "link": "https://www.imdb.com/title/tt0134247/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Felicity_(TV_series)",
+          "revision": 1368626336
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0134247/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1402/felicity"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1402"
+        }
+      ]
+    },
+    {
+      "title": "Becker",
+      "debut_year": 1998,
+      "original_air_date": "1998-11-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0174378",
+      "link": "https://www.imdb.com/title/tt0174378/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Becker_(TV_series)",
+          "revision": 1377515139
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0174378/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1457/becker"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1457"
+        }
+      ]
+    },
+    {
+      "title": "The Royle Family",
+      "debut_year": 1998,
+      "original_air_date": "1998-09-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0129711",
+      "link": "https://www.imdb.com/title/tt0129711/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Royle_Family",
+          "revision": 1376177050
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0129711/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4030/the-royle-family"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4030"
+        }
+      ]
+    },
+    {
+      "title": "The Life of Birds",
+      "debut_year": 1998,
+      "original_air_date": "1998-10-21",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0175394",
+      "link": "https://www.imdb.com/title/tt0175394/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Life_of_Birds",
+          "revision": 1378377052
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0175394/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4996/the-life-of-birds"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4996"
+        }
+      ]
+    },
+    {
+      "title": "Louis Theroux's Weird Weekends",
+      "debut_year": 1998,
+      "original_air_date": "1998-01-15",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0217229",
+      "link": "https://www.imdb.com/title/tt0217229/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Louis_Theroux%27s_Weird_Weekends",
+          "revision": 1368633421
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0217229/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/7733/louis-therouxs-weird-weekends"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/7733"
+        }
+      ]
+    },
+    {
+      "title": "Robot Wars",
+      "debut_year": 1998,
+      "original_air_date": "1998-02-20",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0163488",
+      "link": "https://www.imdb.com/title/tt0163488/",
+      "edition": "Original British robot-combat game-show edition, seven main series; later revivals are not repeated here.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Robot_Wars_(TV_series)",
+          "revision": 1378661474
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0163488/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4724/robot-wars"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4724"
+        }
+      ],
+      "display_title": "Robot Wars (UK)",
+      "qualifying_original_season_count": 7
+    },
+    {
+      "title": "Scrapheap Challenge",
+      "debut_year": 1998,
+      "original_air_date": "1998-04-12",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0169491",
+      "link": "https://www.imdb.com/title/tt0169491/",
+      "edition": "Original British engineering competition, eleven series. Regional rebroadcasts under Junkyard Wars do not duplicate it.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Scrapheap_Challenge",
+          "revision": 1368640290
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0169491/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4729/scrapheap-challenge"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4729"
+        }
+      ],
+      "qualifying_original_season_count": 11
+    },
+    {
+      "title": "The FBI Files",
+      "debut_year": 1998,
+      "original_air_date": "1998-10-20",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0309152",
+      "link": "https://www.imdb.com/title/tt0309152/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_FBI_Files",
+          "revision": 1379862191
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0309152/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4122/the-fbi-files"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4122"
+        }
+      ]
+    },
+    {
+      "title": "The Sopranos",
+      "original_air_date": "1999-01-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0141842/",
+      "imdb_id": "tt0141842",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sopranos",
+          "revision": 1380376131
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0141842/"
+        }
+      ],
+      "original_recommendation_rank": 32,
+      "debut_year": 1999
+    },
+    {
+      "title": "The West Wing",
+      "original_air_date": "1999-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0200276/",
+      "imdb_id": "tt0200276",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_West_Wing",
+          "revision": 1380575785
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0200276/"
+        }
+      ],
+      "original_recommendation_rank": 46,
+      "debut_year": 1999
+    },
+    {
+      "title": "Freaks and Geeks",
+      "original_air_date": "1999-09-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0193676/",
+      "imdb_id": "tt0193676",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Freaks_and_Geeks",
+          "revision": 1370312385
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0193676/"
+        }
+      ],
+      "original_recommendation_rank": 40,
+      "debut_year": 1999
+    },
+    {
+      "title": "Law & Order: Special Victims Unit",
+      "original_air_date": "1999-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0203259/",
+      "imdb_id": "tt0203259",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Law_%26_Order%3A_Special_Victims_Unit",
+          "revision": 1380662718
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0203259/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/103/law-order-special-victims-unit"
+        }
+      ],
+      "original_recommendation_rank": 35,
+      "debut_year": 1999
+    },
+    {
+      "title": "Farscape",
+      "debut_year": 1999,
+      "original_air_date": "1999-03-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "Australia",
+        "United States"
+      ],
+      "imdb_id": "tt0187636",
+      "link": "https://www.imdb.com/title/tt0187636/",
+      "edition": "English-language Australian-American co-production involving The Jim Henson Company and Hallmark. One series entry; no extra entry for a side movie.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Farscape",
+          "revision": 1374635345
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0187636/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/429/farscape"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/429"
+        },
+        {
+          "url": "https://assets.pc.gov.au/inquiries/completed/broadcasting/submissions/subdr200/subdr200.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Spaced",
+      "debut_year": 1999,
+      "original_air_date": "1999-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0187664",
+      "link": "https://www.imdb.com/title/tt0187664/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spaced",
+          "revision": 1371158737
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0187664/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1065/spaced"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1065"
+        }
+      ]
+    },
+    {
+      "title": "Roswell",
+      "debut_year": 1999,
+      "original_air_date": "1999-10-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0201391",
+      "link": "https://www.imdb.com/title/tt0201391/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Roswell_(TV_series)",
+          "revision": 1379329297
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0201391/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/673/roswell"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/673"
+        }
+      ]
+    },
+    {
+      "title": "The League of Gentlemen",
+      "debut_year": 1999,
+      "original_air_date": "1999-01-11",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt0184135",
+      "link": "https://www.imdb.com/title/tt0184135/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_League_of_Gentlemen",
+          "revision": 1378160574
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0184135/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1720/the-league-of-gentlemen"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1720"
+        }
+      ]
+    },
+    {
+      "title": "Cold Case Files",
+      "debut_year": 1999,
+      "original_air_date": "1999-01-01",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt0426666",
+      "link": "https://www.imdb.com/title/tt0426666/",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cold_Case_Files",
+          "revision": 1369902928
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0426666/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/4142/cold-case-files"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/4142"
+        }
+      ]
+    },
+    {
+      "title": "Family Feud",
+      "original_air_date": "1999-09-20",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0177440/",
+      "imdb_id": "tt0177440",
+      "edition": "1999 syndicated revival, originally hosted by Louie Anderson and later by Richard Karn, John O'Hurley, and Steve Harvey. Host changes do not create new entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "revision": 1380751025
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0177440/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1999-09-20/ongoing",
+        "assessment": "The 1999 syndicated revival itself exceeds five seasons; 1976 and 1988 editions are separate records.",
+        "source": "https://en.wikipedia.org/wiki/Family_Feud"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "preferences.json",
+        "franchise_title": "Family Feud"
+      },
+      "original_recommendation_rank": 50,
+      "debut_year": 1999,
+      "display_title": "Family Feud (US revival)"
+    }
+  ]
+}
