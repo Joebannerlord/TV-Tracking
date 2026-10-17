@@ -1,8 +1,8 @@
 {
   "decade": "1950–1959",
   "selection_limit": 50,
-  "selected_count": 40,
-  "ranking": "Editorial recommendation order under the selection criteria in README.md.",
+  "selected_count": 7,
+  "ranking": "User-approved titles in the order of the original 40-title recommendation batch.",
   "shows": [
     {
       "rank": 1,
@@ -24,7 +24,8 @@
         {
           "url": "https://www.tvmaze.com/shows/787/the-twilight-zone"
         }
-      ]
+      ],
+      "recommendation_rank": 1
     },
     {
       "rank": 2,
@@ -46,7 +47,8 @@
         {
           "url": "https://www.tvmaze.com/shows/3738/alfred-hitchcock-presents"
         }
-      ]
+      ],
+      "recommendation_rank": 2
     },
     {
       "rank": 3,
@@ -68,364 +70,11 @@
         {
           "url": "https://www.tvmaze.com/shows/3824/i-love-lucy"
         }
-      ]
+      ],
+      "recommendation_rank": 3
     },
     {
       "rank": 4,
-      "title": "Quatermass and the Pit",
-      "original_air_date": "1958-12-22",
-      "category": "miniseries",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United Kingdom"
-      ],
-      "link": "https://www.imdb.com/title/tt0051305/",
-      "imdb_id": "tt0051305",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Quatermass_and_the_Pit",
-          "revision": 1380516952
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/13467/quatermass-and-the-pit"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "The Honeymooners",
-      "original_air_date": "1955-10-01",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0042114/",
-      "imdb_id": "tt0042114",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Honeymooners",
-          "revision": 1380689697
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/3825/the-honeymooners"
-        }
-      ],
-      "date_note": "Standalone sitcom premiere; earlier sketches within other programmes are not counted as a separate series."
-    },
-    {
-      "rank": 6,
-      "title": "Maverick",
-      "original_air_date": "1957-09-22",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0050037/",
-      "imdb_id": "tt0050037",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Maverick_%28TV_series%29",
-          "revision": 1380155935
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/3617/maverick"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Have Gun – Will Travel",
-      "original_air_date": "1957-09-14",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0050025/",
-      "imdb_id": "tt0050025",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Have_Gun_%E2%80%93_Will_Travel",
-          "revision": 1376879223
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/3360/have-gun-will-travel"
-        }
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Perry Mason",
-      "original_air_date": "1957-09-21",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0050051/",
-      "imdb_id": "tt0050051",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Perry_Mason_%281957_TV_series%29",
-          "revision": 1378865033
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/909/perry-mason"
-        }
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Gunsmoke",
-      "original_air_date": "1955-09-10",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0047736/",
-      "imdb_id": "tt0047736",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Gunsmoke_%28TV_series%29",
-          "revision": 1376163014
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/782/gunsmoke"
-        }
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "The Phil Silvers Show",
-      "original_air_date": "1955-09-20",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0047763/",
-      "imdb_id": "tt0047763",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Phil_Silvers_Show",
-          "revision": 1376407388
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/19824/the-phil-silvers-show"
-        }
-      ]
-    },
-    {
-      "rank": 11,
-      "title": "Peter Gunn",
-      "original_air_date": "1958-09-22",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0051301/",
-      "imdb_id": "tt0051301",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Peter_Gunn",
-          "revision": 1368626347
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/3702/peter-gunn"
-        }
-      ]
-    },
-    {
-      "rank": 12,
-      "title": "The Untouchables",
-      "original_air_date": "1959-10-15",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0052522/",
-      "imdb_id": "tt0052522",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Untouchables_%281959_TV_series%29",
-          "revision": 1376303607
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/2130/the-untouchables"
-        }
-      ]
-    },
-    {
-      "rank": 13,
-      "title": "The Rifleman",
-      "original_air_date": "1958-09-30",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0051308/",
-      "imdb_id": "tt0051308",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Rifleman",
-          "revision": 1379283688
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/3877/the-rifleman"
-        }
-      ]
-    },
-    {
-      "rank": 14,
-      "title": "Zorro",
-      "original_air_date": "1957-10-10",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0050079/",
-      "imdb_id": "tt0050079",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Zorro_%281957_TV_series%29",
-          "revision": 1380200633
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/4262/zorro"
-        }
-      ]
-    },
-    {
-      "rank": 15,
-      "title": "Leave It to Beaver",
-      "original_air_date": "1957-10-04",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0050032/",
-      "imdb_id": "tt0050032",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Leave_It_to_Beaver",
-          "revision": 1379732676
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/2128/leave-it-to-beaver"
-        }
-      ]
-    },
-    {
-      "rank": 16,
-      "title": "Naked City",
-      "original_air_date": "1958-09-30",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0051297/",
-      "imdb_id": "tt0051297",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Naked_City_%28TV_series%29",
-          "revision": 1377037349
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/14401/naked-city"
-        }
-      ]
-    },
-    {
-      "rank": 17,
-      "title": "The Jack Benny Program",
-      "original_air_date": "1950-10-28",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0042116/",
-      "imdb_id": "tt0042116",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Jack_Benny_Program",
-          "revision": 1380472083
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/21690/the-jack-benny-program"
-        }
-      ],
-      "date_note": "Television premiere, following the earlier radio programme."
-    },
-    {
-      "rank": 18,
-      "title": "The George Burns and Gracie Allen Show",
-      "original_air_date": "1950-10-12",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0042111/",
-      "imdb_id": "tt0042111",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_George_Burns_and_Gracie_Allen_Show",
-          "revision": 1379640989
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/21693/the-george-burns-and-gracie-allen-show"
-        }
-      ]
-    },
-    {
-      "rank": 19,
-      "title": "Rawhide",
-      "original_air_date": "1959-01-09",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0052504/",
-      "imdb_id": "tt0052504",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Rawhide_%28TV_series%29",
-          "revision": 1380605260
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/3488/rawhide"
-        }
-      ]
-    },
-    {
-      "rank": 20,
       "title": "The Adventures of Robin Hood",
       "original_air_date": "1955-09-25",
       "category": "scripted_series",
@@ -444,187 +93,11 @@
         {
           "url": "https://www.tvmaze.com/shows/10804/the-adventures-of-robin-hood"
         }
-      ]
+      ],
+      "recommendation_rank": 20
     },
     {
-      "rank": 21,
-      "title": "Hancock's Half Hour",
-      "original_air_date": "1956-07-06",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United Kingdom"
-      ],
-      "link": "https://www.imdb.com/title/tt0124703/",
-      "imdb_id": "tt0124703",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Hancock%27s_Half_Hour",
-          "revision": 1373395060
-        },
-        {
-          "url": "https://www.comedy.co.uk/tv/hancocks_half_hour/"
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/20445/hancocks-half-hour"
-        }
-      ],
-      "date_note": "Television premiere, following the earlier radio programme. British Comedy Guide documents 6 July 1956."
-    },
-    {
-      "rank": 22,
-      "title": "Bonanza",
-      "original_air_date": "1959-09-12",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0052451/",
-      "imdb_id": "tt0052451",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Bonanza",
-          "revision": 1378987088
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/4378/bonanza"
-        }
-      ]
-    },
-    {
-      "rank": 23,
-      "title": "The Many Loves of Dobie Gillis",
-      "original_air_date": "1959-09-29",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0052490/",
-      "imdb_id": "tt0052490",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Many_Loves_of_Dobie_Gillis",
-          "revision": 1369993293
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/4965/the-many-loves-of-dobie-gillis"
-        }
-      ]
-    },
-    {
-      "rank": 24,
-      "title": "The Donna Reed Show",
-      "original_air_date": "1958-09-24",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0051267/",
-      "imdb_id": "tt0051267",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/The_Donna_Reed_Show",
-          "revision": 1378605495
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/24644/the-donna-reed-show"
-        }
-      ]
-    },
-    {
-      "rank": 25,
-      "title": "Playhouse 90",
-      "original_air_date": "1956-10-04",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0048893/",
-      "imdb_id": "tt0048893",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Playhouse_90",
-          "revision": 1371995673
-        }
-      ]
-    },
-    {
-      "rank": 26,
-      "title": "One Step Beyond",
-      "original_air_date": "1959-01-20",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0052442/",
-      "imdb_id": "tt0052442",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Alcoa_Presents_One_Step_Beyond",
-          "revision": 1378447960
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/18552/one-step-beyond"
-        }
-      ]
-    },
-    {
-      "rank": 27,
-      "title": "Quatermass II",
-      "original_air_date": "1955-10-22",
-      "category": "miniseries",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United Kingdom"
-      ],
-      "link": "https://www.imdb.com/title/tt0047766/",
-      "imdb_id": "tt0047766",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Quatermass_II",
-          "revision": 1378377361
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/11583/quatermass-ii"
-        }
-      ]
-    },
-    {
-      "rank": 28,
-      "title": "Wanted: Dead or Alive",
-      "original_air_date": "1958-09-06",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0051327/",
-      "imdb_id": "tt0051327",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Wanted_Dead_or_Alive_%28TV_series%29",
-          "revision": 1379380518
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/4380/wanted-dead-or-alive"
-        }
-      ]
-    },
-    {
-      "rank": 29,
+      "rank": 5,
       "title": "Adventures of Superman",
       "original_air_date": "1952-09-19",
       "category": "scripted_series",
@@ -643,186 +116,11 @@
         {
           "url": "https://www.tvmaze.com/shows/1306/adventures-of-superman"
         }
-      ]
+      ],
+      "recommendation_rank": 29
     },
     {
-      "rank": 30,
-      "title": "Father Knows Best",
-      "original_air_date": "1954-10-03",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0046600/",
-      "imdb_id": "tt0046600",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Father_Knows_Best",
-          "revision": 1376310813
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/4537/father-knows-best"
-        }
-      ]
-    },
-    {
-      "rank": 31,
-      "title": "Dragnet",
-      "original_air_date": "1951-12-16",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0043194/",
-      "imdb_id": "tt0043194",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Dragnet_%281951_TV_series%29",
-          "revision": 1368600486
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/2122/dragnet"
-        }
-      ],
-      "date_note": "TVmaze premiere date used; the current Wikipedia infobox differs by two days."
-    },
-    {
-      "rank": 32,
-      "title": "77 Sunset Strip",
-      "original_air_date": "1958-10-10",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0051247/",
-      "imdb_id": "tt0051247",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/77_Sunset_Strip",
-          "revision": 1370981369
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/6272/77-sunset-strip"
-        }
-      ]
-    },
-    {
-      "rank": 33,
-      "title": "Richard Diamond, Private Detective",
-      "original_air_date": "1957-07-01",
-      "category": "scripted_series",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0050056/",
-      "imdb_id": "tt0050056",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Richard_Diamond%2C_Private_Detective",
-          "revision": 1376879345
-        }
-      ]
-    },
-    {
-      "rank": 34,
-      "title": "Victory at Sea",
-      "original_air_date": "1952-10-26",
-      "category": "docuseries",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0046658/",
-      "imdb_id": "tt0046658",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Victory_at_Sea",
-          "revision": 1376879315
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/16606/victory-at-sea"
-        }
-      ]
-    },
-    {
-      "rank": 35,
-      "title": "Zoo Quest",
-      "original_air_date": "1954-12-21",
-      "category": "docuseries",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United Kingdom"
-      ],
-      "link": "https://www.imdb.com/title/tt0918481/",
-      "imdb_id": "tt0918481",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Zoo_Quest",
-          "revision": 1379021245
-        }
-      ]
-    },
-    {
-      "rank": 36,
-      "title": "Candid Eye",
-      "original_air_date": "1958-10-26",
-      "category": "docuseries",
-      "original_language": "English",
-      "countries_of_origin": [
-        "Canada"
-      ],
-      "link": "https://www.nfb.ca/collection/candid-eye-television-series/",
-      "imdb_id": null,
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/Candid_Eye",
-          "revision": 1368725693
-        },
-        {
-          "url": "https://www.nfb.ca/collection/candid-eye-television-series/"
-        }
-      ]
-    },
-    {
-      "rank": 37,
-      "title": "You Bet Your Life",
-      "original_air_date": "1950-10-05",
-      "category": "game_show",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0042171/",
-      "imdb_id": "tt0042171",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/You_Bet_Your_Life",
-          "revision": 1372028955
-        },
-        {
-          "url": "https://thetvdb.com/series/you-bet-your-life"
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/2197/you-bet-your-life"
-        }
-      ],
-      "date_note": "Television premiere, following the earlier radio programme.",
-      "original_version_seasons": 11
-    },
-    {
-      "rank": 38,
+      "rank": 6,
       "title": "What's My Line?",
       "original_air_date": "1950-02-02",
       "category": "game_show",
@@ -842,33 +140,11 @@
           "url": "https://www.tvmaze.com/shows/9612/whats-my-line"
         }
       ],
-      "original_version_seasons": 17
+      "original_version_seasons": 17,
+      "recommendation_rank": 38
     },
     {
-      "rank": 39,
-      "title": "I've Got a Secret",
-      "original_air_date": "1952-06-19",
-      "category": "game_show",
-      "original_language": "English",
-      "countries_of_origin": [
-        "United States"
-      ],
-      "link": "https://www.imdb.com/title/tt0044270/",
-      "imdb_id": "tt0044270",
-      "edition": "original television series",
-      "references": [
-        {
-          "url": "https://en.wikipedia.org/wiki/I%27ve_Got_a_Secret",
-          "revision": 1368625043
-        },
-        {
-          "url": "https://www.tvmaze.com/shows/7024/ive-got-a-secret"
-        }
-      ],
-      "original_version_seasons": 15
-    },
-    {
-      "rank": 40,
+      "rank": 7,
       "title": "The Price Is Right",
       "original_air_date": "1956-11-26",
       "category": "game_show",
@@ -885,7 +161,24 @@
           "revision": 1368604205
         }
       ],
-      "original_version_seasons": 9
+      "original_version_seasons": 9,
+      "recommendation_rank": 40
     }
-  ]
+  ],
+  "user_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-10-17",
+    "original_batch_size": 40,
+    "approved_original_ranks": [
+      1,
+      2,
+      3,
+      20,
+      29,
+      38,
+      40
+    ],
+    "declined_count": 33,
+    "review_history": "reviews/1950s.json"
+  }
 }
