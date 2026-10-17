@@ -1,0 +1,1330 @@
+{
+  "decade": "2000–2009",
+  "selection_limit": 100,
+  "review_batch_size": 50,
+  "selected_count": 50,
+  "ranking": "User-approved titles in the order of the original 50-title recommendation batch.",
+  "shows": [
+    {
+      "recommendation_rank": 1,
+      "title": "Breaking Bad",
+      "original_air_date": "2008-01-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0903747/",
+      "imdb_id": "tt0903747",
+      "edition": "Original television series; the side movie El Camino is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Breaking_Bad",
+          "revision": 1380623562
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0903747/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/169/breaking-bad"
+        },
+        {
+          "url": "https://interviews.televisionacademy.com/shows/breaking-bad"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "The Wire",
+      "original_air_date": "2002-06-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0306414/",
+      "imdb_id": "tt0306414",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Wire",
+          "revision": 1379870019
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0306414/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/179/the-wire"
+        },
+        {
+          "url": "https://interviews.televisionacademy.com/shows/wire-the"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "Lost",
+      "original_air_date": "2004-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0411008/",
+      "imdb_id": "tt0411008",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lost_%28TV_series%29",
+          "revision": 1379862556
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0411008/"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "Dexter",
+      "original_air_date": "2006-10-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0773262/",
+      "imdb_id": "tt0773262",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dexter_%28TV_series%29",
+          "revision": 1380105641
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0773262/"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "Sons of Anarchy",
+      "original_air_date": "2008-09-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1124373/",
+      "imdb_id": "tt1124373",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sons_of_Anarchy",
+          "revision": 1378901173
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1124373/"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "Prison Break",
+      "original_air_date": "2005-08-29",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0455275/",
+      "imdb_id": "tt0455275",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Prison_Break",
+          "revision": 1378496046
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0455275/"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "24",
+      "original_air_date": "2001-11-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0285331/",
+      "imdb_id": "tt0285331",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/24_%28TV_series%29",
+          "revision": 1376150364
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0285331/"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "House",
+      "original_air_date": "2004-11-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0412142/",
+      "imdb_id": "tt0412142",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/House_%28TV_series%29",
+          "revision": 1378238977
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0412142/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/118/house"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "Supernatural",
+      "original_air_date": "2005-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0460681/",
+      "imdb_id": "tt0460681",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Supernatural_%28American_TV_series%29",
+          "revision": 1379998396
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0460681/"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "Smallville",
+      "original_air_date": "2001-10-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0279600/",
+      "imdb_id": "tt0279600",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Smallville",
+          "revision": 1377518254
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0279600/"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "Heroes",
+      "original_air_date": "2006-09-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0813715/",
+      "imdb_id": "tt0813715",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Heroes_%28American_TV_series%29",
+          "revision": 1380736040
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0813715/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/134/heroes"
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "Battlestar Galactica",
+      "original_air_date": "2003-12-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0407362/",
+      "imdb_id": "tt0407362",
+      "edition": "Reimagined edition including the two-part 2003 miniseries introduction, followed by the regular series. One entry for this edition, separate from the approved 1978 original.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_%282004_TV_series%29",
+          "revision": 1377056918
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0407362/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/166/battlestar-galactica"
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "Stargate Atlantis",
+      "original_air_date": "2004-07-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0374455/",
+      "imdb_id": "tt0374455",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stargate_Atlantis",
+          "revision": 1368626430
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0374455/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/206/stargate-atlantis"
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Star Trek: Enterprise",
+      "original_air_date": "2001-09-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0244365/",
+      "imdb_id": "tt0244365",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Enterprise",
+          "revision": 1379637308
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0244365/"
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "Doctor Who",
+      "original_air_date": "2005-03-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0436992/",
+      "imdb_id": "tt0436992",
+      "edition": "Distinct 2005 revival record, separate from the approved original 1963 series and the later separately indexed edition. Individual doctors and seasons are not separate entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doctor_Who",
+          "revision": 1378841592
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0436992/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/210/doctor-who"
+        }
+      ],
+      "rank": 15
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Fringe",
+      "original_air_date": "2008-09-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1119644/",
+      "imdb_id": "tt1119644",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Fringe_%28TV_series%29",
+          "revision": 1375532185
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1119644/"
+        }
+      ],
+      "rank": 16
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "Firefly",
+      "original_air_date": "2002-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0303461/",
+      "imdb_id": "tt0303461",
+      "edition": "Original television series; the side movie Serenity is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Firefly_%28TV_series%29",
+          "revision": 1371439522
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0303461/"
+        }
+      ],
+      "rank": 17
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "The Vampire Diaries",
+      "original_air_date": "2009-09-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1405406/",
+      "imdb_id": "tt1405406",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Vampire_Diaries",
+          "revision": 1380278641
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1405406/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/63/the-vampire-diaries"
+        }
+      ],
+      "rank": 18
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "True Blood",
+      "original_air_date": "2008-09-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0844441/",
+      "imdb_id": "tt0844441",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/True_Blood",
+          "revision": 1371700303
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0844441/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/22/true-blood"
+        }
+      ],
+      "rank": 19
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Merlin",
+      "original_air_date": "2008-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt1199099/",
+      "imdb_id": "tt1199099",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Merlin_%282008_TV_series%29",
+          "revision": 1377276319
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1199099/"
+        }
+      ],
+      "rank": 20
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "The Office",
+      "original_air_date": "2005-03-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0386676/",
+      "imdb_id": "tt0386676",
+      "edition": "US 2005 adaptation, not the separately titled UK original.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Office_%28American_TV_series%29",
+          "revision": 1378981080
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0386676/"
+        }
+      ],
+      "rank": 21
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "How I Met Your Mother",
+      "original_air_date": "2005-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0460649/",
+      "imdb_id": "tt0460649",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/How_I_Met_Your_Mother",
+          "revision": 1377510096
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0460649/"
+        }
+      ],
+      "rank": 22
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "The Big Bang Theory",
+      "original_air_date": "2007-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0898266/",
+      "imdb_id": "tt0898266",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory",
+          "revision": 1379955296
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0898266/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/66/the-big-bang-theory"
+        }
+      ],
+      "rank": 23
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "Two and a Half Men",
+      "original_air_date": "2003-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0369179/",
+      "imdb_id": "tt0369179",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men",
+          "revision": 1379619633
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0369179/"
+        }
+      ],
+      "rank": 24
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Modern Family",
+      "original_air_date": "2009-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1442437/",
+      "imdb_id": "tt1442437",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Modern_Family",
+          "revision": 1380001931
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1442437/"
+        }
+      ],
+      "rank": 25
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Malcolm in the Middle",
+      "original_air_date": "2000-01-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0212671/",
+      "imdb_id": "tt0212671",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Malcolm_in_the_Middle",
+          "revision": 1380357905
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0212671/"
+        }
+      ],
+      "rank": 26
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "Scrubs",
+      "original_air_date": "2001-10-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0285403/",
+      "imdb_id": "tt0285403",
+      "edition": "Original 2001 live-action sitcom series record; individual seasons are not separate entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://www.imdb.com/title/tt0285403/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/532/scrubs"
+        }
+      ],
+      "rank": 27
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Arrested Development",
+      "original_air_date": "2003-11-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0367279/",
+      "imdb_id": "tt0367279",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Arrested_Development",
+          "revision": 1380243046
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0367279/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/321/arrested-development"
+        }
+      ],
+      "rank": 28
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "It's Always Sunny in Philadelphia",
+      "original_air_date": "2005-08-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0472954/",
+      "imdb_id": "tt0472954",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia",
+          "revision": 1380023240
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0472954/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/347/its-always-sunny-in-philadelphia"
+        }
+      ],
+      "rank": 29
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "Curb Your Enthusiasm",
+      "original_air_date": "2000-10-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0264235/",
+      "imdb_id": "tt0264235",
+      "edition": "Episodic series beginning October 15, 2000. The 1999 standalone mockumentary special is not an additional series entry or this premiere date.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm",
+          "revision": 1380009717
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0264235/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/551/curb-your-enthusiasm"
+        }
+      ],
+      "rank": 30
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Parks and Recreation",
+      "original_air_date": "2009-04-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1266020/",
+      "imdb_id": "tt1266020",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation",
+          "revision": 1380545550
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1266020/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/174/parks-and-recreation"
+        }
+      ],
+      "rank": 31
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "Community",
+      "original_air_date": "2009-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1439629/",
+      "imdb_id": "tt1439629",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Community_%28TV_series%29",
+          "revision": 1380089137
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1439629/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/318/community"
+        }
+      ],
+      "rank": 32
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "30 Rock",
+      "original_air_date": "2006-10-11",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0496424/",
+      "imdb_id": "tt0496424",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/30_Rock",
+          "revision": 1379225148
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0496424/"
+        }
+      ],
+      "rank": 33
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "The IT Crowd",
+      "original_air_date": "2006-02-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0487831/",
+      "imdb_id": "tt0487831",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_IT_Crowd",
+          "revision": 1379109602
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0487831/"
+        }
+      ],
+      "rank": 34
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "NCIS",
+      "original_air_date": "2003-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0364845/",
+      "imdb_id": "tt0364845",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/NCIS_%28TV_series%29",
+          "revision": 1380149952
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0364845/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/60/ncis"
+        }
+      ],
+      "rank": 35
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "Criminal Minds",
+      "original_air_date": "2005-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0452046/",
+      "imdb_id": "tt0452046",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Criminal_Minds",
+          "revision": 1376065651
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0452046/"
+        }
+      ],
+      "rank": 36
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "CSI: Crime Scene Investigation",
+      "original_air_date": "2000-10-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0247082/",
+      "imdb_id": "tt0247082",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/CSI%3A_Crime_Scene_Investigation",
+          "revision": 1379361287
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0247082/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/109/csi-crime-scene-investigation"
+        }
+      ],
+      "rank": 37
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "Psych",
+      "original_air_date": "2006-07-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0491738/",
+      "imdb_id": "tt0491738",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Psych",
+          "revision": 1380443260
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0491738/"
+        }
+      ],
+      "rank": 38
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Monk",
+      "original_air_date": "2002-07-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0312172/",
+      "imdb_id": "tt0312172",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monk_%28TV_series%29",
+          "revision": 1379529726
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0312172/"
+        }
+      ],
+      "rank": 39
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "Bones",
+      "original_air_date": "2005-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0460627/",
+      "imdb_id": "tt0460627",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Bones_%28TV_series%29",
+          "revision": 1378950057
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0460627/"
+        }
+      ],
+      "rank": 40
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "The Mentalist",
+      "original_air_date": "2008-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1196946/",
+      "imdb_id": "tt1196946",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Mentalist",
+          "revision": 1379131401
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1196946/"
+        }
+      ],
+      "rank": 41
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Castle",
+      "original_air_date": "2009-03-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1219024/",
+      "imdb_id": "tt1219024",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Castle_%28TV_series%29",
+          "revision": 1368586794
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1219024/"
+        }
+      ],
+      "rank": 42
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "Burn Notice",
+      "original_air_date": "2007-06-28",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0810788/",
+      "imdb_id": "tt0810788",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Burn_Notice",
+          "revision": 1368576779
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0810788/"
+        }
+      ],
+      "rank": 43
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "The Shield",
+      "original_air_date": "2002-03-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0286486/",
+      "imdb_id": "tt0286486",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Shield",
+          "revision": 1379463942
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0286486/"
+        }
+      ],
+      "rank": 44
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Mad Men",
+      "original_air_date": "2007-07-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0804503/",
+      "imdb_id": "tt0804503",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mad_Men",
+          "revision": 1375573198
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0804503/"
+        }
+      ],
+      "rank": 45
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "Deadwood",
+      "original_air_date": "2004-03-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0348914/",
+      "imdb_id": "tt0348914",
+      "edition": "Original television series; its later side movie is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deadwood_%28TV_series%29",
+          "revision": 1376792373
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0348914/"
+        }
+      ],
+      "rank": 46
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "Band of Brothers",
+      "original_air_date": "2001-09-09",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0185906/",
+      "imdb_id": "tt0185906",
+      "edition": "Original episodic television miniseries, not a standalone television movie.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Band_of_Brothers_%28miniseries%29",
+          "revision": 1378054416
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0185906/"
+        }
+      ],
+      "rank": 47
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "MythBusters",
+      "original_air_date": "2003-01-23",
+      "category": "reality_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Australia"
+      ],
+      "link": "https://www.imdb.com/title/tt0383126/",
+      "imdb_id": "tt0383126",
+      "edition": "Science entertainment reality series with US and Australian production origins, not a pure classroom or instructional programme.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/MythBusters",
+          "revision": 1378901231
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0383126/"
+        }
+      ],
+      "rank": 48
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Survivor",
+      "original_air_date": "2000-05-31",
+      "category": "reality_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0239195/",
+      "imdb_id": "tt0239195",
+      "edition": "Original US edition beginning in 2000; other national versions are separate productions.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Survivor_%28American_TV_series%29",
+          "revision": 1380345762
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0239195/"
+        }
+      ],
+      "rank": 49
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "Planet Earth",
+      "original_air_date": "2006-03-05",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0795176/",
+      "imdb_id": "tt0795176",
+      "edition": "Original BBC documentary series. Different broadcasters and narrator versions do not create additional entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Planet_Earth_%282006_TV_series%29",
+          "revision": 1378378520
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0795176/"
+        }
+      ],
+      "rank": 50
+    }
+  ],
+  "user_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-10-17",
+    "original_batch_size": 50,
+    "approved_original_ranks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "automatic_approved_original_ranks": [],
+    "declined_count": 0,
+    "pending_count": 0,
+    "review_history": "reviews/2000s.json",
+    "original_batch_archive": "../RAW/2000s.md",
+    "standing_preferences": "preferences.json"
+  }
+}

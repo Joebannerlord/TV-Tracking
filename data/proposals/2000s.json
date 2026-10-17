@@ -1,10 +1,10 @@
 {
   "decade": "2000–2009",
-  "status": "pending_user_review",
-  "selection_limit": 50,
+  "status": "reviewed",
+  "selection_limit": 100,
   "proposed_count": 50,
-  "approved_count": 0,
-  "pending_count": 50,
+  "approved_count": 50,
+  "pending_count": 0,
   "prepared_on": "2026-10-17",
   "ranking": "Editorial recommendation order. Original numbers remain stable for all reviewers.",
   "selection_criteria": [
@@ -29,7 +29,7 @@
       "link": "https://www.imdb.com/title/tt0903747/",
       "imdb_id": "tt0903747",
       "edition": "Original television series; the side movie El Camino is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Breaking_Bad",
@@ -58,7 +58,7 @@
       "link": "https://www.imdb.com/title/tt0306414/",
       "imdb_id": "tt0306414",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Wire",
@@ -87,7 +87,7 @@
       "link": "https://www.imdb.com/title/tt0411008/",
       "imdb_id": "tt0411008",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Lost_%28TV_series%29",
@@ -110,7 +110,7 @@
       "link": "https://www.imdb.com/title/tt0773262/",
       "imdb_id": "tt0773262",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Dexter_%28TV_series%29",
@@ -133,7 +133,7 @@
       "link": "https://www.imdb.com/title/tt1124373/",
       "imdb_id": "tt1124373",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Sons_of_Anarchy",
@@ -156,7 +156,7 @@
       "link": "https://www.imdb.com/title/tt0455275/",
       "imdb_id": "tt0455275",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Prison_Break",
@@ -179,7 +179,7 @@
       "link": "https://www.imdb.com/title/tt0285331/",
       "imdb_id": "tt0285331",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/24_%28TV_series%29",
@@ -202,7 +202,7 @@
       "link": "https://www.imdb.com/title/tt0412142/",
       "imdb_id": "tt0412142",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/House_%28TV_series%29",
@@ -228,7 +228,7 @@
       "link": "https://www.imdb.com/title/tt0460681/",
       "imdb_id": "tt0460681",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Supernatural_%28American_TV_series%29",
@@ -251,7 +251,7 @@
       "link": "https://www.imdb.com/title/tt0279600/",
       "imdb_id": "tt0279600",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Smallville",
@@ -274,7 +274,7 @@
       "link": "https://www.imdb.com/title/tt0813715/",
       "imdb_id": "tt0813715",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Heroes_%28American_TV_series%29",
@@ -300,7 +300,7 @@
       "link": "https://www.imdb.com/title/tt0407362/",
       "imdb_id": "tt0407362",
       "edition": "Reimagined edition including the two-part 2003 miniseries introduction, followed by the regular series. One entry for this edition, separate from the approved 1978 original.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_%282004_TV_series%29",
@@ -327,7 +327,7 @@
       "link": "https://www.imdb.com/title/tt0374455/",
       "imdb_id": "tt0374455",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Stargate_Atlantis",
@@ -353,7 +353,7 @@
       "link": "https://www.imdb.com/title/tt0244365/",
       "imdb_id": "tt0244365",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Enterprise",
@@ -376,7 +376,7 @@
       "link": "https://www.imdb.com/title/tt0436992/",
       "imdb_id": "tt0436992",
       "edition": "Distinct 2005 revival record, separate from the approved original 1963 series and the later separately indexed edition. Individual doctors and seasons are not separate entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Doctor_Who",
@@ -402,7 +402,7 @@
       "link": "https://www.imdb.com/title/tt1119644/",
       "imdb_id": "tt1119644",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Fringe_%28TV_series%29",
@@ -425,7 +425,7 @@
       "link": "https://www.imdb.com/title/tt0303461/",
       "imdb_id": "tt0303461",
       "edition": "Original television series; the side movie Serenity is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Firefly_%28TV_series%29",
@@ -448,7 +448,7 @@
       "link": "https://www.imdb.com/title/tt1405406/",
       "imdb_id": "tt1405406",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Vampire_Diaries",
@@ -474,7 +474,7 @@
       "link": "https://www.imdb.com/title/tt0844441/",
       "imdb_id": "tt0844441",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/True_Blood",
@@ -500,7 +500,7 @@
       "link": "https://www.imdb.com/title/tt1199099/",
       "imdb_id": "tt1199099",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Merlin_%282008_TV_series%29",
@@ -523,7 +523,7 @@
       "link": "https://www.imdb.com/title/tt0386676/",
       "imdb_id": "tt0386676",
       "edition": "US 2005 adaptation, not the separately titled UK original.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Office_%28American_TV_series%29",
@@ -546,7 +546,7 @@
       "link": "https://www.imdb.com/title/tt0460649/",
       "imdb_id": "tt0460649",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/How_I_Met_Your_Mother",
@@ -569,7 +569,7 @@
       "link": "https://www.imdb.com/title/tt0898266/",
       "imdb_id": "tt0898266",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Big_Bang_Theory",
@@ -595,7 +595,7 @@
       "link": "https://www.imdb.com/title/tt0369179/",
       "imdb_id": "tt0369179",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men",
@@ -618,7 +618,7 @@
       "link": "https://www.imdb.com/title/tt1442437/",
       "imdb_id": "tt1442437",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Modern_Family",
@@ -641,7 +641,7 @@
       "link": "https://www.imdb.com/title/tt0212671/",
       "imdb_id": "tt0212671",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Malcolm_in_the_Middle",
@@ -664,7 +664,7 @@
       "link": "https://www.imdb.com/title/tt0285403/",
       "imdb_id": "tt0285403",
       "edition": "Original 2001 live-action sitcom series record; individual seasons are not separate entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://www.imdb.com/title/tt0285403/"
@@ -686,7 +686,7 @@
       "link": "https://www.imdb.com/title/tt0367279/",
       "imdb_id": "tt0367279",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Arrested_Development",
@@ -712,7 +712,7 @@
       "link": "https://www.imdb.com/title/tt0472954/",
       "imdb_id": "tt0472954",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia",
@@ -738,7 +738,7 @@
       "link": "https://www.imdb.com/title/tt0264235/",
       "imdb_id": "tt0264235",
       "edition": "Episodic series beginning October 15, 2000. The 1999 standalone mockumentary special is not an additional series entry or this premiere date.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm",
@@ -764,7 +764,7 @@
       "link": "https://www.imdb.com/title/tt1266020/",
       "imdb_id": "tt1266020",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation",
@@ -790,7 +790,7 @@
       "link": "https://www.imdb.com/title/tt1439629/",
       "imdb_id": "tt1439629",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Community_%28TV_series%29",
@@ -816,7 +816,7 @@
       "link": "https://www.imdb.com/title/tt0496424/",
       "imdb_id": "tt0496424",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/30_Rock",
@@ -839,7 +839,7 @@
       "link": "https://www.imdb.com/title/tt0487831/",
       "imdb_id": "tt0487831",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_IT_Crowd",
@@ -862,7 +862,7 @@
       "link": "https://www.imdb.com/title/tt0364845/",
       "imdb_id": "tt0364845",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/NCIS_%28TV_series%29",
@@ -888,7 +888,7 @@
       "link": "https://www.imdb.com/title/tt0452046/",
       "imdb_id": "tt0452046",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Criminal_Minds",
@@ -911,7 +911,7 @@
       "link": "https://www.imdb.com/title/tt0247082/",
       "imdb_id": "tt0247082",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/CSI%3A_Crime_Scene_Investigation",
@@ -937,7 +937,7 @@
       "link": "https://www.imdb.com/title/tt0491738/",
       "imdb_id": "tt0491738",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Psych",
@@ -960,7 +960,7 @@
       "link": "https://www.imdb.com/title/tt0312172/",
       "imdb_id": "tt0312172",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Monk_%28TV_series%29",
@@ -983,7 +983,7 @@
       "link": "https://www.imdb.com/title/tt0460627/",
       "imdb_id": "tt0460627",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Bones_%28TV_series%29",
@@ -1006,7 +1006,7 @@
       "link": "https://www.imdb.com/title/tt1196946/",
       "imdb_id": "tt1196946",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Mentalist",
@@ -1029,7 +1029,7 @@
       "link": "https://www.imdb.com/title/tt1219024/",
       "imdb_id": "tt1219024",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Castle_%28TV_series%29",
@@ -1052,7 +1052,7 @@
       "link": "https://www.imdb.com/title/tt0810788/",
       "imdb_id": "tt0810788",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Burn_Notice",
@@ -1075,7 +1075,7 @@
       "link": "https://www.imdb.com/title/tt0286486/",
       "imdb_id": "tt0286486",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Shield",
@@ -1098,7 +1098,7 @@
       "link": "https://www.imdb.com/title/tt0804503/",
       "imdb_id": "tt0804503",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Mad_Men",
@@ -1121,7 +1121,7 @@
       "link": "https://www.imdb.com/title/tt0348914/",
       "imdb_id": "tt0348914",
       "edition": "Original television series; its later side movie is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Deadwood_%28TV_series%29",
@@ -1144,7 +1144,7 @@
       "link": "https://www.imdb.com/title/tt0185906/",
       "imdb_id": "tt0185906",
       "edition": "Original episodic television miniseries, not a standalone television movie.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Band_of_Brothers_%28miniseries%29",
@@ -1168,7 +1168,7 @@
       "link": "https://www.imdb.com/title/tt0383126/",
       "imdb_id": "tt0383126",
       "edition": "Science entertainment reality series with US and Australian production origins, not a pure classroom or instructional programme.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/MythBusters",
@@ -1191,7 +1191,7 @@
       "link": "https://www.imdb.com/title/tt0239195/",
       "imdb_id": "tt0239195",
       "edition": "Original US edition beginning in 2000; other national versions are separate productions.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Survivor_%28American_TV_series%29",
@@ -1214,7 +1214,7 @@
       "link": "https://www.imdb.com/title/tt0795176/",
       "imdb_id": "tt0795176",
       "edition": "Original BBC documentary series. Different broadcasters and narrator versions do not create additional entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Planet_Earth_%282006_TV_series%29",
@@ -1225,5 +1225,9 @@
         }
       ]
     }
-  ]
+  ],
+  "original_batch_size": 50,
+  "review_batch_size": 50,
+  "declined_count": 0,
+  "reviewed_on": "2026-10-17"
 }
