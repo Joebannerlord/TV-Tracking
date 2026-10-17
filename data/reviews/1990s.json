@@ -1,0 +1,375 @@
+{
+  "decade": "1990–1999",
+  "status": "partially_reviewed",
+  "reviewed_on": "2026-10-17",
+  "reviewer": "repository_owner",
+  "original_batch_size": 50,
+  "original_batch_archive": "../../RAW/1990s.md",
+  "original_data_archive": "../../RAW/data/1990s.json",
+  "approved_original_ranks": [
+    49,
+    50
+  ],
+  "automatic_approved_original_ranks": [
+    49,
+    50
+  ],
+  "approved_count": 2,
+  "declined_count": 0,
+  "pending_count": 48,
+  "standing_preferences": "../preferences.json",
+  "decisions": [
+    {
+      "recommendation_rank": 1,
+      "title": "Friends",
+      "imdb_id": "tt0108778",
+      "link": "https://www.imdb.com/title/tt0108778/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Frasier",
+      "imdb_id": "tt0106004",
+      "link": "https://www.imdb.com/title/tt0106004/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "The Fresh Prince of Bel-Air",
+      "imdb_id": "tt0098800",
+      "link": "https://www.imdb.com/title/tt0098800/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "Home Improvement",
+      "imdb_id": "tt0101120",
+      "link": "https://www.imdb.com/title/tt0101120/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "Everybody Loves Raymond",
+      "imdb_id": "tt0115167",
+      "link": "https://www.imdb.com/title/tt0115167/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "The King of Queens",
+      "imdb_id": "tt0165581",
+      "link": "https://www.imdb.com/title/tt0165581/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "That '70s Show",
+      "imdb_id": "tt0165598",
+      "link": "https://www.imdb.com/title/tt0165598/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "3rd Rock from the Sun",
+      "imdb_id": "tt0115082",
+      "link": "https://www.imdb.com/title/tt0115082/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "Boy Meets World",
+      "imdb_id": "tt0105958",
+      "link": "https://www.imdb.com/title/tt0105958/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "Sabrina the Teenage Witch",
+      "imdb_id": "tt0115341",
+      "link": "https://www.imdb.com/title/tt0115341/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "The Nanny",
+      "imdb_id": "tt0106080",
+      "link": "https://www.imdb.com/title/tt0106080/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "It",
+      "imdb_id": "tt0099864",
+      "link": "https://www.imdb.com/title/tt0099864/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "The Stand",
+      "imdb_id": "tt0108941",
+      "link": "https://www.imdb.com/title/tt0108941/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Buffy the Vampire Slayer",
+      "imdb_id": "tt0118276",
+      "link": "https://www.imdb.com/title/tt0118276/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "Angel",
+      "imdb_id": "tt0162065",
+      "link": "https://www.imdb.com/title/tt0162065/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Charmed",
+      "imdb_id": "tt0158552",
+      "link": "https://www.imdb.com/title/tt0158552/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "The X-Files",
+      "imdb_id": "tt0106179",
+      "link": "https://www.imdb.com/title/tt0106179/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "Star Trek: Deep Space Nine",
+      "imdb_id": "tt0106145",
+      "link": "https://www.imdb.com/title/tt0106145/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "Star Trek: Voyager",
+      "imdb_id": "tt0112178",
+      "link": "https://www.imdb.com/title/tt0112178/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Stargate SG-1",
+      "imdb_id": "tt0118480",
+      "link": "https://www.imdb.com/title/tt0118480/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "Babylon 5",
+      "imdb_id": "tt0105946",
+      "link": "https://www.imdb.com/title/tt0105946/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "Sliders",
+      "imdb_id": "tt0112167",
+      "link": "https://www.imdb.com/title/tt0112167/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "Due South",
+      "imdb_id": "tt0108756",
+      "link": "https://www.imdb.com/title/tt0108756/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "Xena: Warrior Princess",
+      "imdb_id": "tt0112230",
+      "link": "https://www.imdb.com/title/tt0112230/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Hercules: The Legendary Journeys",
+      "imdb_id": "tt0111999",
+      "link": "https://www.imdb.com/title/tt0111999/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Highlander: The Series",
+      "imdb_id": "tt0103442",
+      "link": "https://www.imdb.com/title/tt0103442/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "Lois & Clark: The New Adventures of Superman",
+      "imdb_id": "tt0106057",
+      "link": "https://www.imdb.com/title/tt0106057/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Mighty Morphin Power Rangers",
+      "imdb_id": "tt0106064",
+      "link": "https://www.imdb.com/title/tt0106064/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "Goosebumps",
+      "imdb_id": "tt0111987",
+      "link": "https://www.imdb.com/title/tt0111987/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "Are You Afraid of the Dark?",
+      "imdb_id": "tt0103352",
+      "link": "https://www.imdb.com/title/tt0103352/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Twin Peaks",
+      "imdb_id": "tt0098936",
+      "link": "https://www.imdb.com/title/tt0098936/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "The Sopranos",
+      "imdb_id": "tt0141842",
+      "link": "https://www.imdb.com/title/tt0141842/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "ER",
+      "imdb_id": "tt0108757",
+      "link": "https://www.imdb.com/title/tt0108757/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "Law & Order",
+      "imdb_id": "tt0098844",
+      "link": "https://www.imdb.com/title/tt0098844/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Law & Order: Special Victims Unit",
+      "imdb_id": "tt0203259",
+      "link": "https://www.imdb.com/title/tt0203259/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "Walker, Texas Ranger",
+      "imdb_id": "tt0106168",
+      "link": "https://www.imdb.com/title/tt0106168/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "JAG",
+      "imdb_id": "tt0112022",
+      "link": "https://www.imdb.com/title/tt0112022/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "Beverly Hills, 90210",
+      "imdb_id": "tt0098749",
+      "link": "https://www.imdb.com/title/tt0098749/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Sex and the City",
+      "imdb_id": "tt0159206",
+      "link": "https://www.imdb.com/title/tt0159206/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "Freaks and Geeks",
+      "imdb_id": "tt0193676",
+      "link": "https://www.imdb.com/title/tt0193676/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "Northern Exposure",
+      "imdb_id": "tt0098878",
+      "link": "https://www.imdb.com/title/tt0098878/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Mr. Bean",
+      "imdb_id": "tt0096657",
+      "link": "https://www.imdb.com/title/tt0096657/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "Keeping Up Appearances",
+      "imdb_id": "tt0098837",
+      "link": "https://www.imdb.com/title/tt0098837/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "Father Ted",
+      "imdb_id": "tt0111958",
+      "link": "https://www.imdb.com/title/tt0111958/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Forensic Files",
+      "imdb_id": "tt0247882",
+      "link": "https://www.imdb.com/title/tt0247882/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "The West Wing",
+      "imdb_id": "tt0200276",
+      "link": "https://www.imdb.com/title/tt0200276/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "The Civil War",
+      "imdb_id": "tt0098769",
+      "link": "https://www.imdb.com/title/tt0098769/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Who Wants to Be a Millionaire?",
+      "imdb_id": "tt0166064",
+      "link": "https://www.imdb.com/title/tt0166064/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Bruce's Price Is Right",
+      "imdb_id": "tt0274243",
+      "link": "https://www.imdb.com/title/tt0274243/",
+      "decision": "approved",
+      "decision_source": "standing_preference"
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "Family Feud",
+      "imdb_id": "tt0177440",
+      "link": "https://www.imdb.com/title/tt0177440/",
+      "decision": "approved",
+      "decision_source": "standing_preference"
+    }
+  ]
+}
