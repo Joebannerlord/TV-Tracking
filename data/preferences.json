@@ -1,0 +1,29 @@
+{
+  "updated_on": "2026-10-17",
+  "reviewer": "repository_owner",
+  "automatic_approvals": [
+    {
+      "franchise_title": "The Price Is Right",
+      "decision": "approved",
+      "applies_to": "Future eligible distinct series or editions appearing in recommendation batches."
+    },
+    {
+      "franchise_title": "Wheel of Fortune",
+      "decision": "approved",
+      "applies_to": "Future eligible distinct series or editions appearing in recommendation batches."
+    },
+    {
+      "franchise_title": "Family Feud",
+      "decision": "approved",
+      "applies_to": "Future eligible distinct series or editions appearing in recommendation batches."
+    }
+  ],
+  "rules": "Apply these owner approvals within the existing catalogue eligibility and uniqueness rules. An existing edition continuing into another decade does not create another entry. Preserve the complete RAW batches for independent reviewers.",
+  "source_instruction": "46 47 48 will always be yes for as long as they appear lol",
+  "source_batch": "reviews/1970s.json",
+  "source_original_ranks": [
+    46,
+    47,
+    48
+  ]
+}
