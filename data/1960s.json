@@ -1,0 +1,438 @@
+{
+  "decade": "1960–1969",
+  "selection_limit": 50,
+  "selected_count": 16,
+  "ranking": "User-approved titles in the order of the original 50-title recommendation batch.",
+  "shows": [
+    {
+      "recommendation_rank": 1,
+      "title": "Star Trek: The Original Series",
+      "original_air_date": "1966-09-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0060028/",
+      "imdb_id": "tt0060028",
+      "edition": "First television broadcast was in Canada on September 6, before the US broadcast on September 8.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_The_Original_Series",
+          "revision": 1380672992
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0060028/"
+        },
+        {
+          "url": "https://www.startrek.com/en-un/series/star-trek-the-original-series"
+        },
+        {
+          "url": "https://interviews.televisionacademy.com/shows/star-trek"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Doctor Who",
+      "original_air_date": "1963-11-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0056751/",
+      "imdb_id": "tt0056751",
+      "edition": "Original classic series beginning in 1963; the 1996 film and subsequent series have different records.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doctor_Who",
+          "revision": 1378841592
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0056751/"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "The Alfred Hitchcock Hour",
+      "original_air_date": "1962-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0055657/",
+      "imdb_id": "tt0055657",
+      "edition": "Separately titled and indexed hour-long continuation of Alfred Hitchcock Presents. IMDb records this series separately.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents",
+          "revision": 1380219873
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0055657/"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "The Dick Van Dyke Show",
+      "original_air_date": "1961-10-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0054533/",
+      "imdb_id": "tt0054533",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Dick_Van_Dyke_Show",
+          "revision": 1373466953
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0054533/"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "The Andy Griffith Show",
+      "original_air_date": "1960-10-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0053479/",
+      "imdb_id": "tt0053479",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Andy_Griffith_Show",
+          "revision": 1379356180
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0053479/"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "Columbo",
+      "original_air_date": "1968-02-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1466074/",
+      "imdb_id": "tt1466074",
+      "edition": "Includes the 1968 feature-length pilot Prescription: Murder as a series episode under the owner's rule permitting feature-length episodes. Regular series began in 1971.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Columbo",
+          "revision": 1379843351
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1466074/"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "The Munsters",
+      "original_air_date": "1964-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0057773/",
+      "imdb_id": "tt0057773",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Munsters",
+          "revision": 1378023825
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0057773/"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "Batman",
+      "original_air_date": "1966-01-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0059968/",
+      "imdb_id": "tt0059968",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Batman_%28TV_series%29",
+          "revision": 1377669486
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0059968/"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Mission: Impossible",
+      "original_air_date": "1966-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0060009/",
+      "imdb_id": "tt0060009",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mission%3A_Impossible_%281966_TV_series%29",
+          "revision": 1372810608
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0060009/"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "The Brady Bunch",
+      "original_air_date": "1969-09-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0063878/",
+      "imdb_id": "tt0063878",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Brady_Bunch",
+          "revision": 1378659967
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0063878/"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "The Lucy Show",
+      "original_air_date": "1962-10-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0055686/",
+      "imdb_id": "tt0055686",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Lucy_Show",
+          "revision": 1368626098
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0055686/"
+        }
+      ],
+      "rank": 11
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "Here's Lucy",
+      "original_air_date": "1968-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0062570/",
+      "imdb_id": "tt0062570",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Here%27s_Lucy",
+          "revision": 1375661164
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0062570/"
+        }
+      ],
+      "rank": 12
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Lost in Space",
+      "original_air_date": "1965-09-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0058824/",
+      "imdb_id": "tt0058824",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lost_in_Space",
+          "revision": 1376035660
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0058824/"
+        }
+      ],
+      "rank": 13
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Monty Python's Flying Circus",
+      "original_air_date": "1969-10-05",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0063929/",
+      "imdb_id": "tt0063929",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus",
+          "revision": 1375640475
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0063929/"
+        }
+      ],
+      "rank": 14
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Jeopardy!",
+      "original_air_date": "1964-03-30",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0057758/",
+      "imdb_id": "tt0057758",
+      "edition": "Original Art Fleming daytime version; the later Trebek revival is a different edition.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Jeopardy%21",
+          "revision": 1379554893
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0057758/"
+        },
+        {
+          "url": "https://www.jeopardy.com/jbuzz/contestants/meet-first-jeopardy-champion"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "original_run": "1964-03-30/1975-01-03",
+        "assessment": "Original daytime run exceeds five seasons.",
+        "source": "https://www.televisionacademy.com/features/news/mix/and-answer"
+      },
+      "rank": 15
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "Let's Make a Deal",
+      "original_air_date": "1963-12-30",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0056770/",
+      "imdb_id": "tt0056770",
+      "edition": "Original Monty Hall daytime run beginning in 1963 and continuing on ABC through 1976. The network change does not create another entry.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal",
+          "revision": 1380557713
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0056770/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "original_run": "1963-12-30/1976-07-09",
+        "assessment": "Continuous original daytime run exceeds five seasons, spanning NBC and ABC."
+      },
+      "rank": 16
+    }
+  ],
+  "user_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-10-17",
+    "original_batch_size": 50,
+    "approved_original_ranks": [
+      1,
+      2,
+      4,
+      6,
+      7,
+      8,
+      10,
+      13,
+      14,
+      22,
+      23,
+      24,
+      26,
+      31,
+      42,
+      44
+    ],
+    "declined_count": 34,
+    "review_history": "reviews/1960s.json",
+    "original_batch_archive": "../RAW/1960s.md"
+  }
+}
