@@ -8,13 +8,15 @@ A curated catalogue of English-language television originating in North America 
 - **Strong reputation:** audience response, critical recognition, and lasting appeal.
 - **A clear reason to recommend it:** each pick offers something worthwhile beyond historical importance.
 
-Each decade has a shared ceiling of 50 titles across all eligible formats. A list can be shorter. Rank expresses editorial recommendation priority using these criteria; ratings and awards support the judgement.
+Each decade has a shared ceiling of 50 recommendations across all eligible formats. A list can be shorter. Ratings and awards support the editorial judgement. User decisions determine which recommendations remain in the active catalogue; approved titles appear in their original recommendation order.
 
 ## Decades
 
-- [1950–1959 — 40 picks](decades/1950s.md)
+- [1950–1959 — 7 approved shows](decades/1950s.md)
 
 The browsing lists contain only ranked show names linked to IMDb or another relevant series page. Original television premiere dates and source references are stored in [the catalogue data](data/1950s.json).
+
+The [1950s review history](data/reviews/1950s.json) records all 40 decisions: 7 approved and 33 declined. Future recommendations should respect these recorded choices for the reviewed title and version.
 
 ## Scope
 
