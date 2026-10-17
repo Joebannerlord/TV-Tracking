@@ -1,0 +1,299 @@
+{
+  "decade": "1950–1959",
+  "reviewed_on": "2026-10-17",
+  "original_batch_commit": "d97e17c6ae0b33d6fc08fd4d9ceb2421ee386100",
+  "original_batch_size": 40,
+  "approved_original_ranks": [
+    1,
+    2,
+    3,
+    20,
+    29,
+    38,
+    40
+  ],
+  "approved_count": 7,
+  "declined_count": 33,
+  "decisions": [
+    {
+      "recommendation_rank": 1,
+      "title": "The Twilight Zone",
+      "imdb_id": "tt0052520",
+      "link": "https://www.imdb.com/title/tt0052520/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Alfred Hitchcock Presents",
+      "imdb_id": "tt0047708",
+      "link": "https://www.imdb.com/title/tt0047708/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "I Love Lucy",
+      "imdb_id": "tt0043208",
+      "link": "https://www.imdb.com/title/tt0043208/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "Quatermass and the Pit",
+      "imdb_id": "tt0051305",
+      "link": "https://www.imdb.com/title/tt0051305/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "The Honeymooners",
+      "imdb_id": "tt0042114",
+      "link": "https://www.imdb.com/title/tt0042114/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "Maverick",
+      "imdb_id": "tt0050037",
+      "link": "https://www.imdb.com/title/tt0050037/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "Have Gun – Will Travel",
+      "imdb_id": "tt0050025",
+      "link": "https://www.imdb.com/title/tt0050025/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "Perry Mason",
+      "imdb_id": "tt0050051",
+      "link": "https://www.imdb.com/title/tt0050051/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "Gunsmoke",
+      "imdb_id": "tt0047736",
+      "link": "https://www.imdb.com/title/tt0047736/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "The Phil Silvers Show",
+      "imdb_id": "tt0047763",
+      "link": "https://www.imdb.com/title/tt0047763/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "Peter Gunn",
+      "imdb_id": "tt0051301",
+      "link": "https://www.imdb.com/title/tt0051301/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "The Untouchables",
+      "imdb_id": "tt0052522",
+      "link": "https://www.imdb.com/title/tt0052522/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "The Rifleman",
+      "imdb_id": "tt0051308",
+      "link": "https://www.imdb.com/title/tt0051308/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Zorro",
+      "imdb_id": "tt0050079",
+      "link": "https://www.imdb.com/title/tt0050079/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "Leave It to Beaver",
+      "imdb_id": "tt0050032",
+      "link": "https://www.imdb.com/title/tt0050032/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Naked City",
+      "imdb_id": "tt0051297",
+      "link": "https://www.imdb.com/title/tt0051297/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "The Jack Benny Program",
+      "imdb_id": "tt0042116",
+      "link": "https://www.imdb.com/title/tt0042116/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "The George Burns and Gracie Allen Show",
+      "imdb_id": "tt0042111",
+      "link": "https://www.imdb.com/title/tt0042111/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "Rawhide",
+      "imdb_id": "tt0052504",
+      "link": "https://www.imdb.com/title/tt0052504/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "The Adventures of Robin Hood",
+      "imdb_id": "tt0047706",
+      "link": "https://www.imdb.com/title/tt0047706/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "Hancock's Half Hour",
+      "imdb_id": "tt0124703",
+      "link": "https://www.imdb.com/title/tt0124703/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "Bonanza",
+      "imdb_id": "tt0052451",
+      "link": "https://www.imdb.com/title/tt0052451/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "The Many Loves of Dobie Gillis",
+      "imdb_id": "tt0052490",
+      "link": "https://www.imdb.com/title/tt0052490/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "The Donna Reed Show",
+      "imdb_id": "tt0051267",
+      "link": "https://www.imdb.com/title/tt0051267/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Playhouse 90",
+      "imdb_id": "tt0048893",
+      "link": "https://www.imdb.com/title/tt0048893/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "One Step Beyond",
+      "imdb_id": "tt0052442",
+      "link": "https://www.imdb.com/title/tt0052442/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "Quatermass II",
+      "imdb_id": "tt0047766",
+      "link": "https://www.imdb.com/title/tt0047766/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Wanted: Dead or Alive",
+      "imdb_id": "tt0051327",
+      "link": "https://www.imdb.com/title/tt0051327/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "Adventures of Superman",
+      "imdb_id": "tt0044231",
+      "link": "https://www.imdb.com/title/tt0044231/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "Father Knows Best",
+      "imdb_id": "tt0046600",
+      "link": "https://www.imdb.com/title/tt0046600/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Dragnet",
+      "imdb_id": "tt0043194",
+      "link": "https://www.imdb.com/title/tt0043194/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "77 Sunset Strip",
+      "imdb_id": "tt0051247",
+      "link": "https://www.imdb.com/title/tt0051247/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "Richard Diamond, Private Detective",
+      "imdb_id": "tt0050056",
+      "link": "https://www.imdb.com/title/tt0050056/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "Victory at Sea",
+      "imdb_id": "tt0046658",
+      "link": "https://www.imdb.com/title/tt0046658/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Zoo Quest",
+      "imdb_id": "tt0918481",
+      "link": "https://www.imdb.com/title/tt0918481/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "Candid Eye",
+      "imdb_id": null,
+      "link": "https://www.nfb.ca/collection/candid-eye-television-series/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "You Bet Your Life",
+      "imdb_id": "tt0042171",
+      "link": "https://www.imdb.com/title/tt0042171/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "What's My Line?",
+      "imdb_id": "tt0042168",
+      "link": "https://www.imdb.com/title/tt0042168/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "I've Got a Secret",
+      "imdb_id": "tt0044270",
+      "link": "https://www.imdb.com/title/tt0044270/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "The Price Is Right",
+      "imdb_id": "tt0048894",
+      "link": "https://www.imdb.com/title/tt0048894/",
+      "decision": "approved"
+    }
+  ]
+}
