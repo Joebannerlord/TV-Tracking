@@ -1,0 +1,96 @@
+{
+  "decade": "1990–1999",
+  "selection_limit": 50,
+  "selected_count": 2,
+  "ranking": "Approved titles in original recommendation order. Remaining recommendations are awaiting user review.",
+  "shows": [
+    {
+      "recommendation_rank": 49,
+      "title": "Bruce's Price Is Right",
+      "original_air_date": "1995-09-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0274243/",
+      "imdb_id": "tt0274243",
+      "edition": "Bruce Forsyth's distinct 1995 British revival; the original US series and other British hosts' versions are separate editions.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right_%28British_game_show%29",
+          "revision": 1372381736
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0274243/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1995-09-04/2001-12-16",
+        "seasons": 7,
+        "assessment": "Bruce Forsyth version alone has seven series; Crowther, Warman, and Pasquale versions are not combined.",
+        "source": "https://en.wikipedia.org/wiki/The_Price_Is_Right_%28British_game_show%29"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "preferences.json",
+        "franchise_title": "The Price Is Right"
+      },
+      "rank": 1
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "Family Feud",
+      "original_air_date": "1999-09-20",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0177440/",
+      "imdb_id": "tt0177440",
+      "edition": "1999 syndicated revival, originally hosted by Louie Anderson and later by Richard Karn, John O'Hurley, and Steve Harvey. Host changes do not create new entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "revision": 1380751025
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0177440/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1999-09-20/ongoing",
+        "assessment": "The 1999 syndicated revival itself exceeds five seasons; 1976 and 1988 editions are separate records.",
+        "source": "https://en.wikipedia.org/wiki/Family_Feud"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "preferences.json",
+        "franchise_title": "Family Feud"
+      },
+      "rank": 2
+    }
+  ],
+  "user_review": {
+    "status": "partially_reviewed",
+    "reviewed_on": "2026-10-17",
+    "original_batch_size": 50,
+    "approved_original_ranks": [
+      49,
+      50
+    ],
+    "automatic_approved_original_ranks": [
+      49,
+      50
+    ],
+    "pending_count": 48,
+    "review_history": "reviews/1990s.json",
+    "original_batch_archive": "../RAW/1990s.md",
+    "standing_preferences": "preferences.json"
+  }
+}
