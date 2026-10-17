@@ -1,0 +1,95 @@
+{
+  "decade": "1980–1989",
+  "selection_limit": 50,
+  "selected_count": 2,
+  "ranking": "Approved titles in original recommendation order. Remaining recommendations are awaiting user review.",
+  "shows": [
+    {
+      "recommendation_rank": 49,
+      "title": "Wheel of Fortune",
+      "original_air_date": "1983-09-19",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072584/",
+      "imdb_id": "tt0072584",
+      "edition": "1983 syndicated edition, separately produced alongside the 1975 network daytime show; this is not a repeat airing or an extra entry for a broadcaster.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29",
+          "revision": 1380636230
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072584/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1983-09-19/ongoing",
+        "assessment": "The separately produced syndicated edition itself exceeds five seasons; the 1975 network daytime series is a different record.",
+        "source": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "../preferences.json",
+        "franchise_title": "Wheel of Fortune"
+      },
+      "rank": 1
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "Family Feud",
+      "original_air_date": "1988-07-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0094460/",
+      "imdb_id": "tt0094460",
+      "edition": "1988 revival beginning with Ray Combs and later hosted by Richard Dawson. Its first daytime broadcast was July 4; the qualifying seven-season syndicated run began September 19, 1988.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "revision": 1380751025
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0094460/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1988-09-19/1995-05-26",
+        "assessment": "Seven seasons of the 1988 syndicated revival alone. The simultaneous CBS daytime run is not needed to reach the threshold.",
+        "source": "https://en.wikipedia.org/wiki/Family_Feud"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "../preferences.json",
+        "franchise_title": "Family Feud"
+      },
+      "rank": 2
+    }
+  ],
+  "user_review": {
+    "status": "partially_reviewed",
+    "reviewed_on": "2026-10-17",
+    "original_batch_size": 50,
+    "approved_original_ranks": [
+      49,
+      50
+    ],
+    "automatic_approved_original_ranks": [
+      49,
+      50
+    ],
+    "pending_count": 48,
+    "review_history": "reviews/1980s.json",
+    "original_batch_archive": "../RAW/1980s.md",
+    "standing_preferences": "preferences.json"
+  }
+}
