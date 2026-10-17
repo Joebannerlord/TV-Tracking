@@ -16,6 +16,13 @@
       "franchise_title": "Family Feud",
       "decision": "approved",
       "applies_to": "Future eligible distinct series or editions appearing in recommendation batches."
+    },
+    {
+      "franchise_title": "Jeopardy!",
+      "decision": "approved",
+      "applies_to": "Future eligible distinct series or editions appearing in recommendation batches.",
+      "source_batch": "reviews/1980s.json",
+      "source_original_rank": 48
     }
   ],
   "rules": "Apply these owner approvals within the existing catalogue eligibility and uniqueness rules. An existing edition continuing into another decade does not create another entry. Preserve the complete RAW batches for independent reviewers.",
@@ -25,5 +32,22 @@
     46,
     47,
     48
+  ],
+  "preference_updates": [
+    {
+      "recorded_on": "2026-10-17",
+      "source_batch": "reviews/1980s.json",
+      "source_original_ranks": [
+        48,
+        49,
+        50
+      ],
+      "confirmed_franchises": [
+        "Jeopardy!",
+        "Wheel of Fortune",
+        "Family Feud"
+      ],
+      "source_instruction": "i already yessed all of jeapordy wheel of fortune and family fued. cmon man."
+    }
   ]
 }
