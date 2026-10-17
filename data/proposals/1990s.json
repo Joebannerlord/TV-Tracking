@@ -1,10 +1,10 @@
 {
   "decade": "1990–1999",
-  "status": "partially_reviewed",
+  "status": "reviewed",
   "selection_limit": 50,
   "proposed_count": 50,
-  "approved_count": 2,
-  "pending_count": 48,
+  "approved_count": 40,
+  "pending_count": 0,
   "prepared_on": "2026-10-17",
   "ranking": "Editorial recommendation order. Original batch numbers remain stable for every reviewer.",
   "selection_criteria": [
@@ -31,7 +31,7 @@
       "link": "https://www.imdb.com/title/tt0108778/",
       "imdb_id": "tt0108778",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Friends",
@@ -57,7 +57,7 @@
       "link": "https://www.imdb.com/title/tt0106004/",
       "imdb_id": "tt0106004",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Frasier",
@@ -80,7 +80,7 @@
       "link": "https://www.imdb.com/title/tt0098800/",
       "imdb_id": "tt0098800",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air",
@@ -103,7 +103,7 @@
       "link": "https://www.imdb.com/title/tt0101120/",
       "imdb_id": "tt0101120",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Home_Improvement_%28TV_series%29",
@@ -126,7 +126,7 @@
       "link": "https://www.imdb.com/title/tt0115167/",
       "imdb_id": "tt0115167",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Everybody_Loves_Raymond",
@@ -149,7 +149,7 @@
       "link": "https://www.imdb.com/title/tt0165581/",
       "imdb_id": "tt0165581",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_King_of_Queens",
@@ -172,7 +172,7 @@
       "link": "https://www.imdb.com/title/tt0165598/",
       "imdb_id": "tt0165598",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/That_%2770s_Show",
@@ -195,7 +195,7 @@
       "link": "https://www.imdb.com/title/tt0115082/",
       "imdb_id": "tt0115082",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun",
@@ -218,7 +218,7 @@
       "link": "https://www.imdb.com/title/tt0105958/",
       "imdb_id": "tt0105958",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Boy_Meets_World",
@@ -241,7 +241,7 @@
       "link": "https://www.imdb.com/title/tt0115341/",
       "imdb_id": "tt0115341",
       "edition": "Live-action 1996 sitcom, not the cartoons or the standalone television movie.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_%281996_TV_series%29",
@@ -264,7 +264,7 @@
       "link": "https://www.imdb.com/title/tt0106080/",
       "imdb_id": "tt0106080",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Nanny",
@@ -288,7 +288,7 @@
       "link": "https://www.imdb.com/title/tt0099864/",
       "imdb_id": "tt0099864",
       "edition": "Original two-part 1990 television miniseries; the later theatrical films are excluded.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/It_%28miniseries%29",
@@ -311,7 +311,7 @@
       "link": "https://www.imdb.com/title/tt0108941/",
       "imdb_id": "tt0108941",
       "edition": "Original four-part 1994 television miniseries, not the later remake.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Stand_%281994_miniseries%29",
@@ -334,7 +334,7 @@
       "link": "https://www.imdb.com/title/tt0118276/",
       "imdb_id": "tt0118276",
       "edition": "1997 television series; the standalone 1992 movie is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer",
@@ -357,7 +357,7 @@
       "link": "https://www.imdb.com/title/tt0162065/",
       "imdb_id": "tt0162065",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Angel_%281999_TV_series%29",
@@ -380,7 +380,7 @@
       "link": "https://www.imdb.com/title/tt0158552/",
       "imdb_id": "tt0158552",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Charmed",
@@ -403,7 +403,7 @@
       "link": "https://www.imdb.com/title/tt0106179/",
       "imdb_id": "tt0106179",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_X-Files",
@@ -426,7 +426,7 @@
       "link": "https://www.imdb.com/title/tt0106145/",
       "imdb_id": "tt0106145",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Deep_Space_Nine",
@@ -449,7 +449,7 @@
       "link": "https://www.imdb.com/title/tt0112178/",
       "imdb_id": "tt0112178",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Voyager",
@@ -473,7 +473,7 @@
       "link": "https://www.imdb.com/title/tt0118480/",
       "imdb_id": "tt0118480",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Stargate_SG-1",
@@ -496,7 +496,7 @@
       "link": "https://www.imdb.com/title/tt0105946/",
       "imdb_id": "tt0105946",
       "edition": "Original series including its feature-length 1993 pilot under the rule allowing feature-length episodes; individual seasons and side movies are not additional entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Babylon_5",
@@ -519,7 +519,7 @@
       "link": "https://www.imdb.com/title/tt0112167/",
       "imdb_id": "tt0112167",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Sliders_%28TV_series%29",
@@ -542,7 +542,7 @@
       "link": "https://www.imdb.com/title/tt0108756/",
       "imdb_id": "tt0108756",
       "edition": "Original Canadian live-action series including its feature-length 1994 pilot; the link is the episodic series record.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Due_South",
@@ -568,7 +568,7 @@
       "link": "https://www.imdb.com/title/tt0112230/",
       "imdb_id": "tt0112230",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Xena%3A_Warrior_Princess",
@@ -591,7 +591,7 @@
       "link": "https://www.imdb.com/title/tt0111999/",
       "imdb_id": "tt0111999",
       "edition": "Regular television series beginning in 1995; the preceding standalone television movies are not extra catalogue entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Hercules%3A_The_Legendary_Journeys",
@@ -615,7 +615,7 @@
       "link": "https://www.imdb.com/title/tt0103442/",
       "imdb_id": "tt0103442",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Highlander%3A_The_Series",
@@ -638,7 +638,7 @@
       "link": "https://www.imdb.com/title/tt0106057/",
       "imdb_id": "tt0106057",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Lois_%26_Clark%3A_The_New_Adventures_of_Superman",
@@ -662,7 +662,7 @@
       "link": "https://www.imdb.com/title/tt0106064/",
       "imdb_id": "tt0106064",
       "edition": "Original English-language live-action series, not the side movies, later separately titled Ranger series, or animation.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers",
@@ -686,7 +686,7 @@
       "link": "https://www.imdb.com/title/tt0111987/",
       "imdb_id": "tt0111987",
       "edition": "Original 1995 live-action anthology, not theatrical films or later television adaptations.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Goosebumps_%281995_TV_series%29",
@@ -710,7 +710,7 @@
       "link": "https://www.imdb.com/title/tt0103352/",
       "imdb_id": "tt0103352",
       "edition": "Original live-action anthology record; the later separately indexed revival is not this entry.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Are_You_Afraid_of_the_Dark%3F",
@@ -735,7 +735,7 @@
       "link": "https://www.imdb.com/title/tt0098936/",
       "imdb_id": "tt0098936",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Twin_Peaks",
@@ -758,7 +758,7 @@
       "link": "https://www.imdb.com/title/tt0141842/",
       "imdb_id": "tt0141842",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Sopranos",
@@ -781,7 +781,7 @@
       "link": "https://www.imdb.com/title/tt0108757/",
       "imdb_id": "tt0108757",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/ER_%28TV_series%29",
@@ -804,7 +804,7 @@
       "link": "https://www.imdb.com/title/tt0098844/",
       "imdb_id": "tt0098844",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Law_%26_Order",
@@ -827,7 +827,7 @@
       "link": "https://www.imdb.com/title/tt0203259/",
       "imdb_id": "tt0203259",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Law_%26_Order%3A_Special_Victims_Unit",
@@ -853,7 +853,7 @@
       "link": "https://www.imdb.com/title/tt0106168/",
       "imdb_id": "tt0106168",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Walker%2C_Texas_Ranger",
@@ -876,7 +876,7 @@
       "link": "https://www.imdb.com/title/tt0112022/",
       "imdb_id": "tt0112022",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/JAG_%28TV_series%29",
@@ -899,7 +899,7 @@
       "link": "https://www.imdb.com/title/tt0098749/",
       "imdb_id": "tt0098749",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Beverly_Hills%2C_90210",
@@ -922,7 +922,7 @@
       "link": "https://www.imdb.com/title/tt0159206/",
       "imdb_id": "tt0159206",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Sex_and_the_City",
@@ -945,7 +945,7 @@
       "link": "https://www.imdb.com/title/tt0193676/",
       "imdb_id": "tt0193676",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Freaks_and_Geeks",
@@ -968,7 +968,7 @@
       "link": "https://www.imdb.com/title/tt0098878/",
       "imdb_id": "tt0098878",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Northern_Exposure",
@@ -991,7 +991,7 @@
       "link": "https://www.imdb.com/title/tt0096657/",
       "imdb_id": "tt0096657",
       "edition": "Original live-action comedy, not the animated spin-off or standalone films.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Mr._Bean",
@@ -1014,7 +1014,7 @@
       "link": "https://www.imdb.com/title/tt0098837/",
       "imdb_id": "tt0098837",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Keeping_Up_Appearances",
@@ -1037,7 +1037,7 @@
       "link": "https://www.imdb.com/title/tt0111958/",
       "imdb_id": "tt0111958",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Father_Ted",
@@ -1060,7 +1060,7 @@
       "link": "https://www.imdb.com/title/tt0247882/",
       "imdb_id": "tt0247882",
       "edition": "Original documentary series, initially titled Medical Detectives. The later title is part of this same series; Forensic Files II is a separate production.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Forensic_Files",
@@ -1089,7 +1089,7 @@
       "link": "https://www.imdb.com/title/tt0200276/",
       "imdb_id": "tt0200276",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_West_Wing",
@@ -1112,7 +1112,7 @@
       "link": "https://www.imdb.com/title/tt0098769/",
       "imdb_id": "tt0098769",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Civil_War_%28miniseries%29",
@@ -1135,7 +1135,7 @@
       "link": "https://www.imdb.com/title/tt0166064/",
       "imdb_id": "tt0166064",
       "edition": "Original UK Chris Tarrant edition beginning in 1998, not the US 1999 primetime version. The UK original independently passes the season requirement.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F_%28British_game_show%29",
@@ -1222,5 +1222,8 @@
         "franchise_title": "Family Feud"
       }
     }
-  ]
+  ],
+  "declined_count": 10,
+  "reviewed_on": "2026-10-17",
+  "review_history": "../reviews/1990s.json"
 }
