@@ -1,0 +1,375 @@
+{
+  "decade": "1980–1989",
+  "status": "partially_reviewed",
+  "reviewed_on": "2026-10-17",
+  "reviewer": "repository_owner",
+  "original_batch_size": 50,
+  "original_batch_archive": "../../RAW/1980s.md",
+  "original_data_archive": "../../RAW/data/1980s.json",
+  "approved_original_ranks": [
+    49,
+    50
+  ],
+  "automatic_approved_original_ranks": [
+    49,
+    50
+  ],
+  "approved_count": 2,
+  "declined_count": 0,
+  "pending_count": 48,
+  "standing_preferences": "../preferences.json",
+  "decisions": [
+    {
+      "recommendation_rank": 1,
+      "title": "Star Trek: The Next Generation",
+      "imdb_id": "tt0092455",
+      "link": "https://www.imdb.com/title/tt0092455/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Cheers",
+      "imdb_id": "tt0083399",
+      "link": "https://www.imdb.com/title/tt0083399/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "Seinfeld",
+      "imdb_id": "tt0098904",
+      "link": "https://www.imdb.com/title/tt0098904/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "The Golden Girls",
+      "imdb_id": "tt0088526",
+      "link": "https://www.imdb.com/title/tt0088526/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "Married... with Children",
+      "imdb_id": "tt0092400",
+      "link": "https://www.imdb.com/title/tt0092400/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "Full House",
+      "imdb_id": "tt0092359",
+      "link": "https://www.imdb.com/title/tt0092359/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "Family Matters",
+      "imdb_id": "tt0096579",
+      "link": "https://www.imdb.com/title/tt0096579/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "ALF",
+      "imdb_id": "tt0090390",
+      "link": "https://www.imdb.com/title/tt0090390/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "The A-Team",
+      "imdb_id": "tt0084967",
+      "link": "https://www.imdb.com/title/tt0084967/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "Knight Rider",
+      "imdb_id": "tt0083437",
+      "link": "https://www.imdb.com/title/tt0083437/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "MacGyver",
+      "imdb_id": "tt0088559",
+      "link": "https://www.imdb.com/title/tt0088559/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "Magnum, P.I.",
+      "imdb_id": "tt0080240",
+      "link": "https://www.imdb.com/title/tt0080240/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "Miami Vice",
+      "imdb_id": "tt0086759",
+      "link": "https://www.imdb.com/title/tt0086759/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Quantum Leap",
+      "imdb_id": "tt0096684",
+      "link": "https://www.imdb.com/title/tt0096684/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "Airwolf",
+      "imdb_id": "tt0086662",
+      "link": "https://www.imdb.com/title/tt0086662/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "The Greatest American Hero",
+      "imdb_id": "tt0081871",
+      "link": "https://www.imdb.com/title/tt0081871/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "The Twilight Zone",
+      "imdb_id": "tt0088634",
+      "link": "https://www.imdb.com/title/tt0088634/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "Alfred Hitchcock Presents",
+      "imdb_id": "tt0088476",
+      "link": "https://www.imdb.com/title/tt0088476/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "Tales from the Crypt",
+      "imdb_id": "tt0096708",
+      "link": "https://www.imdb.com/title/tt0096708/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Amazing Stories",
+      "imdb_id": "tt0088478",
+      "link": "https://www.imdb.com/title/tt0088478/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "The Cosby Show",
+      "imdb_id": "tt0086687",
+      "link": "https://www.imdb.com/title/tt0086687/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "Family Ties",
+      "imdb_id": "tt0083413",
+      "link": "https://www.imdb.com/title/tt0083413/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "Growing Pains",
+      "imdb_id": "tt0088527",
+      "link": "https://www.imdb.com/title/tt0088527/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "Who's the Boss?",
+      "imdb_id": "tt0086827",
+      "link": "https://www.imdb.com/title/tt0086827/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Perfect Strangers",
+      "imdb_id": "tt0090501",
+      "link": "https://www.imdb.com/title/tt0090501/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Roseanne",
+      "imdb_id": "tt0094540",
+      "link": "https://www.imdb.com/title/tt0094540/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "The Wonder Years",
+      "imdb_id": "tt0094582",
+      "link": "https://www.imdb.com/title/tt0094582/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Night Court",
+      "imdb_id": "tt0086770",
+      "link": "https://www.imdb.com/title/tt0086770/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "Newhart",
+      "imdb_id": "tt0083455",
+      "link": "https://www.imdb.com/title/tt0083455/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "Murder, She Wrote",
+      "imdb_id": "tt0086765",
+      "link": "https://www.imdb.com/title/tt0086765/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Moonlighting",
+      "imdb_id": "tt0088571",
+      "link": "https://www.imdb.com/title/tt0088571/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "The Equalizer",
+      "imdb_id": "tt0088513",
+      "link": "https://www.imdb.com/title/tt0088513/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "The Fall Guy",
+      "imdb_id": "tt0081859",
+      "link": "https://www.imdb.com/title/tt0081859/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "Hill Street Blues",
+      "imdb_id": "tt0081873",
+      "link": "https://www.imdb.com/title/tt0081873/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Dynasty",
+      "imdb_id": "tt0081856",
+      "link": "https://www.imdb.com/title/tt0081856/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "Beauty and the Beast",
+      "imdb_id": "tt0092319",
+      "link": "https://www.imdb.com/title/tt0092319/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "Red Dwarf",
+      "imdb_id": "tt0094535",
+      "link": "https://www.imdb.com/title/tt0094535/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "Blackadder",
+      "imdb_id": null,
+      "link": "https://www.themoviedb.org/tv/7246-blackadder",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Only Fools and Horses",
+      "imdb_id": "tt0081912",
+      "link": "https://www.imdb.com/title/tt0081912/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "Yes Minister",
+      "imdb_id": "tt0080306",
+      "link": "https://www.imdb.com/title/tt0080306/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "'Allo 'Allo!",
+      "imdb_id": "tt0086659",
+      "link": "https://www.imdb.com/title/tt0086659/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Shōgun",
+      "imdb_id": "tt0080274",
+      "link": "https://www.imdb.com/title/tt0080274/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "Lonesome Dove",
+      "imdb_id": "tt0096639",
+      "link": "https://www.imdb.com/title/tt0096639/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "V",
+      "imdb_id": "tt0085106",
+      "link": "https://www.imdb.com/title/tt0085106/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Cosmos: A Personal Voyage",
+      "imdb_id": "tt0081846",
+      "link": "https://www.imdb.com/title/tt0081846/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "Unsolved Mysteries",
+      "imdb_id": "tt0094574",
+      "link": "https://www.imdb.com/title/tt0094574/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "Cops",
+      "imdb_id": "tt0096563",
+      "link": "https://www.imdb.com/title/tt0096563/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Jeopardy!",
+      "imdb_id": "tt0159881",
+      "link": "https://www.imdb.com/title/tt0159881/",
+      "decision": "pending"
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Wheel of Fortune",
+      "imdb_id": "tt0072584",
+      "link": "https://www.imdb.com/title/tt0072584/",
+      "decision": "approved",
+      "decision_source": "standing_preference"
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "Family Feud",
+      "imdb_id": "tt0094460",
+      "link": "https://www.imdb.com/title/tt0094460/",
+      "decision": "approved",
+      "decision_source": "standing_preference"
+    }
+  ]
+}
