@@ -1,0 +1,384 @@
+{
+  "decade": "1970–1979",
+  "reviewed_on": "2026-10-17",
+  "reviewer": "repository_owner",
+  "original_batch_size": 50,
+  "original_batch_data_sha": "9ed0438f872c43f8639dca2ac3dec945c5ff740f",
+  "original_batch_archive": "../../RAW/1970s.md",
+  "original_data_archive": "../../RAW/data/1970s.json",
+  "approved_original_ranks": [
+    1,
+    2,
+    6,
+    18,
+    20,
+    23,
+    25,
+    31,
+    32,
+    36,
+    46,
+    47,
+    48
+  ],
+  "approved_count": 13,
+  "declined_count": 37,
+  "standing_preference_original_ranks": [
+    46,
+    47,
+    48
+  ],
+  "standing_preferences": "../preferences.json",
+  "decisions": [
+    {
+      "recommendation_rank": 1,
+      "title": "M*A*S*H",
+      "imdb_id": "tt0068098",
+      "link": "https://www.imdb.com/title/tt0068098/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Happy Days",
+      "imdb_id": "tt0070992",
+      "link": "https://www.imdb.com/title/tt0070992/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "Mork & Mindy",
+      "imdb_id": "tt0077053",
+      "link": "https://www.imdb.com/title/tt0077053/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "All in the Family",
+      "imdb_id": "tt0066626",
+      "link": "https://www.imdb.com/title/tt0066626/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "The Mary Tyler Moore Show",
+      "imdb_id": "tt0065314",
+      "link": "https://www.imdb.com/title/tt0065314/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "Taxi",
+      "imdb_id": "tt0077089",
+      "link": "https://www.imdb.com/title/tt0077089/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "Three's Company",
+      "imdb_id": "tt0075596",
+      "link": "https://www.imdb.com/title/tt0075596/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "Laverne & Shirley",
+      "imdb_id": "tt0074016",
+      "link": "https://www.imdb.com/title/tt0074016/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "Sanford and Son",
+      "imdb_id": "tt0068128",
+      "link": "https://www.imdb.com/title/tt0068128/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "The Jeffersons",
+      "imdb_id": "tt0072519",
+      "link": "https://www.imdb.com/title/tt0072519/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "Good Times",
+      "imdb_id": "tt0070991",
+      "link": "https://www.imdb.com/title/tt0070991/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "The Bob Newhart Show",
+      "imdb_id": "tt0068049",
+      "link": "https://www.imdb.com/title/tt0068049/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "The Odd Couple",
+      "imdb_id": "tt0065329",
+      "link": "https://www.imdb.com/title/tt0065329/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Soap",
+      "imdb_id": "tt0075584",
+      "link": "https://www.imdb.com/title/tt0075584/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "WKRP in Cincinnati",
+      "imdb_id": "tt0077097",
+      "link": "https://www.imdb.com/title/tt0077097/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Barney Miller",
+      "imdb_id": "tt0072472",
+      "link": "https://www.imdb.com/title/tt0072472/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "Welcome Back, Kotter",
+      "imdb_id": "tt0072582",
+      "link": "https://www.imdb.com/title/tt0072582/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "Saturday Night Live",
+      "imdb_id": "tt0072562",
+      "link": "https://www.imdb.com/title/tt0072562/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "Fawlty Towers",
+      "imdb_id": "tt0072500",
+      "link": "https://www.imdb.com/title/tt0072500/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Are You Being Served?",
+      "imdb_id": "tt0068040",
+      "link": "https://www.imdb.com/title/tt0068040/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "The Six Million Dollar Man",
+      "imdb_id": "tt0071054",
+      "link": "https://www.imdb.com/title/tt0071054/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "The Bionic Woman",
+      "imdb_id": "tt0073965",
+      "link": "https://www.imdb.com/title/tt0073965/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "Wonder Woman",
+      "imdb_id": "tt0074074",
+      "link": "https://www.imdb.com/title/tt0074074/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "The Incredible Hulk",
+      "imdb_id": "tt0077031",
+      "link": "https://www.imdb.com/title/tt0077031/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Battlestar Galactica",
+      "imdb_id": "tt0076984",
+      "link": "https://www.imdb.com/title/tt0076984/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Buck Rogers in the 25th Century",
+      "imdb_id": "tt0078579",
+      "link": "https://www.imdb.com/title/tt0078579/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "UFO",
+      "imdb_id": "tt0063962",
+      "link": "https://www.imdb.com/title/tt0063962/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Space: 1999",
+      "imdb_id": "tt0072564",
+      "link": "https://www.imdb.com/title/tt0072564/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "Kolchak: The Night Stalker",
+      "imdb_id": "tt0071003",
+      "link": "https://www.imdb.com/title/tt0071003/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "The Rockford Files",
+      "imdb_id": "tt0071042",
+      "link": "https://www.imdb.com/title/tt0071042/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Starsky & Hutch",
+      "imdb_id": "tt0072567",
+      "link": "https://www.imdb.com/title/tt0072567/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "Charlie's Angels",
+      "imdb_id": "tt0073972",
+      "link": "https://www.imdb.com/title/tt0073972/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "Dallas",
+      "imdb_id": "tt0077000",
+      "link": "https://www.imdb.com/title/tt0077000/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "The Waltons",
+      "imdb_id": "tt0068149",
+      "link": "https://www.imdb.com/title/tt0068149/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Little House on the Prairie",
+      "imdb_id": "tt0071007",
+      "link": "https://www.imdb.com/title/tt0071007/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "The Dukes of Hazzard",
+      "imdb_id": "tt0078607",
+      "link": "https://www.imdb.com/title/tt0078607/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "The Love Boat",
+      "imdb_id": "tt0075529",
+      "link": "https://www.imdb.com/title/tt0075529/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "Fantasy Island",
+      "imdb_id": "tt0077008",
+      "link": "https://www.imdb.com/title/tt0077008/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Roots",
+      "imdb_id": "tt0075572",
+      "link": "https://www.imdb.com/title/tt0075572/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "I, Claudius",
+      "imdb_id": "tt0074006",
+      "link": "https://www.imdb.com/title/tt0074006/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "Tinker Tailor Soldier Spy",
+      "imdb_id": "tt0080297",
+      "link": "https://www.imdb.com/title/tt0080297/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Salem's Lot",
+      "imdb_id": "tt0079844",
+      "link": "https://www.imdb.com/title/tt0079844/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "The World at War",
+      "imdb_id": "tt0071075",
+      "link": "https://www.imdb.com/title/tt0071075/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "Life on Earth",
+      "imdb_id": "tt0135095",
+      "link": "https://www.imdb.com/title/tt0135095/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Connections",
+      "imdb_id": "tt0078588",
+      "link": "https://www.imdb.com/title/tt0078588/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "The Price Is Right",
+      "imdb_id": "tt0068120",
+      "link": "https://www.imdb.com/title/tt0068120/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "Wheel of Fortune",
+      "imdb_id": "tt1577766",
+      "link": "https://www.imdb.com/title/tt1577766/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Family Feud",
+      "imdb_id": "tt0073991",
+      "link": "https://www.imdb.com/title/tt0073991/",
+      "decision": "approved"
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Match Game",
+      "imdb_id": "tt0069608",
+      "link": "https://www.imdb.com/title/tt0069608/",
+      "decision": "declined"
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "The $10,000 Pyramid",
+      "imdb_id": "tt0185049",
+      "link": "https://www.imdb.com/title/tt0185049/",
+      "decision": "declined"
+    }
+  ]
+}
