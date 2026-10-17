@@ -1,4 +1,6 @@
-# 2000–2009 — picks 51–100
+# 2000–2009 — picks 51–100 — reviewed
+
+50 approved. See [the complete approved catalogue](../decades/2000s.md), [all 50 original recommendations in RAW](../RAW/2000s-batch-2.md), or [the owner's review decisions](../data/reviews/2000s-batch-2.json).
 
 51. [Chuck](https://www.imdb.com/title/tt0934814/)
 52. [Leverage](https://www.imdb.com/title/tt1103987/)

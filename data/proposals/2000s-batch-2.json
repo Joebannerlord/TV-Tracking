@@ -1,7 +1,7 @@
 {
   "decade": "2000–2009",
   "batch_number": 2,
-  "status": "pending_user_review",
+  "status": "reviewed",
   "selection_limit": 100,
   "review_batch_size": 50,
   "original_batch_size": 50,
@@ -10,8 +10,8 @@
     "last": 100
   },
   "proposed_count": 50,
-  "approved_count": 0,
-  "pending_count": 50,
+  "approved_count": 50,
+  "pending_count": 0,
   "prepared_on": "2026-10-17",
   "ranking": "Editorial recommendation order continuing the first 2000s batch. Numbers 51–100 remain stable for all reviewers.",
   "selection_criteria": [
@@ -37,7 +37,7 @@
       "link": "https://www.imdb.com/title/tt0934814/",
       "imdb_id": "tt0934814",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Chuck_(TV_series)",
@@ -66,7 +66,7 @@
       "link": "https://www.imdb.com/title/tt1103987/",
       "imdb_id": "tt1103987",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Leverage_(American_TV_series)",
@@ -95,7 +95,7 @@
       "link": "https://www.imdb.com/title/tt1358522/",
       "imdb_id": "tt1358522",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/White_Collar_(TV_series)",
@@ -124,7 +124,7 @@
       "link": "https://www.imdb.com/title/tt1235099/",
       "imdb_id": "tt1235099",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Lie_to_Me",
@@ -153,7 +153,7 @@
       "link": "https://www.imdb.com/title/tt0368479/",
       "imdb_id": "tt0368479",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Cold_Case",
@@ -182,7 +182,7 @@
       "link": "https://www.imdb.com/title/tt0313043/",
       "imdb_id": "tt0313043",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/CSI:_Miami",
@@ -211,7 +211,7 @@
       "link": "https://www.imdb.com/title/tt0395843/",
       "imdb_id": "tt0395843",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/CSI:_NY",
@@ -240,7 +240,7 @@
       "link": "https://www.imdb.com/title/tt1378167/",
       "imdb_id": "tt1378167",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/NCIS:_Los_Angeles",
@@ -269,7 +269,7 @@
       "link": "https://www.imdb.com/title/tt0458253/",
       "imdb_id": "tt0458253",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Closer",
@@ -298,7 +298,7 @@
       "link": "https://www.imdb.com/title/tt0402711/",
       "imdb_id": "tt0402711",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Boston_Legal",
@@ -327,7 +327,7 @@
       "link": "https://www.imdb.com/title/tt0248654/",
       "imdb_id": "tt0248654",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Six_Feet_Under_(TV_series)",
@@ -358,7 +358,7 @@
       "link": "https://www.imdb.com/title/tt0384766/",
       "imdb_id": "tt0384766",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Rome_(TV_series)",
@@ -390,7 +390,7 @@
       "link": "https://www.imdb.com/title/tt0758790/",
       "imdb_id": "tt0758790",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Tudors",
@@ -419,7 +419,7 @@
       "link": "https://www.imdb.com/title/tt0319969/",
       "imdb_id": "tt0319969",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Carniv%C3%A0le",
@@ -452,7 +452,7 @@
       "link": "https://www.imdb.com/title/tt0805663/",
       "imdb_id": "tt0805663",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Jericho_(2006_TV_series)",
@@ -481,7 +481,7 @@
       "link": "https://www.imdb.com/title/tt0389564/",
       "imdb_id": "tt0389564",
       "edition": "Original series; distinct from the later 4400 reboot.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_4400",
@@ -510,7 +510,7 @@
       "link": "https://www.imdb.com/title/tt0204993/",
       "imdb_id": "tt0204993",
       "edition": "Original live-action television series; unrelated films with this name are excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Dark_Angel_(American_TV_series)",
@@ -539,7 +539,7 @@
       "link": "https://www.imdb.com/title/tt0285333/",
       "imdb_id": "tt0285333",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Alias_(TV_series)",
@@ -568,7 +568,7 @@
       "link": "https://www.imdb.com/title/tt0851851/",
       "imdb_id": "tt0851851",
       "edition": "Live-action television series; the Terminator films are excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles",
@@ -598,7 +598,7 @@
       "link": "https://www.imdb.com/title/tt1286039/",
       "imdb_id": "tt1286039",
       "edition": "Distinct Stargate series; franchise movies and individual seasons are excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Stargate_Universe",
@@ -627,7 +627,7 @@
       "link": "https://www.imdb.com/title/tt0796264/",
       "imdb_id": "tt0796264",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Eureka_(2006_TV_series)",
@@ -656,7 +656,7 @@
       "link": "https://www.imdb.com/title/tt1132290/",
       "imdb_id": "tt1132290",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Warehouse_13",
@@ -685,7 +685,7 @@
       "link": "https://www.imdb.com/title/tt0965394/",
       "imdb_id": "tt0965394",
       "edition": "2008 television adaptation of the earlier web series. One entry for this television edition; the 2007 web edition is not separately proposed in this batch.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Sanctuary_(Canadian_TV_series)",
@@ -714,7 +714,7 @@
       "link": "https://www.imdb.com/title/tt0485301/",
       "imdb_id": "tt0485301",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Torchwood",
@@ -743,7 +743,7 @@
       "link": "https://www.imdb.com/title/tt1349938/",
       "imdb_id": "tt1349938",
       "edition": "Original British edition, including the broadcast pilot; distinct from the later North American remake.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Being_Human_(British_TV_series)",
@@ -774,7 +774,7 @@
       "link": "https://www.imdb.com/title/tt1548850/",
       "imdb_id": "tt1548850",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Misfits_(TV_series)",
@@ -803,7 +803,7 @@
       "link": "https://www.imdb.com/title/tt0478942/",
       "imdb_id": "tt0478942",
       "edition": "Original British edition; distinct from the American remake.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Life_on_Mars_(British_TV_series)",
@@ -833,7 +833,7 @@
       "link": "https://www.imdb.com/title/tt0379632/",
       "imdb_id": "tt0379632",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Hustle_(TV_series)",
@@ -862,7 +862,7 @@
       "link": "https://www.imdb.com/title/tt0160904/",
       "imdb_id": "tt0160904",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Spooks_(TV_series)",
@@ -891,7 +891,7 @@
       "link": "https://www.imdb.com/title/tt0758745/",
       "imdb_id": "tt0758745",
       "edition": "Scripted television drama; not sports coverage or the film with the same name.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Friday_Night_Lights_(TV_series)",
@@ -920,7 +920,7 @@
       "link": "https://www.imdb.com/title/tt0412253/",
       "imdb_id": "tt0412253",
       "edition": "Television series, including its continuing revival seasons as one edition; the standalone movie is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Veronica_Mars",
@@ -949,7 +949,7 @@
       "link": "https://www.imdb.com/title/tt0238784/",
       "imdb_id": "tt0238784",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Gilmore_Girls",
@@ -978,7 +978,7 @@
       "link": "https://www.imdb.com/title/tt0413573/",
       "imdb_id": "tt0413573",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Grey%27s_Anatomy",
@@ -1007,7 +1007,7 @@
       "link": "https://www.imdb.com/title/tt1442462/",
       "imdb_id": "tt1442462",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Good_Wife",
@@ -1036,7 +1036,7 @@
       "link": "https://www.imdb.com/title/tt0290978/",
       "imdb_id": "tt0290978",
       "edition": "Original British edition; distinct from the already approved American remake.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Office_(British_TV_series)",
@@ -1066,7 +1066,7 @@
       "link": "https://www.imdb.com/title/tt0387764/",
       "imdb_id": "tt0387764",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Peep_Show_(British_TV_series)",
@@ -1095,7 +1095,7 @@
       "link": "https://www.imdb.com/title/tt0262150/",
       "imdb_id": "tt0262150",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Black_Books",
@@ -1124,7 +1124,7 @@
       "link": "https://www.imdb.com/title/tt1220617/",
       "imdb_id": "tt1220617",
       "edition": "Original British live-action television series; the feature films and American remake are excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Inbetweeners",
@@ -1154,7 +1154,7 @@
       "link": "https://www.imdb.com/title/tt0460637/",
       "imdb_id": "tt0460637",
       "edition": "Original live-action sitcom; the animated Everybody Still Hates Chris is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Everybody_Hates_Chris",
@@ -1183,7 +1183,7 @@
       "link": "https://www.imdb.com/title/tt0377260/",
       "imdb_id": "tt0377260",
       "edition": "Original British edition; distinct from the later American remake.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Shameless_(British_TV_series)",
@@ -1213,7 +1213,7 @@
       "link": "https://www.imdb.com/title/tt0995832/",
       "imdb_id": "tt0995832",
       "edition": "Episodic television miniseries, not a standalone TV movie.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Generation_Kill_(miniseries)",
@@ -1242,7 +1242,7 @@
       "link": "https://www.imdb.com/title/tt0472027/",
       "imdb_id": "tt0472027",
       "edition": "Episodic television miniseries, not a standalone TV movie.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/John_Adams_(miniseries)",
@@ -1271,7 +1271,7 @@
       "link": "https://www.imdb.com/title/tt0840196/",
       "imdb_id": "tt0840196",
       "edition": "Original British edition; distinct from the later American remake.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Skins_(British_TV_series)",
@@ -1301,7 +1301,7 @@
       "link": "https://www.imdb.com/title/tt0285335/",
       "imdb_id": "tt0285335",
       "edition": "Original American reality competition; individual seasons and foreign adaptations are separate questions.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Amazing_Race_(American_TV_series)",
@@ -1331,7 +1331,7 @@
       "link": "https://www.imdb.com/title/tt0319931/",
       "imdb_id": "tt0319931",
       "edition": "American reality competition; the continuing Fox and ABC runs are treated as one series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/American_Idol",
@@ -1360,7 +1360,7 @@
       "link": "https://www.imdb.com/title/tt0437005/",
       "imdb_id": "tt0437005",
       "edition": "American reality competition; distinct from the British programme.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Hell%27s_Kitchen_(American_TV_series)",
@@ -1390,7 +1390,7 @@
       "link": "https://www.imdb.com/title/tt0983514/",
       "imdb_id": "tt0983514",
       "edition": "American reality series; distinct from the British Ramsay's Kitchen Nightmares. Continuing revival seasons do not create another entry.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Kitchen_Nightmares",
@@ -1420,7 +1420,7 @@
       "link": "https://www.imdb.com/title/tt0765425/",
       "imdb_id": "tt0765425",
       "edition": "Original American reality competition, not an instructional classroom series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Top_Chef",
@@ -1449,7 +1449,7 @@
       "link": "https://www.imdb.com/title/tt0296310/",
       "imdb_id": "tt0296310",
       "edition": "Original BBC nature docuseries; alternate narrators and regional broadcast edits do not create extra entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Blue_Planet",
@@ -1478,7 +1478,7 @@
       "link": "https://www.imdb.com/title/tt1533395/",
       "imdb_id": "tt1533395",
       "edition": "Original BBC nature docuseries; distinct from the American scripted series named Life. Alternate narrators do not create extra entries.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Life_(2009_TV_series)",
@@ -1496,5 +1496,7 @@
       ],
       "display_title": "Life (BBC docuseries)"
     }
-  ]
+  ],
+  "declined_count": 0,
+  "reviewed_on": "2026-10-17"
 }
