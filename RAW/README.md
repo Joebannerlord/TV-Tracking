@@ -8,5 +8,6 @@ Full recommendation batches are preserved here before applying an individual rev
 - [1990–1999 — all 50 recommendations](1990s.md) · [original data and sources](data/1990s.json)
 - [2000–2009 — first batch, picks 1–50](2000s.md) · [original data and sources](data/2000s.json)
 - [2000–2009 — second batch, picks 51–100](2000s-batch-2.md) · [original data and sources](data/2000s-batch-2.json)
+- [2000–2009 — third batch, picks 101–150](2000s-batch-3.md) · [original data and sources](data/2000s-batch-3.json)
 
 These are unchanged snapshots of the original proposals. Any pending-review status inside a snapshot describes its state when proposed. Current approved selections are listed in [the decade catalogues](../decades/), and the owner's decisions are recorded in [the review history](../data/reviews/). Other reviewers can make their own selections from the full batch.

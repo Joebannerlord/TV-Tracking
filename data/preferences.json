@@ -54,8 +54,8 @@
     "default_decade_limit": 50,
     "review_batch_size": 50,
     "decade_limits": {
-      "2000–2009": 100
+      "2000–2009": 150
     },
-    "notes": "The 2000s ceiling was expanded after the owner approved all 50 titles in the first batch. Limits are not quotas; use the same selection criteria. Archive additional batches separately, preserve original numbers and links, and continue the 2000s numbering at 51."
+    "notes": "After approving all first 100 titles, the owner requested broader consideration of the 2000s. The next review batch expands the candidate ceiling to 150. Limits are not quotas; preserve the same selection criteria. Archive each complete batch separately and continue stable recommendation numbers."
   }
 }

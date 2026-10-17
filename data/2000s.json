@@ -1,6 +1,6 @@
 {
   "decade": "2000–2009",
-  "selection_limit": 100,
+  "selection_limit": 150,
   "review_batch_size": 50,
   "selected_count": 100,
   "ranking": "User-approved titles in original recommendation order across two 50-title batches.",
