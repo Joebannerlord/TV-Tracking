@@ -13,11 +13,13 @@ Each decade has a shared ceiling of 50 recommendations across all eligible forma
 ## Decades
 
 - [1950–1959 — 7 approved shows](decades/1950s.md)
-- [1960–1969 — 50 proposals awaiting review](proposals/1960s.md)
+- [1960–1969 — 16 approved shows](decades/1960s.md)
 
-The browsing lists contain only ranked show names linked to IMDb or another relevant series page. Original television premiere dates and source references are stored in [the catalogue data](data/1950s.json).
+The browsing lists contain only ranked show names linked to IMDb or another relevant series page. Original television premiere dates and source references are stored in [the catalogue data](data/).
 
-The [1950s review history](data/reviews/1950s.json) records all 40 decisions: 7 approved and 33 declined. Future recommendations should respect these recorded choices for the reviewed title and version.
+The [1950s review history](data/reviews/1950s.json) records 7 approvals and 33 declines. The [1960s review history](data/reviews/1960s.json) records 16 approvals and 34 declines. Future recommendations should respect the owner's recorded choices for the reviewed title and version.
+
+Full recommendation batches are retained in [RAW](RAW/README.md) with their original numbering and links for other people to review independently. The [complete 1960s batch contains all 50 shows](RAW/1960s.md).
 
 ## Scope
 
