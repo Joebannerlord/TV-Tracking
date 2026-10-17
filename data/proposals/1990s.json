@@ -1,0 +1,1226 @@
+{
+  "decade": "1990–1999",
+  "status": "partially_reviewed",
+  "selection_limit": 50,
+  "proposed_count": 50,
+  "approved_count": 2,
+  "pending_count": 48,
+  "prepared_on": "2026-10-17",
+  "ranking": "Editorial recommendation order. Original batch numbers remain stable for every reviewer.",
+  "selection_criteria": [
+    "Worth watching today",
+    "Strong reputation and lasting appeal",
+    "A reason to recommend beyond historical importance"
+  ],
+  "automatic_approved_original_ranks": [
+    49,
+    50
+  ],
+  "standing_preferences": "../preferences.json",
+  "raw_archive": "../../RAW/1990s.md",
+  "shows": [
+    {
+      "recommendation_rank": 1,
+      "title": "Friends",
+      "original_air_date": "1994-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0108778/",
+      "imdb_id": "tt0108778",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Friends",
+          "revision": 1380243037
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108778/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/431/friends"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Frasier",
+      "original_air_date": "1993-09-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106004/",
+      "imdb_id": "tt0106004",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Frasier",
+          "revision": 1379958806
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106004/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 3,
+      "title": "The Fresh Prince of Bel-Air",
+      "original_air_date": "1990-09-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098800/",
+      "imdb_id": "tt0098800",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Fresh_Prince_of_Bel-Air",
+          "revision": 1380641983
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098800/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 4,
+      "title": "Home Improvement",
+      "original_air_date": "1991-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0101120/",
+      "imdb_id": "tt0101120",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Home_Improvement_%28TV_series%29",
+          "revision": 1377372062
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0101120/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 5,
+      "title": "Everybody Loves Raymond",
+      "original_air_date": "1996-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0115167/",
+      "imdb_id": "tt0115167",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Everybody_Loves_Raymond",
+          "revision": 1378218573
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115167/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "The King of Queens",
+      "original_air_date": "1998-09-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0165581/",
+      "imdb_id": "tt0165581",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_King_of_Queens",
+          "revision": 1369611836
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0165581/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 7,
+      "title": "That '70s Show",
+      "original_air_date": "1998-08-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0165598/",
+      "imdb_id": "tt0165598",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/That_%2770s_Show",
+          "revision": 1372689853
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0165598/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 8,
+      "title": "3rd Rock from the Sun",
+      "original_air_date": "1996-01-09",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0115082/",
+      "imdb_id": "tt0115082",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/3rd_Rock_from_the_Sun",
+          "revision": 1368626818
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115082/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 9,
+      "title": "Boy Meets World",
+      "original_air_date": "1993-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0105958/",
+      "imdb_id": "tt0105958",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Boy_Meets_World",
+          "revision": 1379244537
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105958/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 10,
+      "title": "Sabrina the Teenage Witch",
+      "original_air_date": "1996-09-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0115341/",
+      "imdb_id": "tt0115341",
+      "edition": "Live-action 1996 sitcom, not the cartoons or the standalone television movie.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_%281996_TV_series%29",
+          "revision": 1380341311
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0115341/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 11,
+      "title": "The Nanny",
+      "original_air_date": "1993-11-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106080/",
+      "imdb_id": "tt0106080",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Nanny",
+          "revision": 1374310527
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106080/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 12,
+      "title": "It",
+      "original_air_date": "1990-11-18",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0099864/",
+      "imdb_id": "tt0099864",
+      "edition": "Original two-part 1990 television miniseries; the later theatrical films are excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/It_%28miniseries%29",
+          "revision": 1380523096
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0099864/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 13,
+      "title": "The Stand",
+      "original_air_date": "1994-05-08",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0108941/",
+      "imdb_id": "tt0108941",
+      "edition": "Original four-part 1994 television miniseries, not the later remake.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Stand_%281994_miniseries%29",
+          "revision": 1377054126
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108941/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 14,
+      "title": "Buffy the Vampire Slayer",
+      "original_air_date": "1997-03-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0118276/",
+      "imdb_id": "tt0118276",
+      "edition": "1997 television series; the standalone 1992 movie is excluded.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer",
+          "revision": 1378467981
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118276/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 15,
+      "title": "Angel",
+      "original_air_date": "1999-10-05",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0162065/",
+      "imdb_id": "tt0162065",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Angel_%281999_TV_series%29",
+          "revision": 1379964551
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0162065/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 16,
+      "title": "Charmed",
+      "original_air_date": "1998-10-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0158552/",
+      "imdb_id": "tt0158552",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charmed",
+          "revision": 1375545229
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0158552/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 17,
+      "title": "The X-Files",
+      "original_air_date": "1993-09-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106179/",
+      "imdb_id": "tt0106179",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_X-Files",
+          "revision": 1380544951
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106179/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "Star Trek: Deep Space Nine",
+      "original_air_date": "1993-01-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106145/",
+      "imdb_id": "tt0106145",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Deep_Space_Nine",
+          "revision": 1375863720
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106145/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 19,
+      "title": "Star Trek: Voyager",
+      "original_air_date": "1995-01-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112178/",
+      "imdb_id": "tt0112178",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Star_Trek%3A_Voyager",
+          "revision": 1371775226
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112178/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Stargate SG-1",
+      "original_air_date": "1997-07-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0118480/",
+      "imdb_id": "tt0118480",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Stargate_SG-1",
+          "revision": 1378640231
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0118480/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 21,
+      "title": "Babylon 5",
+      "original_air_date": "1993-02-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0105946/",
+      "imdb_id": "tt0105946",
+      "edition": "Original series including its feature-length 1993 pilot under the rule allowing feature-length episodes; individual seasons and side movies are not additional entries.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Babylon_5",
+          "revision": 1380347207
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0105946/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 22,
+      "title": "Sliders",
+      "original_air_date": "1995-03-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112167/",
+      "imdb_id": "tt0112167",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sliders_%28TV_series%29",
+          "revision": 1378360810
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112167/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "Due South",
+      "original_air_date": "1994-04-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0108756/",
+      "imdb_id": "tt0108756",
+      "edition": "Original Canadian live-action series including its feature-length 1994 pilot; the link is the episodic series record.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Due_South",
+          "revision": 1368722085
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108756/"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108756/episodes/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 24,
+      "title": "Xena: Warrior Princess",
+      "original_air_date": "1995-09-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112230/",
+      "imdb_id": "tt0112230",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Xena%3A_Warrior_Princess",
+          "revision": 1376433823
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112230/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Hercules: The Legendary Journeys",
+      "original_air_date": "1995-01-16",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0111999/",
+      "imdb_id": "tt0111999",
+      "edition": "Regular television series beginning in 1995; the preceding standalone television movies are not extra catalogue entries.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Hercules%3A_The_Legendary_Journeys",
+          "revision": 1368627382
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111999/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 26,
+      "title": "Highlander: The Series",
+      "original_air_date": "1992-10-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "Canada",
+        "France"
+      ],
+      "link": "https://www.imdb.com/title/tt0103442/",
+      "imdb_id": "tt0103442",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Highlander%3A_The_Series",
+          "revision": 1378297854
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103442/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 27,
+      "title": "Lois & Clark: The New Adventures of Superman",
+      "original_air_date": "1993-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106057/",
+      "imdb_id": "tt0106057",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Lois_%26_Clark%3A_The_New_Adventures_of_Superman",
+          "revision": 1380313549
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106057/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 28,
+      "title": "Mighty Morphin Power Rangers",
+      "original_air_date": "1993-08-28",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Japan"
+      ],
+      "link": "https://www.imdb.com/title/tt0106064/",
+      "imdb_id": "tt0106064",
+      "edition": "Original English-language live-action series, not the side movies, later separately titled Ranger series, or animation.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mighty_Morphin_Power_Rangers",
+          "revision": 1379784874
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106064/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 29,
+      "title": "Goosebumps",
+      "original_air_date": "1995-10-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0111987/",
+      "imdb_id": "tt0111987",
+      "edition": "Original 1995 live-action anthology, not theatrical films or later television adaptations.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Goosebumps_%281995_TV_series%29",
+          "revision": 1379310848
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111987/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 30,
+      "title": "Are You Afraid of the Dark?",
+      "original_air_date": "1991-10-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0103352/",
+      "imdb_id": "tt0103352",
+      "edition": "Original live-action anthology record; the later separately indexed revival is not this entry.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Are_You_Afraid_of_the_Dark%3F",
+          "revision": 1380413373
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0103352/"
+        }
+      ],
+      "premiere_source_note": "Cached broadcast source dates the pilot October 25, 1991; IMDb indexes the series from 1990. Both dates are within this decade. Resolve the exact first-airing conflict before treating the date as final.",
+      "original_air_date_status": "provisional_conflicting_records"
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Twin Peaks",
+      "original_air_date": "1990-04-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098936/",
+      "imdb_id": "tt0098936",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Twin_Peaks",
+          "revision": 1379798802
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098936/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "The Sopranos",
+      "original_air_date": "1999-01-10",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0141842/",
+      "imdb_id": "tt0141842",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sopranos",
+          "revision": 1380376131
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0141842/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 33,
+      "title": "ER",
+      "original_air_date": "1994-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0108757/",
+      "imdb_id": "tt0108757",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/ER_%28TV_series%29",
+          "revision": 1380349120
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0108757/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 34,
+      "title": "Law & Order",
+      "original_air_date": "1990-09-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098844/",
+      "imdb_id": "tt0098844",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Law_%26_Order",
+          "revision": 1380662819
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098844/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 35,
+      "title": "Law & Order: Special Victims Unit",
+      "original_air_date": "1999-09-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0203259/",
+      "imdb_id": "tt0203259",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Law_%26_Order%3A_Special_Victims_Unit",
+          "revision": 1380662718
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0203259/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/103/law-order-special-victims-unit"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "Walker, Texas Ranger",
+      "original_air_date": "1993-04-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0106168/",
+      "imdb_id": "tt0106168",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Walker%2C_Texas_Ranger",
+          "revision": 1372290255
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0106168/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 37,
+      "title": "JAG",
+      "original_air_date": "1995-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0112022/",
+      "imdb_id": "tt0112022",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/JAG_%28TV_series%29",
+          "revision": 1380659525
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0112022/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 38,
+      "title": "Beverly Hills, 90210",
+      "original_air_date": "1990-10-04",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098749/",
+      "imdb_id": "tt0098749",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Beverly_Hills%2C_90210",
+          "revision": 1379132041
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098749/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 39,
+      "title": "Sex and the City",
+      "original_air_date": "1998-06-06",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0159206/",
+      "imdb_id": "tt0159206",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Sex_and_the_City",
+          "revision": 1379403082
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0159206/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 40,
+      "title": "Freaks and Geeks",
+      "original_air_date": "1999-09-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0193676/",
+      "imdb_id": "tt0193676",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Freaks_and_Geeks",
+          "revision": 1370312385
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0193676/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 41,
+      "title": "Northern Exposure",
+      "original_air_date": "1990-07-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098878/",
+      "imdb_id": "tt0098878",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Northern_Exposure",
+          "revision": 1380584937
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098878/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 42,
+      "title": "Mr. Bean",
+      "original_air_date": "1990-01-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0096657/",
+      "imdb_id": "tt0096657",
+      "edition": "Original live-action comedy, not the animated spin-off or standalone films.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Mr._Bean",
+          "revision": 1379963461
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0096657/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 43,
+      "title": "Keeping Up Appearances",
+      "original_air_date": "1990-10-29",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0098837/",
+      "imdb_id": "tt0098837",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Keeping_Up_Appearances",
+          "revision": 1380251159
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098837/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 44,
+      "title": "Father Ted",
+      "original_air_date": "1995-04-21",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0111958/",
+      "imdb_id": "tt0111958",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Father_Ted",
+          "revision": 1379703455
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0111958/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 45,
+      "title": "Forensic Files",
+      "original_air_date": "1996-04-21",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0247882/",
+      "imdb_id": "tt0247882",
+      "edition": "Original documentary series, initially titled Medical Detectives. The later title is part of this same series; Forensic Files II is a separate production.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Forensic_Files",
+          "revision": 1378610450
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0247882/"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0247882/episodes/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/3262/forensic-files"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "The West Wing",
+      "original_air_date": "1999-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0200276/",
+      "imdb_id": "tt0200276",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_West_Wing",
+          "revision": 1380575785
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0200276/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "The Civil War",
+      "original_air_date": "1990-09-23",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0098769/",
+      "imdb_id": "tt0098769",
+      "edition": "Original live-action television series.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Civil_War_%28miniseries%29",
+          "revision": 1377710786
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0098769/"
+        }
+      ]
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Who Wants to Be a Millionaire?",
+      "original_air_date": "1998-09-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0166064/",
+      "imdb_id": "tt0166064",
+      "edition": "Original UK Chris Tarrant edition beginning in 1998, not the US 1999 primetime version. The UK original independently passes the season requirement.",
+      "review_status": "pending",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F_%28British_game_show%29",
+          "revision": 1379445472
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0166064/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1998-09-04/2014-02-11",
+        "seasons": 30,
+        "assessment": "Original UK Chris Tarrant run alone exceeds five seasons; later revival seasons are not required.",
+        "source": "https://en.wikipedia.org/wiki/Who_Wants_to_Be_a_Millionaire%3F_%28British_game_show%29"
+      }
+    },
+    {
+      "recommendation_rank": 49,
+      "title": "Bruce's Price Is Right",
+      "original_air_date": "1995-09-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0274243/",
+      "imdb_id": "tt0274243",
+      "edition": "Bruce Forsyth's distinct 1995 British revival; the original US series and other British hosts' versions are separate editions.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right_%28British_game_show%29",
+          "revision": 1372381736
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0274243/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1995-09-04/2001-12-16",
+        "seasons": 7,
+        "assessment": "Bruce Forsyth version alone has seven series; Crowther, Warman, and Pasquale versions are not combined.",
+        "source": "https://en.wikipedia.org/wiki/The_Price_Is_Right_%28British_game_show%29"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "../preferences.json",
+        "franchise_title": "The Price Is Right"
+      }
+    },
+    {
+      "recommendation_rank": 50,
+      "title": "Family Feud",
+      "original_air_date": "1999-09-20",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0177440/",
+      "imdb_id": "tt0177440",
+      "edition": "1999 syndicated revival, originally hosted by Louie Anderson and later by Richard Karn, John O'Hurley, and Steve Harvey. Host changes do not create new entries.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "revision": 1380751025
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0177440/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1999-09-20/ongoing",
+        "assessment": "The 1999 syndicated revival itself exceeds five seasons; 1976 and 1988 editions are separate records.",
+        "source": "https://en.wikipedia.org/wiki/Family_Feud"
+      },
+      "approval_source": {
+        "type": "standing_preference",
+        "path": "../preferences.json",
+        "franchise_title": "Family Feud"
+      }
+    }
+  ]
+}
