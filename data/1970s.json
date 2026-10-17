@@ -1,0 +1,365 @@
+{
+  "decade": "1970–1979",
+  "selection_limit": 50,
+  "selected_count": 13,
+  "ranking": "User-approved titles in the order of the original 50-title recommendation batch.",
+  "shows": [
+    {
+      "recommendation_rank": 1,
+      "title": "M*A*S*H",
+      "original_air_date": "1972-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068098/",
+      "imdb_id": "tt0068098",
+      "edition": "Live-action television series; the 1970 feature film is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/M%2AA%2AS%2AH_%28TV_series%29",
+          "revision": 1379120711
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068098/"
+        }
+      ],
+      "rank": 1
+    },
+    {
+      "recommendation_rank": 2,
+      "title": "Happy Days",
+      "original_air_date": "1974-01-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0070992/",
+      "imdb_id": "tt0070992",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Happy_Days",
+          "revision": 1380710192
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0070992/"
+        }
+      ],
+      "rank": 2
+    },
+    {
+      "recommendation_rank": 6,
+      "title": "Taxi",
+      "original_air_date": "1978-09-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0077089/",
+      "imdb_id": "tt0077089",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taxi_%28TV_series%29",
+          "revision": 1378194383
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0077089/"
+        }
+      ],
+      "rank": 3
+    },
+    {
+      "recommendation_rank": 18,
+      "title": "Saturday Night Live",
+      "original_air_date": "1975-10-11",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072562/",
+      "imdb_id": "tt0072562",
+      "edition": "Live-action scripted sketch comedy series. It is included for its sketch format, like Monty Python; it is not an animation or talk-show entry.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
+          "revision": 1380504028
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072562/"
+        }
+      ],
+      "rank": 4
+    },
+    {
+      "recommendation_rank": 20,
+      "title": "Are You Being Served?",
+      "original_air_date": "1972-09-08",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0068040/",
+      "imdb_id": "tt0068040",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Are_You_Being_Served%3F",
+          "revision": 1380112666
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068040/"
+        }
+      ],
+      "rank": 5
+    },
+    {
+      "recommendation_rank": 23,
+      "title": "Wonder Woman",
+      "original_air_date": "1975-11-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0074074/",
+      "imdb_id": "tt0074074",
+      "edition": "Lynda Carter series, including its 1975 feature-length pilot; the separate 1974 Cathy Lee Crosby film is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wonder_Woman_%28TV_series%29",
+          "revision": 1368624422
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0074074/"
+        }
+      ],
+      "rank": 6
+    },
+    {
+      "recommendation_rank": 25,
+      "title": "Battlestar Galactica",
+      "original_air_date": "1978-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0076984/",
+      "imdb_id": "tt0076984",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Battlestar_Galactica_%281978_TV_series%29",
+          "revision": 1368622489
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0076984/"
+        }
+      ],
+      "rank": 7
+    },
+    {
+      "recommendation_rank": 31,
+      "title": "Starsky & Hutch",
+      "original_air_date": "1975-04-30",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0072567/",
+      "imdb_id": "tt0072567",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Starsky_%26_Hutch",
+          "revision": 1378737227
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0072567/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/5487/starsky-hutch"
+        }
+      ],
+      "rank": 8
+    },
+    {
+      "recommendation_rank": 32,
+      "title": "Charlie's Angels",
+      "original_air_date": "1976-09-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0073972/",
+      "imdb_id": "tt0073972",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels",
+          "revision": 1376981834
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0073972/"
+        }
+      ],
+      "rank": 9
+    },
+    {
+      "recommendation_rank": 36,
+      "title": "The Dukes of Hazzard",
+      "original_air_date": "1979-01-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0078607/",
+      "imdb_id": "tt0078607",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Dukes_of_Hazzard",
+          "revision": 1374472555
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0078607/"
+        }
+      ],
+      "rank": 10
+    },
+    {
+      "recommendation_rank": 46,
+      "title": "The Price Is Right",
+      "original_air_date": "1972-09-04",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0068120/",
+      "imdb_id": "tt0068120",
+      "edition": "1972 revival beginning with Bob Barker. This is a distinct format and series from the approved 1956 Bill Cullen edition.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Price_Is_Right",
+          "revision": 1380649859
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0068120/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1972-09-04/ongoing",
+        "assessment": "The 1972 revival itself exceeds five seasons.",
+        "source": "https://en.wikipedia.org/wiki/The_Price_Is_Right"
+      },
+      "rank": 11
+    },
+    {
+      "recommendation_rank": 47,
+      "title": "Wheel of Fortune",
+      "original_air_date": "1975-01-06",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1577766/",
+      "imdb_id": "tt1577766",
+      "edition": "Original 1975 network daytime series, beginning with Chuck Woolery. The separately indexed 1983 syndicated edition is not this entry.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29",
+          "revision": 1380636230
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1577766/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1975-01-06/1991-09-20",
+        "assessment": "Original network daytime run exceeds five seasons without the 1983 syndicated edition.",
+        "source": "https://en.wikipedia.org/wiki/Wheel_of_Fortune_%28American_game_show%29"
+      },
+      "rank": 12
+    },
+    {
+      "recommendation_rank": 48,
+      "title": "Family Feud",
+      "original_air_date": "1976-07-12",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0073991/",
+      "imdb_id": "tt0073991",
+      "edition": "Original Richard Dawson ABC daytime edition, 1976–1985. Later revivals are separate editions.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Feud",
+          "revision": 1380741726
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0073991/"
+        }
+      ],
+      "game_show_eligibility": {
+        "more_than_five_seasons": true,
+        "qualifying_run": "1976-07-12/1985-06-14",
+        "assessment": "Nine seasons of the original ABC daytime run; no later revival seasons required.",
+        "source": "https://en.wikipedia.org/wiki/Family_Feud"
+      },
+      "rank": 13
+    }
+  ],
+  "user_review": {
+    "status": "reviewed",
+    "reviewed_on": "2026-10-17",
+    "original_batch_size": 50,
+    "approved_original_ranks": [
+      1,
+      2,
+      6,
+      18,
+      20,
+      23,
+      25,
+      31,
+      32,
+      36,
+      46,
+      47,
+      48
+    ],
+    "declined_count": 37,
+    "review_history": "reviews/1970s.json",
+    "original_batch_archive": "../RAW/1970s.md",
+    "standing_preferences": "preferences.json"
+  }
+}
