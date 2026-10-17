@@ -13,6 +13,7 @@ Each decade has a shared ceiling of 50 recommendations across all eligible forma
 ## Decades
 
 - [1950–1959 — 7 approved shows](decades/1950s.md)
+- [1960–1969 — 50 proposals awaiting review](proposals/1960s.md)
 
 The browsing lists contain only ranked show names linked to IMDb or another relevant series page. Original television premiere dates and source references are stored in [the catalogue data](data/1950s.json).
 
