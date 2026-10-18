@@ -12,5 +12,6 @@ Full recommendation batches are preserved here before applying an individual rev
 - [2000–2009 — third batch, picks 101–150](2000s-batch-3.md) · [original data and sources](data/2000s-batch-3.json)
 
 - [2010–2019 — yearly shortlist, 369 recommendations](2010s-by-year.md) · [debut years, decisions and sources](data/2010s-by-year.json)
+- [2010–2019 — subsequent additions, starting at pick 370](2010s-additions.md) · [debut years, review status and sources](data/2010s-additions.json)
 
 These are unchanged snapshots of the original proposals. Any pending-review status inside a snapshot describes its state when proposed. Current approved selections are listed in [the decade catalogues](../decades/), and the owner's decisions are recorded in [the review history](../data/reviews/). Other reviewers can make their own selections from the full batch.

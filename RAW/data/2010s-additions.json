@@ -1,0 +1,47 @@
+{
+  "decade": "2010–2019",
+  "format": "original_debut_year_shortlist_additions",
+  "status": "pending_review_additions_snapshot",
+  "prepared_on": "2026-10-18",
+  "original_snapshot": "2010s-by-year.json",
+  "original_snapshot_count": 369,
+  "addition_count": 1,
+  "combined_proposed_count": 370,
+  "combined_pending_count": 369,
+  "standing_approval_count": 1,
+  "shows": [
+    {
+      "title": "Skins",
+      "display_title": "Skins (US)",
+      "debut_year": 2011,
+      "original_air_date": "2011-01-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States",
+        "Canada"
+      ],
+      "imdb_id": "tt1755893",
+      "link": "https://www.imdb.com/title/tt1755893/",
+      "edition": "Distinct American-Canadian MTV remake of the British television series; one series entry, not a later season of the UK edition.",
+      "review_status": "pending",
+      "review_order": 370,
+      "addition_recorded_on": "2026-10-18",
+      "addition_reason": "Owner identified the US remake as an omission from the 2010s shortlist.",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Skins_(American_TV_series)"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1755893/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2008/skins"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/2008"
+        }
+      ]
+    }
+  ]
+}
