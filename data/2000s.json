@@ -2,8 +2,8 @@
   "decade": "2000–2009",
   "selection_limit": null,
   "review_batch_size": 50,
-  "selected_count": 138,
-  "ranking": "User-approved titles in original recommendation order across the first three batches.",
+  "selected_count": 140,
+  "ranking": "Owner-approved titles in original recommendation order, followed by eligible standing-preference approvals from the gap review.",
   "shows": [
     {
       "recommendation_rank": 1,
@@ -3872,6 +3872,82 @@
         "2005-04-06"
       ],
       "rank": 138
+    },
+    {
+      "title": "All Star Family Fortunes",
+      "debut_year": 2006,
+      "original_air_date": "2006-10-28",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "imdb_id": "tt1307479",
+      "link": "https://www.imdb.com/title/tt1307479/",
+      "edition": "Distinct original television series or eligible edition.",
+      "review_status": "approved",
+      "discovery_basis": "Supplementary check for culturally prominent, British/Canadian or format-boundary titles; no numerical vote gate.",
+      "references": [
+        {
+          "url": "https://www.imdb.com/title/tt1307479/"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Family_Fortunes",
+          "revision": 1378879207
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q5433125"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/8264/all-star-family-fortunes"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/8264"
+        }
+      ],
+      "approval_basis": "Owner standing approval for future eligible Family Feud franchise editions.",
+      "franchise_title": "Family Feud",
+      "recommendation_rank": 510,
+      "more_than_five_edition_seasons_confirmed": true,
+      "rank": 139
+    },
+    {
+      "title": "Celebrity Family Feud",
+      "debut_year": 2008,
+      "original_air_date": "2008-06-24",
+      "category": "game_show",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "imdb_id": "tt1249208",
+      "link": "https://www.imdb.com/title/tt1249208/",
+      "edition": "Distinct original television series or eligible edition.",
+      "review_status": "approved",
+      "discovery_basis": "Supplementary check for culturally prominent, British/Canadian or format-boundary titles; no numerical vote gate.",
+      "references": [
+        {
+          "url": "https://www.imdb.com/title/tt1249208/"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Celebrity_Family_Feud",
+          "revision": 1379358674
+        },
+        {
+          "url": "https://www.wikidata.org/wiki/Q5057729"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/16042/celebrity-family-feud"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/16042"
+        }
+      ],
+      "approval_basis": "Owner standing approval for future eligible Family Feud franchise editions.",
+      "franchise_title": "Family Feud",
+      "recommendation_rank": 663,
+      "more_than_five_edition_seasons_confirmed": true,
+      "rank": 140
     }
   ],
   "user_review": {

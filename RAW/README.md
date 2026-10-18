@@ -10,6 +10,7 @@ Full recommendation batches are preserved here before applying an individual rev
 - [2000–2009 — first batch, picks 1–50](2000s.md) · [original data and sources](data/2000s.json)
 - [2000–2009 — second batch, picks 51–100](2000s-batch-2.md) · [original data and sources](data/2000s-batch-2.json)
 - [2000–2009 — third batch, picks 101–150](2000s-batch-3.md) · [original data and sources](data/2000s-batch-3.json)
+- [2000–2009 — gap-audit additions, picks 151–760](2000s-gap-audit.md) · [debut dates, identities and sources](data/2000s-gap-audit.json)
 
 - [2010–2019 — yearly shortlist, 369 recommendations](2010s-by-year.md) · [debut years, decisions and sources](data/2010s-by-year.json)
 - [2010–2019 — subsequent additions, starting at pick 370](2010s-additions.md) · [debut years, review status and sources](data/2010s-additions.json)

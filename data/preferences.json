@@ -63,6 +63,14 @@
       "2000–2009",
       "2010–2019"
     ],
-    "limit_mode": "no_fixed_quota_for_yearly_reviews"
+    "limit_mode": "no_fixed_quota_for_yearly_reviews",
+    "last_2000s_gap_audit": {
+      "date": "2026-10-18",
+      "imdb_discovery_vote_minimum": 2000,
+      "no_rating_quality_cutoff": true,
+      "lower_vote_prominent_titles_also_checked": true,
+      "audit": "audits/2000s-coverage-2026-10-18.json",
+      "note": "Votes are an audience-interest proxy, not viewer totals or a strict eligibility minimum."
+    }
   }
 }
