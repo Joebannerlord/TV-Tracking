@@ -1,7 +1,7 @@
 {
   "decade": "2000–2009",
   "batch_number": 3,
-  "status": "pending_user_review",
+  "status": "reviewed",
   "selection_limit": 150,
   "review_batch_size": 50,
   "original_batch_size": 50,
@@ -10,8 +10,8 @@
     "last": 150
   },
   "proposed_count": 50,
-  "approved_count": 0,
-  "pending_count": 50,
+  "approved_count": 38,
+  "pending_count": 0,
   "prepared_on": "2026-10-17",
   "ranking": "Editorial recommendation order continuing the first two 2000s batches. Numbers 101–150 remain stable for all reviewers.",
   "selection_criteria": [
@@ -40,7 +40,7 @@
       "link": "https://www.imdb.com/title/tt0410975/",
       "imdb_id": "tt0410975",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Desperate_Housewives",
@@ -69,7 +69,7 @@
       "link": "https://www.imdb.com/title/tt0439100/",
       "imdb_id": "tt0439100",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Weeds_(TV_series)",
@@ -102,7 +102,7 @@
       "link": "https://www.imdb.com/title/tt0904208/",
       "imdb_id": "tt0904208",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Californication_(TV_series)",
@@ -131,7 +131,7 @@
       "link": "https://www.imdb.com/title/tt0387199/",
       "imdb_id": "tt0387199",
       "edition": "Original television series; the later standalone Entourage movie is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Entourage_(American_TV_series)",
@@ -154,7 +154,7 @@
       "link": "https://www.imdb.com/title/tt0361217/",
       "imdb_id": "tt0361217",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Nip%2FTuck",
@@ -177,7 +177,7 @@
       "link": "https://www.imdb.com/title/tt0381798/",
       "imdb_id": "tt0381798",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Rescue_Me_(American_TV_series)",
@@ -200,7 +200,7 @@
       "link": "https://www.imdb.com/title/tt0914387/",
       "imdb_id": "tt0914387",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Damages_(TV_series)",
@@ -229,7 +229,7 @@
       "link": "https://www.imdb.com/title/tt0421030/",
       "imdb_id": "tt0421030",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Big_Love",
@@ -252,7 +252,7 @@
       "link": "https://www.imdb.com/title/tt0362359/",
       "imdb_id": "tt0362359",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_O.C.",
@@ -275,7 +275,7 @@
       "link": "https://www.imdb.com/title/tt0368530/",
       "imdb_id": "tt0368530",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/One_Tree_Hill_(TV_series)",
@@ -298,7 +298,7 @@
       "link": "https://www.imdb.com/title/tt0397442/",
       "imdb_id": "tt0397442",
       "edition": "Original live-action edition; the later Gossip Girl reboot is a separate series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Gossip_Girl",
@@ -327,7 +327,7 @@
       "link": "https://www.imdb.com/title/tt1442464/",
       "imdb_id": "tt1442464",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Middle_(TV_series)",
@@ -350,7 +350,7 @@
       "link": "https://www.imdb.com/title/tt1441109/",
       "imdb_id": "tt1441109",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Cougar_Town",
@@ -373,7 +373,7 @@
       "link": "https://www.imdb.com/title/tt0805669/",
       "imdb_id": "tt0805669",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Ugly_Betty",
@@ -396,7 +396,7 @@
       "link": "https://www.imdb.com/title/tt0284722/",
       "imdb_id": "tt0284722",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Reba_(TV_series)",
@@ -425,7 +425,7 @@
       "link": "https://www.imdb.com/title/tt0310460/",
       "imdb_id": "tt0310460",
       "edition": "Original scripted sitcom; the later talk show is excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/George_Lopez_(TV_series)",
@@ -448,7 +448,7 @@
       "link": "https://www.imdb.com/title/tt0285341/",
       "imdb_id": "tt0285341",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Bernie_Mac_Show",
@@ -471,7 +471,7 @@
       "link": "https://www.imdb.com/title/tt0312081/",
       "imdb_id": "tt0312081",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/8_Simple_Rules",
@@ -500,7 +500,7 @@
       "link": "https://www.imdb.com/title/tt0790772/",
       "imdb_id": "tt0790772",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Rules_of_Engagement_(TV_series)",
@@ -529,7 +529,7 @@
       "link": "https://www.imdb.com/title/tt0433309/",
       "imdb_id": "tt0433309",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Numbers_(TV_series)",
@@ -558,7 +558,7 @@
       "link": "https://www.imdb.com/title/tt0321021/",
       "imdb_id": "tt0321021",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Without_a_Trace",
@@ -587,7 +587,7 @@
       "link": "https://www.imdb.com/title/tt0348913/",
       "imdb_id": "tt0348913",
       "edition": "Original television series; the standalone Dead Like Me movie is excluded.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Dead_Like_Me",
@@ -616,7 +616,7 @@
       "link": "https://www.imdb.com/title/tt0925266/",
       "imdb_id": "tt0925266",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Pushing_Daisies",
@@ -645,7 +645,7 @@
       "link": "https://www.imdb.com/title/tt1235547/",
       "imdb_id": "tt1235547",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Better_Off_Ted",
@@ -674,7 +674,7 @@
       "link": "https://www.imdb.com/title/tt1073507/",
       "imdb_id": "tt1073507",
       "edition": "Original scripted series including its continuing revival season as one edition.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Party_Down",
@@ -703,7 +703,7 @@
       "link": "https://www.imdb.com/title/tt0863046/",
       "imdb_id": "tt0863046",
       "edition": "Scripted live-action musical sitcom.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)",
@@ -732,7 +732,7 @@
       "link": "https://www.imdb.com/title/tt0866442/",
       "imdb_id": "tt0866442",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Eastbound_%26_Down",
@@ -761,7 +761,7 @@
       "link": "https://www.imdb.com/title/tt1135300/",
       "imdb_id": "tt1135300",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Dollhouse_(TV_series)",
@@ -790,7 +790,7 @@
       "link": "https://www.imdb.com/title/tt1441135/",
       "imdb_id": "tt1441135",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/FlashForward",
@@ -819,7 +819,7 @@
       "link": "https://www.imdb.com/title/tt1307824/",
       "imdb_id": "tt1307824",
       "edition": "Live-action reboot; separate from the earlier V miniseries and television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/V_(2009_TV_series)",
@@ -849,7 +849,7 @@
       "link": "https://www.imdb.com/title/tt0756509/",
       "imdb_id": "tt0756509",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Kyle_XY",
@@ -878,7 +878,7 @@
       "link": "https://www.imdb.com/title/tt0955322/",
       "imdb_id": "tt0955322",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Reaper_(TV_series)",
@@ -907,7 +907,7 @@
       "link": "https://www.imdb.com/title/tt0844653/",
       "imdb_id": "tt0844653",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Legend_of_the_Seeker",
@@ -936,7 +936,7 @@
       "link": "https://www.imdb.com/title/tt0862620/",
       "imdb_id": "tt0862620",
       "edition": "Live-action Doctor Who spinoff including the broadcast pilot as one series edition.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Sarah_Jane_Adventures",
@@ -965,7 +965,7 @@
       "link": "https://www.imdb.com/title/tt1008108/",
       "imdb_id": "tt1008108",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Ashes_to_Ashes_(British_TV_series)",
@@ -994,7 +994,7 @@
       "link": "https://www.imdb.com/title/tt0408381/",
       "imdb_id": "tt0408381",
       "edition": "Live-action television series. The earlier standalone Doc Martin TV movies are excluded.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Doc_Martin",
@@ -1023,7 +1023,7 @@
       "link": "https://www.imdb.com/title/tt0310455/",
       "imdb_id": "tt0310455",
       "edition": "Original live-action television series.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Foyle%27s_War",
@@ -1052,7 +1052,7 @@
       "link": "https://www.imdb.com/title/tt0362357/",
       "imdb_id": "tt0362357",
       "edition": "Original live-action series including its broadcast pilot as one edition.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/New_Tricks",
@@ -1082,7 +1082,7 @@
       "link": "https://www.imdb.com/title/tt0289830/",
       "imdb_id": "tt0289830",
       "edition": "Ten-episode science-fiction miniseries. Unrelated Taken movies and later television series are separate works.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Taken_(miniseries)",
@@ -1112,7 +1112,7 @@
       "link": "https://www.imdb.com/title/tt0830361/",
       "imdb_id": "tt0830361",
       "edition": "Three-part television miniseries with feature-length episodes.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Lost_Room",
@@ -1143,7 +1143,7 @@
       "link": "https://www.imdb.com/title/tt0207275/",
       "imdb_id": "tt0207275",
       "edition": "Five-part live-action television miniseries.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_10th_Kingdom",
@@ -1174,7 +1174,7 @@
       "link": "https://www.imdb.com/title/tt0142032/",
       "imdb_id": "tt0142032",
       "edition": "Three-part live-action television miniseries; standalone Dune feature films are excluded.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Frank_Herbert%27s_Dune",
@@ -1205,7 +1205,7 @@
       "link": "https://www.imdb.com/title/tt0287839/",
       "imdb_id": "tt0287839",
       "edition": "Three-part live-action television miniseries, a distinct sequel series to the Dune miniseries.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Frank_Herbert%27s_Children_of_Dune",
@@ -1234,7 +1234,7 @@
       "link": "https://www.imdb.com/title/tt0318997/",
       "imdb_id": "tt0318997",
       "edition": "Six-episode live-action television miniseries.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Angels_in_America_(miniseries)",
@@ -1257,7 +1257,7 @@
       "link": "https://www.imdb.com/title/tt0417349/",
       "imdb_id": "tt0417349",
       "edition": "Four-part BBC television adaptation of Elizabeth Gaskell's novel; a distinct work from the American Civil War series with a similar title.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/North_%26_South_(TV_serial)",
@@ -1281,7 +1281,7 @@
       "link": "https://www.imdb.com/title/tt1442550/",
       "imdb_id": "tt1442550",
       "edition": "Original American reality competition; individual seasons and regional adaptations are not duplicated here.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Shark_Tank",
@@ -1304,7 +1304,7 @@
       "link": "https://www.imdb.com/title/tt0446809/",
       "imdb_id": "tt0446809",
       "edition": "Occupational reality series about commercial fishing crews.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Deadliest_Catch",
@@ -1327,7 +1327,7 @@
       "link": "https://www.imdb.com/title/tt0458259/",
       "imdb_id": "tt0458259",
       "edition": "One series edition including the three 2003 pilot episodes and the ensuing regular series. The separate IMDb pilot record is retained as a source.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Dirty_Jobs",
@@ -1357,7 +1357,7 @@
       "link": "https://www.imdb.com/title/tt0770659/",
       "imdb_id": "tt0770659",
       "edition": "Original Canadian survival docuseries; later spinoffs and specials do not duplicate this edition.",
-      "review_status": "pending",
+      "review_status": "approved",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/Survivorman",
@@ -1400,7 +1400,7 @@
       "link": "https://www.imdb.com/title/tt0364174/",
       "imdb_id": "tt0364174",
       "edition": "Original BBC nature docuseries; alternative narrators or regional broadcast edits do not create extra entries.",
-      "review_status": "pending",
+      "review_status": "declined",
       "references": [
         {
           "url": "https://en.wikipedia.org/wiki/The_Life_of_Mammals",
@@ -1417,5 +1417,7 @@
         }
       ]
     }
-  ]
+  ],
+  "reviewed_on": "2026-10-18",
+  "declined_count": 12
 }

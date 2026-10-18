@@ -1,9 +1,9 @@
 {
   "decade": "2000–2009",
-  "selection_limit": 150,
+  "selection_limit": null,
   "review_batch_size": 50,
-  "selected_count": 100,
-  "ranking": "User-approved titles in original recommendation order across two 50-title batches.",
+  "selected_count": 138,
+  "ranking": "User-approved titles in original recommendation order across the first three batches.",
   "shows": [
     {
       "recommendation_rank": 1,
@@ -2783,6 +2783,1095 @@
       ],
       "display_title": "Life (BBC docuseries)",
       "rank": 100
+    },
+    {
+      "recommendation_rank": 101,
+      "title": "Desperate Housewives",
+      "original_air_date": "2004-10-03",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0410975/",
+      "imdb_id": "tt0410975",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Desperate_Housewives",
+          "revision": 1378349450
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0410975/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/550/desperate-housewives"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/550"
+        }
+      ],
+      "rank": 101
+    },
+    {
+      "recommendation_rank": 102,
+      "title": "Weeds",
+      "original_air_date": "2005-08-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0439100/",
+      "imdb_id": "tt0439100",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Weeds_(TV_series)",
+          "revision": 1377269205
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0439100/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/160/weeds"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/160"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0439100/episodes/"
+        }
+      ],
+      "original_air_date_note": "IMDb and TVmaze agree on the 2005-08-07 premiere; the cited Wikipedia revision gives 2005-08-08.",
+      "rank": 102
+    },
+    {
+      "recommendation_rank": 103,
+      "title": "Californication",
+      "original_air_date": "2007-08-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0904208/",
+      "imdb_id": "tt0904208",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Californication_(TV_series)",
+          "revision": 1376196657
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0904208/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/28/californication"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/28"
+        }
+      ],
+      "rank": 103
+    },
+    {
+      "recommendation_rank": 104,
+      "title": "Entourage",
+      "original_air_date": "2004-07-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0387199/",
+      "imdb_id": "tt0387199",
+      "edition": "Original television series; the later standalone Entourage movie is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Entourage_(American_TV_series)",
+          "revision": 1380629447
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0387199/"
+        }
+      ],
+      "rank": 104
+    },
+    {
+      "recommendation_rank": 105,
+      "title": "Nip/Tuck",
+      "original_air_date": "2003-07-22",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0361217/",
+      "imdb_id": "tt0361217",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Nip%2FTuck",
+          "revision": 1374491433
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0361217/"
+        }
+      ],
+      "rank": 105
+    },
+    {
+      "recommendation_rank": 107,
+      "title": "Damages",
+      "original_air_date": "2007-07-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0914387/",
+      "imdb_id": "tt0914387",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Damages_(TV_series)",
+          "revision": 1376645030
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0914387/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/679/damages"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/679"
+        }
+      ],
+      "rank": 106
+    },
+    {
+      "recommendation_rank": 108,
+      "title": "Big Love",
+      "original_air_date": "2006-03-12",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0421030/",
+      "imdb_id": "tt0421030",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Big_Love",
+          "revision": 1379155429
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0421030/"
+        }
+      ],
+      "rank": 107
+    },
+    {
+      "recommendation_rank": 109,
+      "title": "The O.C.",
+      "original_air_date": "2003-08-05",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0362359/",
+      "imdb_id": "tt0362359",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_O.C.",
+          "revision": 1372808110
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0362359/"
+        }
+      ],
+      "rank": 108
+    },
+    {
+      "recommendation_rank": 110,
+      "title": "One Tree Hill",
+      "original_air_date": "2003-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0368530/",
+      "imdb_id": "tt0368530",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/One_Tree_Hill_(TV_series)",
+          "revision": 1374539457
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0368530/"
+        }
+      ],
+      "rank": 109
+    },
+    {
+      "recommendation_rank": 111,
+      "title": "Gossip Girl",
+      "original_air_date": "2007-09-19",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0397442/",
+      "imdb_id": "tt0397442",
+      "edition": "Original live-action edition; the later Gossip Girl reboot is a separate series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Gossip_Girl",
+          "revision": 1379985041
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0397442/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/567/gossip-girl"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/567"
+        }
+      ],
+      "rank": 110
+    },
+    {
+      "recommendation_rank": 112,
+      "title": "The Middle",
+      "original_air_date": "2009-09-30",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1442464/",
+      "imdb_id": "tt1442464",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Middle_(TV_series)",
+          "revision": 1378214574
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1442464/"
+        }
+      ],
+      "rank": 111
+    },
+    {
+      "recommendation_rank": 113,
+      "title": "Cougar Town",
+      "original_air_date": "2009-09-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1441109/",
+      "imdb_id": "tt1441109",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Cougar_Town",
+          "revision": 1378367593
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1441109/"
+        }
+      ],
+      "rank": 112
+    },
+    {
+      "recommendation_rank": 114,
+      "title": "Ugly Betty",
+      "original_air_date": "2006-09-28",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0805669/",
+      "imdb_id": "tt0805669",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ugly_Betty",
+          "revision": 1373808408
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0805669/"
+        }
+      ],
+      "rank": 113
+    },
+    {
+      "recommendation_rank": 115,
+      "title": "Reba",
+      "original_air_date": "2001-10-05",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0284722/",
+      "imdb_id": "tt0284722",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Reba_(TV_series)",
+          "revision": 1378744153
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0284722/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/944/reba"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/944"
+        }
+      ],
+      "rank": 114
+    },
+    {
+      "recommendation_rank": 116,
+      "title": "George Lopez",
+      "original_air_date": "2002-03-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0310460/",
+      "imdb_id": "tt0310460",
+      "edition": "Original scripted sitcom; the later talk show is excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/George_Lopez_(TV_series)",
+          "revision": 1378088310
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0310460/"
+        }
+      ],
+      "rank": 115
+    },
+    {
+      "recommendation_rank": 117,
+      "title": "The Bernie Mac Show",
+      "original_air_date": "2001-11-14",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0285341/",
+      "imdb_id": "tt0285341",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Bernie_Mac_Show",
+          "revision": 1379687985
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0285341/"
+        }
+      ],
+      "rank": 116
+    },
+    {
+      "recommendation_rank": 118,
+      "title": "8 Simple Rules",
+      "original_air_date": "2002-09-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0312081/",
+      "imdb_id": "tt0312081",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/8_Simple_Rules",
+          "revision": 1380493993
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0312081/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/984/8-simple-rules"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/984"
+        }
+      ],
+      "rank": 117
+    },
+    {
+      "recommendation_rank": 119,
+      "title": "Rules of Engagement",
+      "original_air_date": "2007-02-05",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0790772/",
+      "imdb_id": "tt0790772",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Rules_of_Engagement_(TV_series)",
+          "revision": 1373398495
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0790772/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/720/rules-of-engagement"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/720"
+        }
+      ],
+      "rank": 118
+    },
+    {
+      "recommendation_rank": 120,
+      "title": "Numb3rs",
+      "original_air_date": "2005-01-23",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0433309/",
+      "imdb_id": "tt0433309",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Numbers_(TV_series)",
+          "revision": 1371428865
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0433309/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/682/numb3rs"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/682"
+        }
+      ],
+      "rank": 119
+    },
+    {
+      "recommendation_rank": 121,
+      "title": "Without a Trace",
+      "original_air_date": "2002-09-26",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0321021/",
+      "imdb_id": "tt0321021",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Without_a_Trace",
+          "revision": 1377050549
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0321021/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/813/without-a-trace"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/813"
+        }
+      ],
+      "rank": 120
+    },
+    {
+      "recommendation_rank": 124,
+      "title": "Better Off Ted",
+      "original_air_date": "2009-03-18",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1235547/",
+      "imdb_id": "tt1235547",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Better_Off_Ted",
+          "revision": 1377903254
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1235547/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/769/better-off-ted"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/769"
+        }
+      ],
+      "rank": 121
+    },
+    {
+      "recommendation_rank": 125,
+      "title": "Party Down",
+      "original_air_date": "2009-03-20",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1073507/",
+      "imdb_id": "tt1073507",
+      "edition": "Original scripted series including its continuing revival season as one edition.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Party_Down",
+          "revision": 1380390683
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1073507/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1137/party-down"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1137"
+        }
+      ],
+      "rank": 122
+    },
+    {
+      "recommendation_rank": 126,
+      "title": "Flight of the Conchords",
+      "original_air_date": "2007-06-17",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0863046/",
+      "imdb_id": "tt0863046",
+      "edition": "Scripted live-action musical sitcom.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)",
+          "revision": 1368576777
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0863046/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/994/flight-of-the-conchords"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/994"
+        }
+      ],
+      "rank": 123
+    },
+    {
+      "recommendation_rank": 127,
+      "title": "Eastbound & Down",
+      "original_air_date": "2009-02-15",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0866442/",
+      "imdb_id": "tt0866442",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Eastbound_%26_Down",
+          "revision": 1377957690
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0866442/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1141/eastbound-down"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1141"
+        }
+      ],
+      "rank": 124
+    },
+    {
+      "recommendation_rank": 128,
+      "title": "Dollhouse",
+      "original_air_date": "2009-02-13",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1135300/",
+      "imdb_id": "tt1135300",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dollhouse_(TV_series)",
+          "revision": 1374358946
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1135300/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/432/dollhouse"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/432"
+        }
+      ],
+      "rank": 125
+    },
+    {
+      "recommendation_rank": 129,
+      "title": "FlashForward",
+      "original_air_date": "2009-09-24",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1441135/",
+      "imdb_id": "tt1441135",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/FlashForward",
+          "revision": 1378378608
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1441135/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/458/flashforward"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/458"
+        }
+      ],
+      "rank": 126
+    },
+    {
+      "recommendation_rank": 132,
+      "title": "Reaper",
+      "original_air_date": "2007-09-25",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0955322/",
+      "imdb_id": "tt0955322",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Reaper_(TV_series)",
+          "revision": 1376237432
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0955322/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/815/reaper"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/815"
+        }
+      ],
+      "rank": 127
+    },
+    {
+      "recommendation_rank": 133,
+      "title": "Legend of the Seeker",
+      "original_air_date": "2008-11-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0844653/",
+      "imdb_id": "tt0844653",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Legend_of_the_Seeker",
+          "revision": 1377073032
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0844653/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/461/legend-of-the-seeker"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/461"
+        }
+      ],
+      "rank": 128
+    },
+    {
+      "recommendation_rank": 134,
+      "title": "The Sarah Jane Adventures",
+      "original_air_date": "2007-01-01",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0862620/",
+      "imdb_id": "tt0862620",
+      "edition": "Live-action Doctor Who spinoff including the broadcast pilot as one series edition.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/The_Sarah_Jane_Adventures",
+          "revision": 1380068370
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0862620/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/970/the-sarah-jane-adventures"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/970"
+        }
+      ],
+      "rank": 129
+    },
+    {
+      "recommendation_rank": 135,
+      "title": "Ashes to Ashes",
+      "original_air_date": "2008-02-07",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt1008108/",
+      "imdb_id": "tt1008108",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Ashes_to_Ashes_(British_TV_series)",
+          "revision": 1376294477
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1008108/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/2015/ashes-to-ashes"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/2015"
+        }
+      ],
+      "rank": 130
+    },
+    {
+      "recommendation_rank": 136,
+      "title": "Doc Martin",
+      "original_air_date": "2004-09-02",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0408381/",
+      "imdb_id": "tt0408381",
+      "edition": "Live-action television series. The earlier standalone Doc Martin TV movies are excluded.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Doc_Martin",
+          "revision": 1375565756
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0408381/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/990/doc-martin"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/990"
+        }
+      ],
+      "rank": 131
+    },
+    {
+      "recommendation_rank": 137,
+      "title": "Foyle's War",
+      "original_air_date": "2002-10-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0310455/",
+      "imdb_id": "tt0310455",
+      "edition": "Original live-action television series.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Foyle%27s_War",
+          "revision": 1379345519
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0310455/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1272/foyles-war"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1272"
+        }
+      ],
+      "rank": 132
+    },
+    {
+      "recommendation_rank": 138,
+      "title": "New Tricks",
+      "original_air_date": "2003-03-27",
+      "category": "scripted_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United Kingdom"
+      ],
+      "link": "https://www.imdb.com/title/tt0362357/",
+      "imdb_id": "tt0362357",
+      "edition": "Original live-action series including its broadcast pilot as one edition.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/New_Tricks",
+          "revision": 1380092092
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0362357/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/276/new-tricks"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/276"
+        }
+      ],
+      "original_air_date_note": "Includes the broadcast pilot on 2003-03-27. The regular series began on 2004-04-01; the pilot is not a separate title.",
+      "rank": 133
+    },
+    {
+      "recommendation_rank": 139,
+      "title": "Taken",
+      "original_air_date": "2002-12-02",
+      "category": "miniseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0289830/",
+      "imdb_id": "tt0289830",
+      "edition": "Ten-episode science-fiction miniseries. Unrelated Taken movies and later television series are separate works.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Taken_(miniseries)",
+          "revision": 1377050600
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0289830/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1889/taken"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1889"
+        }
+      ],
+      "display_title": "Taken (miniseries)",
+      "rank": 134
+    },
+    {
+      "recommendation_rank": 146,
+      "title": "Shark Tank",
+      "original_air_date": "2009-08-09",
+      "category": "reality_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt1442550/",
+      "imdb_id": "tt1442550",
+      "edition": "Original American reality competition; individual seasons and regional adaptations are not duplicated here.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Shark_Tank",
+          "revision": 1379634908
+        },
+        {
+          "url": "https://www.imdb.com/title/tt1442550/"
+        }
+      ],
+      "rank": 135
+    },
+    {
+      "recommendation_rank": 147,
+      "title": "Deadliest Catch",
+      "original_air_date": "2005-04-12",
+      "category": "reality_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0446809/",
+      "imdb_id": "tt0446809",
+      "edition": "Occupational reality series about commercial fishing crews.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Deadliest_Catch",
+          "revision": 1376886619
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0446809/"
+        }
+      ],
+      "rank": 136
+    },
+    {
+      "recommendation_rank": 148,
+      "title": "Dirty Jobs",
+      "original_air_date": "2003-11-07",
+      "category": "reality_series",
+      "original_language": "English",
+      "countries_of_origin": [
+        "United States"
+      ],
+      "link": "https://www.imdb.com/title/tt0458259/",
+      "imdb_id": "tt0458259",
+      "edition": "One series edition including the three 2003 pilot episodes and the ensuing regular series. The separate IMDb pilot record is retained as a source.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Dirty_Jobs",
+          "revision": 1377052960
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0458259/"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0404595/"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0404595/episodes/"
+        }
+      ],
+      "original_air_date_note": "Uses the first broadcast pilot on 2003-11-07. The regular series began on 2005-07-26; one catalogue entry covers the same series edition.",
+      "rank": 137
+    },
+    {
+      "recommendation_rank": 149,
+      "title": "Survivorman",
+      "original_air_date": "2004-10-13",
+      "category": "docuseries",
+      "original_language": "English",
+      "countries_of_origin": [
+        "Canada"
+      ],
+      "link": "https://www.imdb.com/title/tt0770659/",
+      "imdb_id": "tt0770659",
+      "edition": "Original Canadian survival docuseries; later spinoffs and specials do not duplicate this edition.",
+      "review_status": "approved",
+      "references": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Survivorman",
+          "revision": 1377409404
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0770659/"
+        },
+        {
+          "url": "https://www.tvmaze.com/shows/1604/survivorman"
+        },
+        {
+          "url": "https://api.tvmaze.com/shows/1604"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_Survivorman_episodes"
+        },
+        {
+          "url": "https://it.wikipedia.org/wiki/Il_sopravvissuto_(programma_televisivo)"
+        },
+        {
+          "url": "https://www.imdb.com/title/tt0770659/episodes/"
+        }
+      ],
+      "original_air_date_status": "provisional_conflicting_records",
+      "original_air_date_note": "The original Canadian run began in 2004. Regional programme records give 2004-10-13; English-language episode listings index 2005-04-06. The exact Canadian premiere needs primary-source confirmation; both dates are in this decade.",
+      "alternate_premiere_dates": [
+        "2005-04-06"
+      ],
+      "rank": 138
     }
   ],
   "user_review": {
@@ -2905,5 +3994,7 @@
       "../RAW/2000s-batch-2.md"
     ],
     "standing_preferences": "preferences.json"
-  }
+  },
+  "selection_limit_note": "Yearly relevance and gap reviews have no fixed numerical cap; 150 was the limit for the original three batches.",
+  "updated_on": "2026-10-18"
 }

@@ -1,5 +1,5 @@
 {
-  "updated_on": "2026-10-17",
+  "updated_on": "2026-10-18",
   "reviewer": "repository_owner",
   "automatic_approvals": [
     {
@@ -56,6 +56,13 @@
     "decade_limits": {
       "2000–2009": 150
     },
-    "notes": "After approving all first 100 titles, the owner requested broader consideration of the 2000s. The next review batch expands the candidate ceiling to 150. Limits are not quotas; preserve the same selection criteria. Archive each complete batch separately and continue stable recommendation numbers."
+    "notes": "The numerical decade limits above describe the original batches. The owner's later instructions supersede those limits for yearly shortlists and gap reviews. Include eligible titles with substantial audience or critical interest, respect approved and declined editions, and preserve original RAW batches and recommendation numbers.",
+    "active_review_format": "original_debut_year_shortlists",
+    "yearly_review_decades": [
+      "1990–1999",
+      "2000–2009",
+      "2010–2019"
+    ],
+    "limit_mode": "no_fixed_quota_for_yearly_reviews"
   }
 }

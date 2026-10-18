@@ -1,4 +1,6 @@
-# 2000–2009 — picks 101–150
+# 2000–2009 — picks 101–150 (reviewed)
+
+38 approved, 12 declined; no decisions pending in this batch. [Review history](../data/reviews/2000s-batch-3.json) · [original complete RAW batch](../RAW/2000s-batch-3.md).
 
 101. [Desperate Housewives](https://www.imdb.com/title/tt0410975/)
 102. [Weeds](https://www.imdb.com/title/tt0439100/)

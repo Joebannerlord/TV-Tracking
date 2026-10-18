@@ -1,7 +1,7 @@
 {
   "decade": "2000–2009",
   "batch_number": 3,
-  "status": "pending_user_review",
+  "status": "reviewed",
   "reviewer": "repository_owner",
   "original_batch_size": 50,
   "recommendation_rank_range": {
@@ -10,11 +10,50 @@
   },
   "original_batch_archive": "../../RAW/2000s-batch-3.md",
   "original_data_archive": "../../RAW/data/2000s-batch-3.json",
-  "approved_original_ranks": [],
+  "approved_original_ranks": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    146,
+    147,
+    148,
+    149
+  ],
   "automatic_approved_original_ranks": [],
-  "approved_count": 0,
-  "declined_count": 0,
-  "pending_count": 50,
+  "approved_count": 38,
+  "declined_count": 12,
+  "pending_count": 0,
   "standing_preferences": "../preferences.json",
   "decisions": [
     {
@@ -22,350 +61,367 @@
       "title": "Desperate Housewives",
       "imdb_id": "tt0410975",
       "link": "https://www.imdb.com/title/tt0410975/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 102,
       "title": "Weeds",
       "imdb_id": "tt0439100",
       "link": "https://www.imdb.com/title/tt0439100/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 103,
       "title": "Californication",
       "imdb_id": "tt0904208",
       "link": "https://www.imdb.com/title/tt0904208/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 104,
       "title": "Entourage",
       "imdb_id": "tt0387199",
       "link": "https://www.imdb.com/title/tt0387199/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 105,
       "title": "Nip/Tuck",
       "imdb_id": "tt0361217",
       "link": "https://www.imdb.com/title/tt0361217/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 106,
       "title": "Rescue Me",
       "imdb_id": "tt0381798",
       "link": "https://www.imdb.com/title/tt0381798/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 107,
       "title": "Damages",
       "imdb_id": "tt0914387",
       "link": "https://www.imdb.com/title/tt0914387/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 108,
       "title": "Big Love",
       "imdb_id": "tt0421030",
       "link": "https://www.imdb.com/title/tt0421030/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 109,
       "title": "The O.C.",
       "imdb_id": "tt0362359",
       "link": "https://www.imdb.com/title/tt0362359/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 110,
       "title": "One Tree Hill",
       "imdb_id": "tt0368530",
       "link": "https://www.imdb.com/title/tt0368530/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 111,
       "title": "Gossip Girl",
       "imdb_id": "tt0397442",
       "link": "https://www.imdb.com/title/tt0397442/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 112,
       "title": "The Middle",
       "imdb_id": "tt1442464",
       "link": "https://www.imdb.com/title/tt1442464/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 113,
       "title": "Cougar Town",
       "imdb_id": "tt1441109",
       "link": "https://www.imdb.com/title/tt1441109/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 114,
       "title": "Ugly Betty",
       "imdb_id": "tt0805669",
       "link": "https://www.imdb.com/title/tt0805669/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 115,
       "title": "Reba",
       "imdb_id": "tt0284722",
       "link": "https://www.imdb.com/title/tt0284722/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 116,
       "title": "George Lopez",
       "imdb_id": "tt0310460",
       "link": "https://www.imdb.com/title/tt0310460/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 117,
       "title": "The Bernie Mac Show",
       "imdb_id": "tt0285341",
       "link": "https://www.imdb.com/title/tt0285341/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 118,
       "title": "8 Simple Rules",
       "imdb_id": "tt0312081",
       "link": "https://www.imdb.com/title/tt0312081/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 119,
       "title": "Rules of Engagement",
       "imdb_id": "tt0790772",
       "link": "https://www.imdb.com/title/tt0790772/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 120,
       "title": "Numb3rs",
       "imdb_id": "tt0433309",
       "link": "https://www.imdb.com/title/tt0433309/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 121,
       "title": "Without a Trace",
       "imdb_id": "tt0321021",
       "link": "https://www.imdb.com/title/tt0321021/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 122,
       "title": "Dead Like Me",
       "imdb_id": "tt0348913",
       "link": "https://www.imdb.com/title/tt0348913/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 123,
       "title": "Pushing Daisies",
       "imdb_id": "tt0925266",
       "link": "https://www.imdb.com/title/tt0925266/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 124,
       "title": "Better Off Ted",
       "imdb_id": "tt1235547",
       "link": "https://www.imdb.com/title/tt1235547/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 125,
       "title": "Party Down",
       "imdb_id": "tt1073507",
       "link": "https://www.imdb.com/title/tt1073507/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 126,
       "title": "Flight of the Conchords",
       "imdb_id": "tt0863046",
       "link": "https://www.imdb.com/title/tt0863046/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 127,
       "title": "Eastbound & Down",
       "imdb_id": "tt0866442",
       "link": "https://www.imdb.com/title/tt0866442/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 128,
       "title": "Dollhouse",
       "imdb_id": "tt1135300",
       "link": "https://www.imdb.com/title/tt1135300/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 129,
       "title": "FlashForward",
       "imdb_id": "tt1441135",
       "link": "https://www.imdb.com/title/tt1441135/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 130,
       "title": "V",
       "imdb_id": "tt1307824",
       "link": "https://www.imdb.com/title/tt1307824/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 131,
       "title": "Kyle XY",
       "imdb_id": "tt0756509",
       "link": "https://www.imdb.com/title/tt0756509/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 132,
       "title": "Reaper",
       "imdb_id": "tt0955322",
       "link": "https://www.imdb.com/title/tt0955322/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 133,
       "title": "Legend of the Seeker",
       "imdb_id": "tt0844653",
       "link": "https://www.imdb.com/title/tt0844653/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 134,
       "title": "The Sarah Jane Adventures",
       "imdb_id": "tt0862620",
       "link": "https://www.imdb.com/title/tt0862620/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 135,
       "title": "Ashes to Ashes",
       "imdb_id": "tt1008108",
       "link": "https://www.imdb.com/title/tt1008108/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 136,
       "title": "Doc Martin",
       "imdb_id": "tt0408381",
       "link": "https://www.imdb.com/title/tt0408381/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 137,
       "title": "Foyle's War",
       "imdb_id": "tt0310455",
       "link": "https://www.imdb.com/title/tt0310455/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 138,
       "title": "New Tricks",
       "imdb_id": "tt0362357",
       "link": "https://www.imdb.com/title/tt0362357/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 139,
       "title": "Taken",
       "imdb_id": "tt0289830",
       "link": "https://www.imdb.com/title/tt0289830/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 140,
       "title": "The Lost Room",
       "imdb_id": "tt0830361",
       "link": "https://www.imdb.com/title/tt0830361/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 141,
       "title": "The 10th Kingdom",
       "imdb_id": "tt0207275",
       "link": "https://www.imdb.com/title/tt0207275/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 142,
       "title": "Dune",
       "imdb_id": "tt0142032",
       "link": "https://www.imdb.com/title/tt0142032/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 143,
       "title": "Children of Dune",
       "imdb_id": "tt0287839",
       "link": "https://www.imdb.com/title/tt0287839/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 144,
       "title": "Angels in America",
       "imdb_id": "tt0318997",
       "link": "https://www.imdb.com/title/tt0318997/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 145,
       "title": "North & South",
       "imdb_id": "tt0417349",
       "link": "https://www.imdb.com/title/tt0417349/",
-      "decision": "pending"
+      "decision": "declined"
     },
     {
       "recommendation_rank": 146,
       "title": "Shark Tank",
       "imdb_id": "tt1442550",
       "link": "https://www.imdb.com/title/tt1442550/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 147,
       "title": "Deadliest Catch",
       "imdb_id": "tt0446809",
       "link": "https://www.imdb.com/title/tt0446809/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 148,
       "title": "Dirty Jobs",
       "imdb_id": "tt0458259",
       "link": "https://www.imdb.com/title/tt0458259/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 149,
       "title": "Survivorman",
       "imdb_id": "tt0770659",
       "link": "https://www.imdb.com/title/tt0770659/",
-      "decision": "pending"
+      "decision": "approved"
     },
     {
       "recommendation_rank": 150,
       "title": "The Life of Mammals",
       "imdb_id": "tt0364174",
       "link": "https://www.imdb.com/title/tt0364174/",
-      "decision": "pending"
+      "decision": "declined"
     }
+  ],
+  "reviewed_on": "2026-10-18",
+  "source_issue": "https://github.com/Joebannerlord/TV-Tracking/issues/1",
+  "source_instruction": "The owner stated that issue #1 was finished with their checks. Checked original entries are approved; unchecked original entries are declined.",
+  "declined_original_ranks": [
+    106,
+    122,
+    123,
+    130,
+    131,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    150
   ]
 }
